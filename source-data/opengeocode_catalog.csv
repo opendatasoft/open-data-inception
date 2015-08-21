@@ -1,0 +1,1487 @@
+Country, Government, Web, Site Name, Full Name, Portal Type, License, Latitude, Longitude
+United Nations,Division,data.un.org/DataMartInfo.aspx,UN Data,United Nations Data Mart, Data Portal,(Attribution),40.7490° N, 73.9680° W
+United Nations,Division,un.org/en/databases/,UN Data,UN databases,Data Portal,(non-commercial),40.7490° N, 73.9680° W
+United Nations,Division,developer.worldbank.org,World Bank,The World Bank for Developers,Data Portal,(Attribution),40.7490° N, 73.9680° W
+United Nations,Division,uis.unesco.org,UNESCO,UNESCO Institute for Statistics,Data Portal,,40.7490° N, 73.9680° W
+United Nations,Division,unstats.un.org,UNSD,United Nations Statistics Division,Census/Demographics,,40.7490° N, 73.9680° W
+United Nations,Division,unesco.org/culture/languages-atlas/index.php,UNESCO,UNESCO Atlas of the World's Languages in Danger,Census/Demographics,,40.7490° N, 73.9680°
+United Nations,Division,esa.un.org/unpd/wpp/,ESA,Department of Economic and Social Affairs,Census/Demographics,(Non-Commerical Use),40.7490° N, 73.9680° W
+United Nations,Division,uneca.org/acs,UNECA,UN Economic Commission for Africa - African Centre for Statistics,Census/Demographics,,40.7490° N, 73.9680° W
+United Nations,Division,unstats.un.org/unsd/geoinfo/ungegn/geonames.html,UNGEGN,United Nations Group of Experts on Geographical Names, GIS/Gazetteer,,40.7490° N, 73.9680° W
+United Nations,Division,unterm.un.org/dgaacs/unterm.nsf/8fa942046ff7601c85256983007ca4d8/$searchForm?SearchView,UN TERM,United Nations Multilingual Terminology Database,GIS/Gazetteer,,40.7490° N, 73.9680° W
+United Nations,Division,iscgm.org/gmd/,ISCGM,International Steering Committee for Global Mapping,GIS/Gazetteer,,40.7490° N, 73.9680°
+United Nations,Division,geomatics.nlr.nl/unsdi/srv,UNSDI-NCO,United Nations Spatial Data Infrastructure - Netherlands Coordination Office,GIS/Gazetteer,,40.7490° N, 73.9680° W
+United Nations,Division,undp.org/content/undp/en/home/librarypage/environment-energy/climate_change/adaptation/undp_climate_changecountryprofiles.html,Climate Data,UNDP Country Climate Data Profiles,Climate,(Non-Commerical Use),40.7490° N, 73.9680° W
+United Nations,Division,who.int/research/en/,WHO,World Health Organization,Health,(Public),40.7490° N, 73.9680° W
+United Nations,Division,apps.who.int/globalatlas/DataQuery,DenueNet,WHO DengueNet,Health,,40.7490° N, 73.9680° W
+United Nations,Division,unaids.org/en/dataanalysis/,UNAIDS,United Nations AIDS,Health,,40.7490° N, 73.9680° W
+United Nations,Division,faostat.fao.org/,FAOSTAT,Food & Agriculture Organization,Agriculture/Food, (Public),40.7490° N, 73.9680° W
+United Nations,Division,unicef.org/statistics/,UNICEF,UNICEF,Agriculture/Food,(Public),40.7490° N, 73.9680° W
+United Nations,Division,www.oecd.org/statistics/,OCED,Organisation for Economic Co-operation and Development,Commerce, (Copyright),40.7490° N, 73.9680° W
+United Nations,Division,stats.oecd.org/,OECD,Organization of Economic Cooperation and Development,Commerce,,40.7490° N, 73.9680° W
+United Nations,Division,data.worldbank.org/,World Bank,The World Bank,Development, (Attribution) ,40.7490° N, 73.9680° W
+United Nations,Division,open.undp.org,UNDP,United Nations Development Programme, Development,(Non-Commerical Use),40.7490° N, 73.9680° W
+United Nations,Division,geodata.grid.unep.ch,UNEP,United Nations Environment Programme,Environment,(Non-Commerical Use),40.7490° N, 73.9680° W
+United Nations,Division,oceandataportal.net/portal,IODE,UNESCO/International Oceanographic Data and Information Exchange - Ocean Data Portal,Environment,,40.7490° N, 73.9680° W
+United Nations,Division,agidata.org,AGI Data,World Bank - Actionable Governance Indicators,Transparency Portal,(Attribution),40.7490° N, 73.9680° W
+European Union,Project,open-data.europa.eu/en/data/,EU Open Data,European Open Data,Data Portal,(Attribution),50.8500° N, 4.3500° E
+European Union,Project,www.engagedata.eu/opendatasites,Engage,Engage European Open Data,Data Portal,,50.8500° N, 4.3500° E
+European Union,Project,semic.eu/semic/view/snav/assetRepository.xhtml,SEMIC.EU,Semantic Interoperability Centre Europe,Data Portal,,50.8500° N, 4.3500° E
+European Union,Project,eui.eu/Research/Library/ResearchGuides/Economics/Statistics/DataPortal/EUOpenDataPortal.aspx,EU Open Data,European University Institute: EU Open Data Portal,Data Portal,,50.8500° N, 4.3500° E
+European Union,Project,epp.eurostat.ec.europa.eu/portal/page/portal/statistics/themes,EC Eurostat,European Commission Eurostat,Data Portal,(Attribution),50.8500° N, 4.3500° E
+European Union,Project,eca.knmi.nl/,ECA&D,European Climate Assessment & Dataset,Climate,(Public),50.8500° N, 4.3500° E
+European Union,Project,sdw.ecb.europa.eu/,SDW,European Central Bank - Statistical Data Warehouse,Commerce,,,
+European Union,Project,opendata.cern.ch,CERN,CERN Open Data,Science,(Non-Commerical Use),46.2342° N, 6.0528° E
+European Union,Agency,gmesdata.esa.int,GMES Data,European Space Agency - Copernicus Space Component Data Access,Science,(Non-Commerical Use),50.8500° N, 4.3500° E
+European Union,Academic,europeansocialsurvey.org/data/,European Social Survey,ESS-ERIC,Census/Demographics,,50.8500° N, 4.3500° E 
+European Union,NGO,publicdata.eu/,PublicData.eu,Open Knowledge Foundation Open Data,Data Portal,,50.8500° N, 4.3500° E
+European Union,NGO,aegs.it,AEGS,Association of European Geological Societies,GIS/Gazetteer,,,
+International Organizations,NGO,aiddata.org,AID Data,AID Data,Aid,,38.8951° N, 77.0367° W
+International Organizations,NGO,iatiregistry.org,IATA,International Aid Transparency Association, Aid,,,
+International Organizations,NGO,www.fila-official.com/index.php?option=com_content&view=article&id=768&Itemid=100236&lang=en,FILA,International Federation of Associated Wrestling Styles,Sport,,46.4667° N, 6.8500° E
+International Organizations,NGO,epdc.org,EPDC,Education Policy and Data Center,Education,,38.8951° N, 77.0367° W
+International Organizations,NGO,iie.org/Research-and-Publications/Open-Doors/Data,IEE,Insititure of International Education, Education,,40.7127° N, 74.0059° W
+International Organizations,NGO,wmo.int,WMO,World Meteorological Society,Climate,,46.2000° N, 6.1500° E
+International Organizations,NGO,finclusionlab.org,FINclusionLab,FINclusionLab Microfinance Information Exchange,Commerce,(Non-Commerical Use),38.8951° N, 77.0367° W
+International Organizations,NGO,gadm.org,GADM,Global Administrative Areas,GIS/Gazetteer,,,
+International Organizations,NGO,iugs.org/,IUGS,International Union of Geological Scientists,GIS/Gazetteer,,,
+International Organizations,NGO,grain.org/article/entries/4479-grain-releases-data-set-with-over-400-global-land-grabs#,GRAIN,GRAIN,Agriculture/Food,(Public),41.3833° N, 2.1833° E
+International Organizations,NGO,godan.info/,GODAN,Global Open Data for Agriculture and Nutrition (GODAN),Agriculture/Food,,,
+International Organizations,NGO,censusmosaic.org/web/data,Census Mosaic,Mosaic Project,Census/Demographics,(Non-Commerical Use),54°5′38″N, 12°6′40″E
+International Organizations,NGO,ifpri.org/datasets,,International Food Policy Research Institute,Agriculture/Food,(Non-Commerical Use),38.8951° N, 77.0367° W
+International Organizations,Private,openei.org,OpenEI,Open Energy Information,Energy,,,
+International Organizations,Private,bis.org/statistics/,BIS,Bank for International Settlements Statistics,Commerce,,47.5667° N, 7.6000° E
+International Organizations,Private,imf.org/external/data.htm,IMF,International Monetary Fund - Data & Statistics,Commerce,(Non-Commerical Use),38.8951° N, 77.0367° W
+United States,Federal,www.data.gov,Data.Gov,US Government Open Data,Data Portal, (Public),38.8951° N, 77.0367° W
+United States,Federal,www.ssa.gov/open/data/,SSA,Social Security Administration Open Data,Data Portal,(Public),38.8951° N, 77.0367° W
+United States,Federal,data.mcc.gov/,MCC,Millennium Challenge - Open Data Catalog,Data Portal,(Public),38.8951° N, 77.0367° W
+United States,Federal,www.census.gov/,US Census,US Census Bureau, Census/Demographics, (Public),38.8951° N, 77.0367° W
+United States,Federal,www.cia.gov/library/publications/the-world-factbook/,CIA WFB,CIA World Factbook, Census/Demographics, (Public),38.8951° N, 77.0367° W
+United States,Federal,ssa.gov/OACT/babynames,OACT,Social Security Agency - Babynames,Census/Demographics,(Public),38.8951° N, 77.0367° W
+United States,Federal,www.usgs.gov/,USGS,US Geological Survey,GIS/Gazetteer, (Public) ,38.8951° N, 77.0367° W
+United States,Federal,earth-info.nga.mil/gns/html/index.html,NGA GEONet,National Geospatial Intelligence Agency,GIS/Gazetteer, (Public),38.8951° N, 77.0367°
+United States,Federal,www.geodata.gov,GeoData, USGS Geospatial Government Catalog,GIS/Gazetteer,(CC-BY),38.8951° N, 77.0367° W
+United States,Federal,ngs.noaa.gov/TOOLS/spc.shtml,SPC,National Geographic Survey - State Plane Coordinates,GIS/Gazetteer,(Public),38.8951° N, 77.0367° W
+United States,Federal,geoplatform.gov,FGDC,FGDC Geoplatform,GIS/Gazetteer,(Public),38.8951° N, 77.0367° W
+United States,Federal,www.healthdata.gov/data/dataset/healthcare-finder-api,HealthCare.Gov,Medicare & Medicaid Service,Health, (Public),38.8951° N, 77.0367° W
+United States,Federal,data.medicare.gov,Medicare,Medicare Data,Health,(Public),38.8951° N, 77.0367° W
+United States,Federal,data.cms.gov/,CMS,Center for Medicare & Medicad Services, Health,,38.8951° N, 77.0367° W
+United States,Federal,healthmeasures.aspe.hhs.gov,Health System Measurement Process,US Health & Human Services, Health, (Public),38.8951° N, 77.0367° W
+United States,Federal,samhsa.gov/data,SASHSA,Substance Abuse and Mental Health Service Administration, Health,,38.8951° N, 77.0367° W
+United States,Federal,open.fda.gov/drug/event/,OpenFDA,Open FDA Adverse Drug Events,Health,(Public),38.8951° N, 77.0367° W
+United States,Federal,dtp.nci.nih.gov/docs/dtp_search.html,DTP,Developmental Therapeutics Program (NCI/NIH),Health,(Public),38.8951° N, 77.0367° W
+United States,Federal,www.cdc.gov/brfss/,CDC BRFSS,Centers for Disease Control and Prevention: Behavorial Risk Factor Surveillance System,Health,(Public),38.8951° N, 77.0367° W
+United States,Federal,datawarehouse.hrsa.gov/data/data.aspx,HRSA Datawharehouse,Health Resources and Services Administration,Health,(Public),38.8951° N, 77.0367° W
+United States,Federal,wonder.cdc.gov,CDC Wonder,CDC Wonder,Health,(Public),38.8951° N, 77.0367° W
+United States,Federal,www.bls.gov/data/,BLS,Bureau of Labor,Commerce, (Public),38.8951° N, 77.0367° W 
+United States,Federal,www.msha.gov/OpenGovernmentData/OGIMSHA.asp#jump,MSHA,US Department of Labor, Commerce, (Public),38.8951° N, 77.0367° W
+United States,Federal,www.consumerfinance.gov/complaintdatabase/,Consumer Complaints,Consumer Finance,Commerce,,38.8951° N, 77.0367° W
+United States,Federal,enforcedata.dol.gov,US DOL,US Department of Labor Enforcement Data,Commerce,(Public),38.8951° N, 77.0367° W
+United States,Federal,www.msha.gov/OpenGovernmentData/OGIMSHA.asp,MSHA,US DOL Mine Safety,Commerce,(Public),38.8951° N, 77.0367° W
+United States,Federal,www2.fdic.gov/IDASP/warp_download_all.asp,FDIC,FDIC Institution Data Download,Commerce,(Public),38.8951° N, 77.0367° W
+United States,Federal,bea.gov/itable/,BEA,Bureau of Economic Analysis,Commerce,(Public),38.8951° N, 77.0367° W
+United States,Federal,www.usda.gov/wps/portal/usda/usdahome?navid=data,USDA,US Department of Agriculture Open Data,Agriculture/Food,(Public),38.8951° N, 77.0367° W
+United States,Federal,www.ers.usda.gov/data-products.aspx,USDA ERS,United States Department of Agriculture: Econonic Research Services,Agriculture/Food,(Public),38.8951° N, 77.0367° W
+United States,Federal,ndb.nal.usda.gov/ndb/,USDA NDB,USDA National Nutrient Database,Agriculture/Food,(Public),38.8951° N, 77.0367° W
+United States,Federal,sos.noaa.gov/Datasets/,SOS,NOAA: Science on a Sphere,Science,(Public),38.8951° N, 77.0367° W
+United States,Federal,ncdc.noaa.gov/cdo-web/webservices/v2,NOAA NCDC,NOAA National Climate Data Center,Climate,(Public),38.8951° N, 77.0367° W
+United States,Federal,nws.noaa.gov/gis/,NWS,National Weather Service,Climate,(Public),38.8951° N, 77.0367° W
+United States,Federal,www.nodc.noaa.gov/General/sealevel.html,NODC,NOAA National Oceangraphic Data Center (NODC) sea level,Climate,(Public),38.8951° N, 77.0367° W
+United States,Federal,nces.ed.gov/datatools/,NCES,National Center for Education Statistics,Education,(Public),38.8951° N, 77.0367° W
+United States,Federal,www-fars.nhtsa.dot.gov/Main/,NHTSA,National Highway Traffic Safety Administration: Fatalities Analysis System (FARS),Transportation,(Public),38.8951° N, 77.0367° W
+United States,Federal,www.fueleconomy.gov/feg/ws/index.shtml,Fuel Economy,US Dept. of Energy,Transportation, (Public),38.8951° N, 77.0367° W
+United States,Federal,www.sec.gov/edgar/searchedgar/companysearch.html,SEC/Edgar,Security and Exchange Commission, Securities/Funds, (Public),38.8951° N, 77.0367° W
+United States,Federal,www.sec.gov/open/datasets.shtml,SEC,Security and Exchange Commission, Securities/Funds, (Public),38.8951° N, 77.0367° W
+United States,Federal,data.nfpa.org/,NFPA,National Fire Protection Association,Public Safety,,38.8951° N, 77.0367° W
+United States,Federal,fbi.gov/about-us/cjis/ucr,FBI UCR,FBI Unified Crime Reports (UCR),Public Safety,(Public),38.8951° N, 77.0367° W
+United States,Federal,afdc.energy.gov/data_download,AFDC,US Dept. of Energy - Alternative Fuels Data Center,Energy,(Public),38.8951° N, 77.0367° W
+United States,Federal,rita.dot.gov/bts/sites/rita.dot.gov.bts/files/subject_areas/geographic_information_services/index.html,RITA,Bureau of Transportation Statistics,Transportation,(Public),,
+United States,Federal,fema.gov/data-feeds,FEMA,FEMA,Public Safety,(Public),38.8951° N, 77.0367° W
+United States,Federal,safeharbor.export.gov/list.aspx,Safe Harbor,FTC Safe Harbor,Communication,(Public),38.8951° N, 77.0367° W
+United States,Federal,hiu.state.gov/,HIU,Department of State - Humanitarian Information Unit,Aid,(Public),38.8951° N, 77.0367° W
+United States,Federal,eia.gov/environment/data.cfm,EIA,Energy Information Agency,Energy,(Public),38.8951° N, 77.0367° W
+United States,Region,midatlanticocean.org/data-portal,MARCQ,Mid-Atlantic Ocean Data Portal,Data Portal,,,
+United States,Region,northeastoceandata.org,Northeast Ocean Data,Northeast Ocean Data,Data Portal,,,
+United States,Region,metrocouncil.org/Data-and-Maps.aspx,Metro Council,"Twin Cities Metropolitan Region, MN",Data Portal,(Public),44.9500° N, 93.2000° W
+United States,State:Alabama,open.alabama.gov/,Open Alabama,Alabama Open Data,Data Portal,(Public),32°21′42″N, 86°16′45″W﻿ 
+United States,State:Alabama,gis.alabama.gov,Alabama GIS,Alabama Geographic Information System,GIS/Gazetteer,,32°21′42″N, 86°16′45″W 
+United States,State:Alabama,gsa.state.al.us/,GSA,Geological Survey of Alabama,GIS/Gazetteer,,32°21′42″N, 86°16′45″W﻿ 
+United States,State:Alaska,doa.alaska.gov/dof/,Alaska DOF,Division of Finance,Transparency Portal,(Public),58°18′0″N, 134°25′0″W﻿ 
+United States,State:Alaska,laborstats.alaska.gov,Labor Stats,Alaska Department of Labor and Workforce Development - Research and Analysis,Census/Demographics,,32°21′42″N, 86°16′45″W﻿﻿ 
+United States,State:Alaska,dggs.alaska.gov,DGGS,Alaska Division of Geological & Geophysical Surveys,GIS/Gazetteer,,58°18′0″N, 134°25′0″W﻿
+United States,State:Alaska,www.asgdc.state.ak.us/,ASGDC,Alaska State Geospatial Data,GIS/Gazetteer,,58°18′0″N, 134°25′0″W﻿
+United States,State:Alaska,www.aoos.org/aoos-data-resources/,AOOS,Alaska AOOS,Science,,58°18′0″N, 134°25′0″W﻿ 
+United States,State:Alaska,vertex.daac.asf.alaska.edu,Vertex,Alaska Satellite Facility - Vertex,Science,,58°18′0″N, 134°25′0″W﻿ 
+United States,State:Arizona,openbooks.az.gov,Arizona,Arizona Open Data,Data Portal,(Public),34°32′30″N, 112°28′10″W﻿ 
+United States,State:Arizona,azgs.az.gov,AZGS,The Arizona Geological Survey,GIS/Gazetteer,,34°32′30″N, 112°28′10″W﻿
+United States,State:Arizona,transparency.arkansas.gov,Transparency Arkansas, Arkansas Transparency,Data Portal,(Public),34.7467° N, 92.2889° W
+United States,State:Arizona,geology.ar.gov,AGS,Arkansas Geological Survey,GIS/Gazetteer,,34.7467° N, 92.2889° W
+United States,State:Arizona,https://arcgis2.geo.az.gov/portal/,AZGEO,AGIC Geodata Portal (AZGEO),GIS/Gazetteer,,34.7467° N, 92.2889° W
+United States,State:Arkansas,geostor.arkansas.gov,Arkansas GeoStar,Arkansas GeoStar,GIS/Gazetteer,,34.7467° N, 92.2889° W
+United States,State:California,data.ca.gov/,California,California Open Data,Data Portal,(Public),38°33′20″N, 121°28′08″W﻿ 
+United States,State:California,data.cacs.org/,California Common Sense,California Open Data,Data Portal, (Public),38°33′20″N, 121°28′08″W﻿  
+United States,State:California,climate.calcommons.org/lists/datasets,CalCommons,California Climate Commons,Climate,,38°33′20″N, 121°28′08″W﻿ 
+United States,State:California,portal.gis.ca.gov/geoportal/catalog/main/home.page,Cal GeoPortal,California Geoportal,GIS/Gazetteer,(Public),38°33′20″N, 121°28′08″W﻿ 
+United States,State:California,boe.ca.gov/dataportal/,OPEN BOE, California - Board of Equalization,Transparency Portal,(Public),38°33′20″N, 121°28′08″W﻿ 
+United States,State:California,consrv.ca.gov/CGS,California Geological Survey,Department of Conservation - California Geological Survey,GIS/Gazetteer,,38°33′20″N, 121°28′08″W﻿ 
+United States,State:California,health.data.ca.gov,CDPH,California Department of Public Health Open Data,Health,(Purchase),38°33′20″N, 121°28′08″W﻿ 
+United States,State:California,nrm.dfg.ca.gov,CA DFG,California Department of Fish and Wild Life Data Portal,Environment,,38°33′20″N, 121°28′08″W﻿
+United States,State:Colorado,data.opencolorado.org,Open Colorado,Colorado Open Data,Data Portal,(CC3.0),39.7391° N, 104.9849° W
+United States,State:Colorado,data.colorado.gov,Colorado,Colorado Open Data,Data Portal, (Public),39.7391° N, 104.9849° W
+United States,State:Colorado,coloradogeologicalsurvey.org,Colorado Geological Survey,Colorado Geological Survey,GIS/Gazetteer,,39.7391° N, 104.9849° W
+United States,State:Connecticut,www.osc.ct.gov/openct,Connecticut,Connecticut Open Data,Data Portal, (Public),41°45′45.85″N, 72°40′27.43″W﻿ 
+United States,State:Connecticut,https://data.ct.gov/,Data.ct,Connecticut Open Data,Data Portal,(Public),41°45′45.85″N, 72°40′27.43″W﻿ 
+United States,State:Connecticut,transparency.ct.gov,Connecticut,Transparency Connecticut,Transparency Portal,(Public),41°45′45.85″N, 72°40′27.43″W﻿ 
+United States,State:Connecticut,ct.gov/deep/cwp/view.asp?a=2701&q=323444&deepNav_GID=1636,DEEP,Connecticut Department of Energy & Environmental Protection - GIS Data and Maps,GIS/Gazetteer,,41°45′45.85″N, 72°40′27.43″W﻿ 
+United States,State:Delaware,www.delaware.gov/data/,Delaware,Delaware Open Data,Data Portal, (Public) ,39.0000° N, 75.5000° W
+United States,State:Delaware,transparency.delaware.gov,Delaware,Delaware Transparency Resources,Transparency Portal,(Public),39.0000° N, 75.5000° W
+United States,State:Delaware,dgs.udel.edu,DGS,Delaware Geological Survey,GIS/Gazetteer,,39.0000° N, 75.5000° W
+United States,State:Florida,dor.myflorida.com/dor/property/resources/data.html,My Florida,Dept of Revenue: Propety Tax Data,Property/Land,(Public),30.4381° N, 84.2816° W
+United States,State:Florida,www.floridahasarighttoknow.com/,Transparency Florida, Florida Transparency,Transparency Portal,(Public),30.4381° N, 84.2816° W
+United States,State:Florida,dep.state.fl.us/geology/,DEP,Florida Geological Survey,GIS/Gazetteer,,30.4381° N, 84.2816° W
+United States,State:Florida,www.dot.state.fl.us/agencyresources/mapsanddata.shtm,Florida Department of Transportation,Florida Department of Transportation - Maps & Data,Transportation,,30.4381° N, 84.2816° W
+United States,State:Georgia,www.open.georgia.gov/,Open Georgia,Georgia Open Data,Data Portal,(Public),33°45′18″N, 84°23′24″W
+United States,State:Hawaii,data.hawaii.gov/,Hawaii,Hawaii Open Data,Data Portal, (Public),21°18′26″N, 157°51′26″W
+United States,State:Idaho,transparent.idaho.gov,Idaho,Idaho Transparency Data,Transparency Portal,(Public),43°37′N, 116°12′W﻿
+United States,State:Idaho,idahogeology.org,Idaho Geology,Idaho Geological Survey,GIS/Gazetteer,,43°37′N, 116°12′W﻿
+United States,State:Idaho,gis.idaho.gov,Idaho GIS,Idaho Geospatial Office,GIS/Gazetteer,,43°37′N, 116°12′W﻿
+United States,State:Illinois,data.illinois.gov/,Illinois,Illinois Open Data,Data Portal, (Public),39.783°N, 89.650°W
+United States,State:Illinois,accountability.illinois.gov,Illinois,Illinois Transparency & Accountability,Transparency Portal,(Public),39.783°N, 89.650°W
+United States,State:Illinois,isgs.uiuc.edu,ISGS,Illinois State Geological Survey,GIS/Gazetteer,,40.1105° N, 88.2284° W
+United States,State:Indiana,www.in.gov/itp,Indiana TP,Indiana Transparency,Transparency Portal,(Public),39.791°N, 86.148°W
+United States,State:Indiana,igs.indiana.edu,IGS,Indiana Geological Survey,GIS/Gazetteer,,39.791°N, 86.148°W
+United States,State:Iowa,data.iowa.gov/,Iowa,Iowa Open Data,Data Portal,(Public),41.5912° N, 93.6039° W
+United States,State:Kansas,kanview.ks.gov/,KanView,Kansas Department of Administration,Data Portal,(Public),39°03′21″N, 95°41′22″W﻿ 
+United States,State:Kansas,kgs.ku.edu,KGS,Kansas Geological Survey,GIS/Gazetteer,,38.9581° N, 95.2478° W
+United States,State:Kansas,kansasgis.org,Kansas GIS,Kansas GIS,GIS/Gazetteer,(Public),39°03′21″N, 95°41′22″W﻿ 
+United States,State:Kentucky,opendoor.ky.gov/,Open Door,Kansas Transparency,Transparency Portal,(Public),38.197°N, 84.863°W
+United States,State:Kentucky,cpe.ky.gov/info/,Kentucky CPE,Kentucky Post Secondary Education,Education,(Public),38.197°N, 84.863°W
+United States,State:Kentucky,kygeonet.ky.gov/,KY GeoNet,Kentucky GeoNet,GIS/Gazetteer,(Public),38.197°N, 84.863°W
+United States,State:Kentucky,opendoor.ky.gov,Kentucky,Open Door Kentucky,Transparency Portal,(Public),30°26′55″N, 91°07′33″W
+United States,State:Kentucky,uky.edu/KGS/,KGS,Kentucky Geological Survey,GIS/Gazetteer,,38°01′47″N, 84°29′41″W
+United States,State:Louisiana,map.la.gov/,LouisianaMap,Louisiana GIS portal,GIS/Gazetteer,(Public),30°26′55″N, 91°07′33″W
+United States,State:Louisiana,wwwprd.doa.louisiana.gov/LaTrac/portal.cfm,Louisiana Transparency & Accountability,"Louisiana, Dept of Admininistration",Data Portal,(Public),30°26′55″N, 91°07′33″W
+United States,State:Louisiana,lgs.lsu.edu,LGS,Loiusiana Geological Survey,GIS/Gazetteer,,30.4145° N, 91.1783° W
+United States,State:Maine,www.maine.gov/data/,Maine,Maine Open Data,Data Portal,(Public),44°18′38″N, 69°46′48″W﻿
+United States,State:Maine,opencheckbook.maine.gov/transparency,Maine Transparency,Maine Open Data,Data Portal,(Public),44°18′38″N, 69°46′48″W﻿
+United States,State:Maine,maine.gov/dacf/mgs,MGS,Maine Geological Survey,GIS/Gazetteer,,44°18′38″N, 69°46′48″W﻿
+United States,State:Maryland,data.maryland.gov/,Maryland,Maryland Open Data,Data Portal, (Public),38°58′22.6″N, 76°30′4.17″W﻿ 
+United States,State:Maryland,data.imap.maryland.gov,MD iMap,Maryland iMap,Data Portal,,38°58′22.6″N, 76°30′4.17″W﻿ 
+United States,State:Maryland,spending.dbm.maryland.gov,Maryland Budget and Management,Maryland Open Data,Transparency Portal,(Public),38°58′22.6″N, 76°30′4.17″W﻿ 
+United States,State:Maryland,mgs.md.gov/,MGS,Maryland Geological Survey,GIS/Gazetteer,,38°58′22.6″N, 76°30′4.17″W﻿ 
+United States,State:Massachuetts,www.mass.gov/portal/government-taxes/open/open-data.html,Massachusetts Taxes,Massachusetts Open Data,Data Portal, (Public),42°21′29″N, 71°03′49″W﻿ 
+United States,State:Massachuetts,www.mass.gov/data/,Massachucetts,Massachuetts Open Data,Data Portal,(Public),42°21′29″N, 71°03′49″W﻿ 
+United States,State:Massachuetts,www.mass.gov/transparency,Massachucetts Transparency,Massachuetts Transparency,Transparency Portal,(Public),42°21′29″N, 71°03′49″W﻿ 
+United States,State:Massachuetts,geo.umass.edu/stategeologist/,State Geo,Massachusetts Geological Survey,GIS/Gazetteer,,42°22′25″N, 71°06′38″W
+United States,State:Michigan,www.michigan.gov/data/,Michigan,Michigan DataStore,Data Portal,(Public),42°44′1″N, 84°32′48″W﻿ 
+United States,State:Michigan,data.michigan.gov,Data Michigan,Michigan Open Data,Data Portal,(Public),42°44′1″N, 84°32′48″W﻿ 
+United States,State:Minnesota,www.state.mn.us/opendata/,Minnesota Open Data,Minnesota Open Data,Data Portal, (Public),44°56′39″N, 93°5′37″W﻿ 
+United States,State:Minnesota,www.mmb.state.mn.us/tap,Minnesota M&B,Minnesota Management & Budget,Transparency Portal,(Public),44°56′39″N, 93°5′37″W﻿ 
+United States,State:Minnesota,mngs.umn.edu,MNGS,Minnesota Geological Survey,GIS/Gazetteer,,44°58′31″N, 93°14′03″W
+United States,State:Minnesota,dot.state.mn.us/maps/gdma/gis-data.html,Minnesota GIS Data,DOT - Minnesota GIS Data,GIS/Gazetteer,(Public),44°58′31″N, 93°14′03″W
+United States,State:Mississippi,www.transparency.mississippi.gov,Transparency Mississippi,Mississippi Transparency,Data Portal,(Public),32°17′56″N, 90°11′05″W﻿ 
+United States,State:Mississippi,gis.ms.gov,Mississippi GC,Mississippi Geospatial Clearinghouse,GIS/Gazetteer,(Public),32°17′56″N, 90°11′05″W﻿ 
+United States,State:Mississippi,www.maris.state.ms.us/,MARIS,Mississippi MARIS GIS,GIS/Gazetteer,(Public),32°17′56″N, 90°11′05″W﻿ 
+United States,State:Mississippi,deq.state.ms.us/MDEQ.nsf/page/Geology_home,DEQ Geo,Mississippi DEQ Office of Geology,GIS/Gazetteer,,32°17′56″N, 90°11′05″W﻿ 
+United States,State:Missouri,data.mo.gov/,Missouri,Missouri Open Data,Data Portal,(Public),38.5791° N, 92.1730° W
+United States,State:Missouri,mapyourtaxes.mo.gov,Missouri MAP,Missouri Accountability Portal (MAP),Transparency Portal,(Public),38.5791° N, 92.1730° W
+United States,State:Missouri,dnr.mo.gov,DNR,Missouri Department of Natural Resources,GIS/Gazetteer,,38.5791° N, 92.1730° W
+United States,State:Montana,transparency.mt.gov,Transparency Montana,Montana Transparency,Transparency Portal,(Public),46°35′44.9″N, 112°1′37.31″W﻿ 
+United States,State:Montana,data.datamontana.us,Data Montana,Montana Open Data,Data Portal,(Public),46°35′44.9″N, 112°1′37.31″W﻿ 
+United States,State:Montana,data.mt.gov,Montana Data Portal,Montana Data Portal,Data Portal,,46°35′44.9″N, 112°1′37.31″W﻿
+United States,State:Montana,nris.mt.gov/gis/,NRIS,Montana GIS,GIS/Gazetteer,(Public),46°35′44.9″N, 112°1′37.31″W﻿ 
+United States,State:Montana,mbmg.mtech.edu/,MBMG,Montana Bureau of Mines and Geology,GIS/Gazetteer,,47.0000° N, 110.0000° W
+United States,State:Nebraska,www.nebraska.gov/data.html,Nebraska,Nebraska Open Data,Data Portal, (Public),40.8081° N, 96.6996° W
+United States,State:Nebraska,snr.unl.edu/csd/,SNR,Nebraska - Conservation and Survey Division,GIS/Gazetteer,,40.8175° N, 96.7014° W
+United States,State:Nevada,open.nv.gov,Nevada,Nevada Open Data,Data Portal,(Public),39.1641° N, 119.7663° W
+United States,State:Nevada,nbmg.unr.edu,NBMG,Nevada Bureau of Mines and Geology,GIS/Gazetteer,,39.5458° N, 119.8167° W
+United States,State:New Hampshire,nhopengov.org/,NH OpenGov,New Hampshire Open Data,Data Portal,(Public),43°12′24″N, 71°32′17″W﻿ 
+United States,State:New Hampshire,www.nh.gov/transparentnh/,Transparent NH,New Hampshire Transparency,Data Portal,(Public),43°12′24″N, 71°32′17″W﻿ 
+United States,State:New Hampshire,des.nh.gov/organization/commissioner/gsu/,GSU,New Hampshire Geological Survey,GIS/Gazetteer,,43°12′24″N, 71°32′17″W﻿ 
+United States,State:New Jersey,data.nj.gov,Data.nj,New Jersey Open Data,Data Portal,(Public,43°12′24″N, 71°32′17″W﻿ 
+United States,State:New Jersey,njgin.state.nj.us,njgin, New Jersey Geographic Information Network,Data Portal,(Public),43°12′24″N, 71°32′17″W﻿ 
+United States,State:New Jersey,state.nj.us/dep/njgs/,NJGS,New Jersey Water and Geological Survey,GIS/Gazetteer,(Public),43°12′24″N, 71°32′17″W﻿
+United States,State:New Jersey,state.nj.us/transportation/gis,NJ GIS,New Jersey Dept. of Transportation - GIS,GIS/Gazetteer,(Public),43°12′24″N, 71°32′17″W﻿ 
+United States,State:New Jersey,yourmoney.nj.gov,Transparent New Jersey,New Jersey Transparency,Data Portal,(Public),40.2204° N, 74.7699° W
+United States,State:New Mexico,www.sunshineportalnm.com/,Sunshine portal NM,New Mexico Transparency,Data Portal,(Public),35.6823° N, 105.9397° W
+United States,State:New Mexico,geoinfo.nmt.edu,GeoInfo,New Mexico Bureau of Geology and Mineral Resources,GIS/Gazetteer,,34.0668° N, 106.9056° W
+United States,State:New York,data.ny.gov/,New York,New York Open Data,Data Portal, (Public) ,42°39′09″N, 73°45′26″W
+United States,State:New York,www.nysenate.gov/open/,Open Senate,New York Senate, Government, (Public),42°39′09″N, 73°45′26″W 
+United States,State:New York,health.data.ny.gov/,Health Data NY,New York, Health,(Public),42°39′09″N, 73°45′26″W
+United States,State:New York,esd.ny.gov/NYSDataCenter.html, NY Dept of Labor,NY Dept of Labor,Commerce,(Public),42°39′09″N, 73°45′26″W
+United States,State:New York,gis.ny.gov,NY GIS,NY GIS Clearinghouse,GIS/Gazetteer,(Public),42°39′09″N, 73°45′26″W
+United States,State:New York,nyc.gov/html/dcp/html/bytes/applbyte.shtml,Bytes of the Big Apple,NYC Department of Planning - Bytes of the Big Apple,GIS/Gazetteer,(Public),42°39′09″N, 73°45′26″W
+United States,State:New York,nysm.nysed.gov/nysgs,NYS Museum - Geological Survey,New York State Museum - New York Geological Survey,GIS/Gazetteer,,42.6483° N, 73.7617° W
+United States,State:North Carolina,www.ncopenbook.gov/,NC Open Book,North Carolina Transparency,Data Portal,(Public),35.7803° N, 78.6392° W
+United States,State:North Dakota,www.nd.gov/gis/,North Dakota GIS,North Dakota Geographic Information Services, GIS/Gazetteer,(Public),46.8208° N, 100.7827° W
+United States,State:North Dakota,dmr.nd.gov/ndgs/,DMR,North Dakota Geological Survey,GIS/Gazetteer,,46.8208° N, 100.7827° W
+United States,State:North Dakota,data.share.nd.gov/pr,North Dakota M&B,North Dakota Office of Management & Budget,Transparency Portal,(Public),46.8208° N, 100.7827° W
+United States,State:Ohio,transparency.ohio.gov,Transparent OH,Ohio Transparency,Data Portal,(Public),39.9614° N, 82.9989° W
+United States,State:Oklahoma,data.ok.gov/,Oklahoma,Oklahoma Open Data,Data Portal, (Public),35.4923° N, 97.5034° W 
+United States,State:Oklahoma,ogs.ou.edu,OGS,Oklahoma Geological Survey,GIS/Gazetteer,,35.2086° N, 97.4458° W
+United States,State:Oregon,data.oregon.gov/,Oregon,Oregon Open Data,Data Portal, (Public),44.9385° N, 123.0304° W
+United States,State:Oregon,www.oregon.gov/transparency,Transparent Oregon,Oregon Transparency,Data Portal, (Public),44.9385° N, 123.0304° W 
+United States,State:Oregon,ocs.orst.edu/,OCS,Oregon Climate Service,Climate,(Public),44.9385° N, 123.0304° W
+United States,State:Oregon,oregongeology.org,Open Geology,Oregon Department of Geology and Mineral Resources,GIS/Gazetteer,,44.9385° N, 123.0304° W
+United States,State:Oregon,spatialdata.oregonexplorer.info/GPT9/catalog/main/home.page,Oregon Explorer,Oregon Spatial Data Library,Data Portal,,44.9385° N, 123.0304° W
+United States,State:Pennsylvania,www.pennwatch.pa.gov,PennWATCH,Pennsylvania Transparency,Data Portal, (Public),39°57′46″N, 76°43′41″W
+United States,State:Pennsylvania,www.pasda.psu.edu/,PASDA,Pennsylania Spatial Access,GIS/Gazetteer,(Public),39°57′46″N, 76°43′41″W
+United States,State:Pennsylvania,dcnr.state.pa.us/topogeo,DCNR,Pennsylvania - Bureau of Topographic and Geologic Survey,GIS/Gazetteer,,39°57′46″N, 76°43′41″W
+United States,State:Rhode Island,www.ri.gov/data/,Rhode Island,Rhode Island Open Data,Data Portal, (Public),41.8308° N, 71.4150° W
+United States,State:Rhode Island,www.transparency.ri.gov,Transparent Rhode Island,Rhode Island Transparency,Data Portal, (Public),41.8308° N, 71.4150° W
+United States,State:South Carolina,www.cg.sc.gov/fiscaltransparency,Transparent SC,South Carolina Transparency,Data Portal, (Public),34°00′3″N, 81°02′7″W﻿ 
+United States,State:South Carolina,www.gis.sc.gov/data.html,South Carolina GIS,South Carolina Geograhic Information Services, GIS/Gazetteer,(Public),34°00′3″N, 81°02′7″W﻿ 
+United States,State:South Carolina,dnr.sc.gov/geology,DNR,South Carolina Geological Survey,GIS/Gazetteer,,34°00′3″N, 81°02′7″W﻿ 
+United States,State:South Dakota,open.sd.gov/,Open SD,South Dakota Open Data,Data Portal, (Public),44.3672° N, 100.3464° W
+United States,State:South Dakota,sdgs.usd.edu,SDGS,Geological Survey Program,GIS/Gazetteer,,42.7860° N, 96.9253° W
+United States,State:Tennessee,tn.gov/opengov/,Transparent Tennessee,Tennessee Transparency,Data Portal, (Public),36.1658° N, 86.7842° W 
+United States,State:Tennessee,tn.gov/environment/geology,Tennessee Geological Survey,Tennessee Geological Survey,GIS/Gazetteer,,36.1658° N, 86.7842° W 
+United States,State:Texas,www.texas.gov/en/Connect/Pages/open-data.aspx,Texas,Texas Open Data,Data Portal, (Public),30.2747° N, 97.7406° W
+United States,State:Texas,www.texastransparency.org,Transparent Texas,Texas Transparency,Transparency Portal, (Public),30.2747° N, 97.7406° W
+United States,State:Utah,www.utah.gov/transparency,Transparent Utah,Utah Transparency,Transparency Portal, (Public),38°12′0″N, 111°10′0″W﻿ 
+United States,State:Utah,www.utah.gov/data/,Utah,Utah Open Data,Data Portal,(Public),38°12′0″N, 111°10′0″W﻿ 
+United States,State:Utah,gis.utah.gov/,Utah GIS,Utah Automated Geographic Reference Center,GIS/Gazetteer,(Public),38°12′0″N, 111°10′0″W﻿ 
+United States,State:Utah,geology.utah.gov/,Utah Geological Survey,Utah Geological Survey,GIS/Gazetteer,,38°12′0″N, 111°10′0″W﻿ 
+United States,State,udot.utah.gov/ugate,UDOT,Utah Department of Transportation Data Portal,Transportation,(Public),38°12′0″N, 111°10′0″W﻿ 
+United States,State:Vermont,spotlight.vermont.gov/,Spotlight Vermont,Vermont Transparency,Transparency Portal, (Public) ,44°15′N, 72°34′W
+United States,State:Vermont,vcgi.vermont.gov/,Vermont,Vermont GIS,GIS/Gazetteer,(Public),44°15′N, 72°34′W
+United States,State:Vermont,anr.state.vt.us/dec/geo,ANR,Vermont Geological Survey,GIS/Gazetteer,,44°15′N, 72°34′W
+United States,State:Virginia,data.openva.com/,Virginia,Virginia Open Data,Data Portal, (Public),37°16′15″N, 76°42′25″W﻿ 
+United States,State:Virginia,datapoint.apa.virginia.gov/,Transparent Virginia,Virginia Transparency,Transparency Portal, (Public) ,37°16′15″N, 76°42′25″W﻿ 
+United States,State:Virginia,data.virginia.gov/,Virginia.Gov,Data.Virginia.Gov,Data Portal,(Public),37°16′15″N, 76°42′25″W﻿ 
+United States,State:Virginia,dmme.virginia.gov,DMME,"Virginia Department of Mines, Minerals and Energy",GIS/Gazetteer,,37°16′15″N, 76°42′25″W﻿ 
+United States,State:Washington,data.wa.gov,Washington,Washington Open Data,Data Portal, (Public) ,47.0358° N, 122.9047° W
+United States,State:Washington,fiscal.wa.gov,Fiscal WA,Washington Transparency,Transparency Portal,(Public),47.0358° N, 122.9047° W
+United States,State:Washington,https://fortress.wa.gov/ecy/coastalatlas/,Coastal Altlas,Dept. of Ecology - Washington State Coastal Atlas,GIS/Gazetteer,,47.0358° N, 122.9047° W
+United States,State:West Virginia,transparencywv.org,Transparent WV,West Virginia Transparency,Data Portal,(Public),38.3361° N, 81.6119° W
+United States,State:West Virginia,ncahd.org/wvhealthdataportal/,NCAHD,West Virginia Health Data Portal,Health,,38.3361° N, 81.6119° W
+United States,State:West Virginia,wvgs.wvnet.edu,WVGS,West Virginia Geological & Economic Survey,GIS/Gazetteer,,38.3361° N, 81.6119° W
+United States,State:Wisconsin,wisconsingeologicalsurvey.org,Wisconsin Geological Survey,Wisconsin Geological and Natual History Survey,GIS/Gazetteer,,44.5000° N, 89.5000° W
+United States,State:Wyoming,www.wyoming.gov/transparency.html,Transparent Wyoming,Wyoming Transparency,Transparency Portal,(Public),41.1403° N, 104.8197° W
+United States,State:Wyoming,wsgs.uwyo.edu,WSGS,Wyoming State Geological Survey,GIS/Gazetteer,,41°18′47″N, 105°34′53″W
+United States,"District:Washington, DC",data.dc.gov/,"Washington, DC","Washington, DC Open Data",Data Portal, (Public) ,38.8897° N, 77.0111° W
+United States,"District:Washington, DC",www.opendatadc.org/,OpenData DC,"Washington, DC Open Data",Data Portal, (Public),38.8897° N, 77.0111° W 
+United States,"District:Washington, DC",dcgis.dc.gov,DC GIS,DC GIS,GIS/Gazetteer,,38.8897° N, 77.0111° W
+United States,"District:Washington, DC",developer.wmata.com/,WMATA,Washington DC Metro API,Transportation,,38.8897° N, 77.0111° W
+United States,Valley,data.vta.org,VTA,"Santa Clara Valley, CA - Transportation Authority",Transportation,(Public),37.3669° N, 121.9839° W
+United States,County,co.adams.co.us/index.aspx?NID=1183,"Adams County, CO","Adams County, CO - GIS",GIS/Gazetteer,(Public),39.8700° N, 104.3500° W
+United States,County,www.infoalamedacounty.org/index.php/Data/Data-portal.htm,"Alameda, CA","Alameda County, CA Open Data",Data Portal, (Public),37°45′22″N, 122°16′28″W﻿ 
+United States,County,data.acgov.org/,Alameda County,Alameda County Data Sharing Initative,Data Portal, (Public),37°45′22″N, 122°16′28″W﻿ 
+United States,County,co.amador.ca.us/departments/information-technology/gis,"Amador County, CA","Amador County, CA GIS Division",GIS/Gazetteer,,38.4400° N, 120.6600° W
+United States,County,police.arlingtonva.us/incident-tracking/,"Arlington County, VA","Arlington County, VA - Crime Reports",Public Safety,(Public),38.8803° N, 77.1083° W
+United States,County,baltimorecountymd.gov/Agencies/infotech/GIS/datadownload.html,"Baltimore County, MD","Baltimore County, MD",GIS/Gazetteer,,39.4000° N, 76.6000° W
+United States,County,bexar.org/569/GIS-Open-Data,"Bexar County, TX","Bexar County, TX - GIS Open Data",GIS/Gazetteer,,29.4500° N, 98.5200° W
+United States,County,ftp://ftp.co.bonner.id.us/GISData/,"Bonner County, ID","Bonner County, ID - GIS",GIS/Gazetteer,,48.2900° N, 116.6000° W
+United States,County,bouldercounty.org/gov/data/pages/default.aspx,"Boulder County, CO","Boulder County, CO - Maps & Data",Data Portal,,40°01′03″N, 105°16′47″W
+United States,County,buncombecounty.org/governing/depts/GIS/,"Buncombe County, NC","Buncombe County, NC",GIS/Gazetteer,(Public),35.6100° N, 82.5300° W
+United States,County,gis.calhouncounty.org,"Calhoun County, AL","Calhoun County, AL Revenue Department",GIS/Gazetteer,,33.7694° N, 85.8208° W
+United States,County,data.carver.opendata.arcgis.com,"Carver County, MN","Carver County, MN",GIS/Gazetteer,(Public),44.8200° N, 93.8000° W
+United States,County,ccmap.us,"Contra Costa County, CA","Contra Costa County, CA - Map Information System",GIS/Gazetteer,(Public),37.9300° N, 121.9500° W
+United States,County,datacatalog.cookcountyil.gov/,"Cook, IL","Cook County, IL Open Data",Data Portal, (Public),41°56′17″N, 87°52′07″W﻿   
+United States,County,gis.cravencountync.gov/default.aspx,"Craven County, NC","Craven County, NC",GIS/Gazetteer,(Public),35.1092° N, 77.0692° W
+United States,County,co.fresno.ca.us/DepartmentPage.aspx?id=16313,"Fresno County, CA","Fresno County, CA - Maps and GIS Information",GIS/Gazetteer,(Non-Commerical Use),36.7500° N, 119.6500° W
+United States,County,data.opencolorado.org/group/gilpin-county,Gilpin,"Gilpin County, CO Open Data",Data Portal,(Public),39.8600° N, 105.5200° W
+United States,County,hennepin.us/your-government/open-government/gis-open-data,"Hennepin County, MN","Hennepin County, MN - GIS open data",GIS/Gazetteer,,45.0000° N, 93.4700° W
+United States,County,data.honolulu.gov/,"Honolulu, HI","Honolulu County, HI Open Data",Data Portal, (Public),21°23′51″N, 157°44′22″W﻿
+United States,County,gis.hicentral.com/,HoLIS,Honolulu Land Information System,GIS/Gazetteer,,21°23′51″N, 157°44′22″W﻿
+United States,County,humboldtgov.org/201/Maps-GIS-Data,"Humboldt County, CA","Humboldt County, CA - GIS/Maps",GIS/Gazetteer,(Public),40.8000° N, 123.8000° W
+United States,County,www2.borough.kenai.ak.us/GISDept/,"Kenai Borough, AK","Kenai, AK - GIS Dept.",GIS/Gazetteer,,60.4167° N, 151.2500° W
+United States,County,maps.co.kern.ca.us/arcgis/rest/services,"Kern County, CA","Kern County, CA - ArcGIS",GIS/Gazetteer,,35.3400° N, 118.7200° W
+United States,County,data.kingcounty.gov,"King, WA","King County, WA Open Data",Data Portal, (Public),47.4700° N, 121.8400° W
+United States,County,electionsdata.kingcounty.gov,King County Elections,"King County, WA Elections Data",Government,(Public),47.4700° N, 121.8400° W
+United States,County,kingcounty.gov/operations/GIS.aspx,KCGIS,"King County, WA - GIS",GIS/Gazetteer,,47.4700° N, 121.8400° W
+United States,County,egis3.lacounty.gov/dataportal,"Los Angeles County, CA","Los Angeles County, CA - GIS Data Portal",GIS/Gazetteer,(Public),34°3′N, 118°15′W
+United States,County,co.lucas.oh.us/index.aspx?NID=1316,"Lucas County, OH","Lucas County, OH - GIS Maps",GIS/Gazetteer,(Public),41.6800° N, 83.5000° W
+United States,County,cnyvitals.org/madison,"Madison County, NY","Madison County, NY - Central New York Vitals",Data Portal,(CC 3.0),42.9100° N, 75.6700° W
+United States,County,maps.co.mecklenburg.nc.us/openmapping/,"Mecklenburg, NC","Mecklenburg County, NC GIS",GIS/Gazetteer,(Public),35.2500° N, 80.8300° W
+United States,County,gis.marinpublic.com,"Marin County, CA","Marin County, CA Geographic Information System",GIS/Gazetteer,,38.0400° N, 122.7400° W
+United States,County,miamidade.gov/transparency/public-data.asp,"Miami-Dade County, FL","Miami-Dade County, FL - Public Data",Data Portal,,25.7877° N, 80.2241° W
+United States,County,montereycountyopendata.montereyco.opendata.arcgis.com,"Monterey County, CA","Monterey County, CA - GIS Open Data",GIS/Gazetteer,(Public),36.2400° N, 121.3100° W
+United States,County,gis.montgomeryal.gov/ArcGIS/rest/services,"Montgomery County, AL","Montgomery County, AL - ArcGIS",GIS/Gazetteer,,32.2192° N, 86.2094° W
+United States,County,data.montgomerycountymd.gov/,"Montgomery, MD","Montgomery County, MD Open Data",Data Portal, (Public),39.1400° N, 77.2000° W 
+United States,County,gis.napa.ca.gov/giscatalog/catalog_xml.asp,"Napa County, CA","Napa County, CA - GIS Data",GIS/Gazetteer,(Public),38.5000° N, 122.3200° W
+United States,County,maps.nhcgov.com,"New Hanover County, NC","New Hanover County, NC",GIS/Gazetteer,,34.1800° N, 77.8600° W
+United States,County,cnyvitals.org/onondaga,"Onondaga County, NY","Onondaga County, NY - Central New York Vitals",Data Portal,(CC 3.0),43.0100° N, 76.2000° W
+United States,County,co.pierce.wa.us/index.aspx?NID=491,"Pierce County, WA","Pierce County, WA - Maps & Data",GIS/Gazetteer,,47.0500° N, 122.1100° W
+United States,County,pittcountync.gov/apps/publicdataportal/,"Pitt County, NC","Pitt County, NC - Public Data",Data Portal,(Public),35.5900° N, 77.3800° W
+United States,County,data.princegeorgescountymd.gov,OpenPGC,"Prince George's County, MD - OpenPGC",Data Portal,(Attribution/Disclaimer),38.8300° N, 76.8500° W
+United States,County,sacgis.org,"Sacramento County, CA","Sacremento County, CA - GIS",GIS/Gazetteer,,38.4500° N, 121.3500° W
+United States,County,stclairco.com/index.php?submenu=GIS_Services&src=gendocs&link=GIS_Services&category=GIS,"St. Clair County, AL","St. Clair County, AL",GIS/Gazetteer,,33.7158° N, 86.3181° W
+United States,County,sjmap.org/,"San Joaquin County, CA","San Joaquin County, CA - GIS",GIS/Gazetteer,(Public),37.9300° N, 121.2700° W
+United States,County,data.smcgov.org/,"San Mateo, CA","San Mateo County, CA Open Data",Data Portal, (Public),37°33′15″N, 122°18′47″W﻿ 
+United States,County,co.santa-cruz.ca.us/Departments/GeographicInformationSystems(GIS).aspx,"Santa Cruz County, CA","Santa Cruz County, CA - GIS",GIS/Gazetteer,,37.0300° N, 122.0100° W
+United States,County,gis.shelbyal.com/ArcGIS/,"Shelby County, AL","Shelby County, AL - ArcGIS",GIS/Gazetteer,,33.2653° N, 86.6678° W
+United States,County,regis.solanocounty.com,"Solano County, CA","Solano County, CA Regional GIS",GIS/Gazetteer,,38.2700° N, 121.9400° W
+United States,County,ventura.org/maps,"Ventura County, CA","Ventura County, CA - Maps",GIS/Gazetteer,(Public),34.3600° N, 119.1500° W
+United States,County,data.wakegov.com/,"Wake, NC","Wake County, NC Open Data",Data Portal, (Public),35.7900° N, 78.6500° W
+United States,County,co.washington.or.us/AssessmentTaxation/GISCartography/index.cfm,"Washington County, OR","Washington County, OR - GIS & Cartography",GIS/Gazetteer,,45.56°N, 123.09°W
+United States,County,giswww.westchestergov.com/wcgis/DataWarehouse.htm,"Westchester County, NY","Westchester County, NY GIS Data",GIS/Gazetteer,,41.1500° N, 73.7667° W
+United States,County,co.yakima.wa.us/gis,"Yakima County, WA ","Yakima County, WA - GIS",GIS/Gazetteer,,46.4600° N, 120.7400° W
+United States,Borough,ak-ketchikangatewayborough.civicplus.com/196/GIS-Maps,"Ketchikan Gateway Borough, AK","Ketchikan Gateway Borough, AK - GIS/Maps",GIS/Gazetteer,,55.3500° N, 131.6733° W
+United States,Borough,matsugov.us/it/gis/,"Matanuska-Susitna Borough, AK","Matanuska-Susitna Borough, AK GIS",GIS/Gazetteer,,62.4000° N, 149.5800° W
+United States,City,www.cabq.gov/abq-data/,Alburquerque,"Alburquerque, NM Open Data",Data Portal,(Public),35.1107° N, 106.6100° W
+United States,City,www.a2gov.org/data/ ,Ann Arbor,"Ann Arbor, MI Open Data",Data Portal,(Public),42.2814° N, 83.7483° W
+United States,City,arvada.org/opendata/,Arvada,"Arvada, CO Open Data",Data Portal,(Public),39.8200° N, 105.1111° W
+United States,City,maps.arvada.org/arcgis,"Arvada, CO","Arvada, CO - ArcGIS",GIS/Gazetteer,,39.8200° N, 105.1111° W
+United States,City,opendatacatalog.ashevillenc.gov/,"Asheville, NC","Asheville, NC Open Data",Data Portal, (Public),35.5800° N, 82.5558° W
+United States,City,govathon.com,Atlanta,"Atlanta, GA Open Data",Data Portal,(Public),33.7550° N, 84.3900° W
+United States,City,gis.atlantaga.gov/,Atlanta GIS,"Atllanta, GA - GIS",GIS/Gazetteer,,33.7550° N, 84.3900° W
+United States,City,atlantaregional.com/info-center/gis-data-maps,ARC - GIS,Atlanta Regional Commission - GIS Maps and Data,GIS/Gazetteer,,33.7550° N, 84.3900° W
+United States,City,apps.auroragov.org/GISOpenData,"Aurora, CO","Aurora, CO - GIS Open Data",GIS/Gazetteer,,39.6958° N, 104.8081° W
+United States,City,data.austintexas.gov/,Austin,"Austin, TX Open Data",Data Portal, (Public),30.2500° N, 97.7500° W
+United States,City,bakersfieldcity.us/gis/,"Bakersfield, CA","Bakersfield, CA Geographic Information Services",GIS/Gazetteer,,35.3667° N, 119.0167° W
+United States,City,data.baltimorecity.gov/,Baltimore,"Baltimore, MD Open Data",Data Portal, (Public),39.2833° N, 76.6167° W
+United States,City,data.brla.gov,"Baton Rouge, LA","Baton Rouge, LA Open Data",Data Portal,(Public),30.4500° N, 91.1400° W
+United States,City,data.illinois.gov/belleville,Belleville,"Belleville, IL Open Data",Data Portal,(Public),38.5217° N, 89.9953° W
+United States,City,www.cob.org/services/maps/gis/,"Bellingham, WA","Bellingham,WA GIS",GIS/Gazetteer,(Public),48.7502° N, 122.4750° W
+United States,City,ci.berkeley.ca.us/datacatalog/,"Berkeley, CA","Berkeley, CA",Data Portal,,37.8717° N, 122.2728° W
+United States,City,bloomington.in.gov/sections/viewSection.php?section_id=402,"Bloomington, IN","Bloomington, IN City Maps",GIS/Gazetteer,(Public),39.1622° N, 86.5292° W
+United States,City,data.cityofboston.gov/,Boston,"Boston, MA Open Data ",Data Portal, (Public),42.3581° N, 71.0636° W
+United States,City,www.metrobostondatacommon.org/,Metro Boston,Metro Boston Open Data,Data Portal,(Public),42.3581° N, 71.0636° W
+United States,City,mapc.org/data-services,MAPC,Boston Metropolitan Area Planning Commission - Data Services,Data Portal,(Public),42.3581° N, 71.0636° W
+United States,City,data.opencolorado.org/group/boulder,Boulder,"Boulder, CO Open Data",Data Portal, (Public),40.0176° N, 105.2797° W
+United States,City,buffaloopendata.com,"Buffalo, NY",Buffalo Open Data,Data Portal,(Public),42.9047° N, 78.8494° W
+United States,City,data.burlingtonvt.gov/,"Burlington, VT","Burlington, VT Open Data",Data Portal, (Public),44.4758° N, 73.2119° W
+United States,City,data.cambridgema.gov/,"Cambridge, MA","Cambridge, MA Open Data",Data Portal,(Public),42.3736° N, 71.1106° W
+United States,City,cambridgegis.github.io/gisdata.html,Cambridge,"Cambridge, MA Open Data",Data Portal,(Public),42.3736° N, 71.1106° W
+United States,City,carsonproperty.info,"Carson, CA","Carson, CA GIS - Property Information System",GIS/Gazetteer,,33.8397° N, 118.2597° W
+United States,City,data.illinois.gov/champaign,Champaign,"Champaign, IL Open Data",Data Portal,(Public),40.1130° N, 88.2612° W
+United States,City,GIS/Gazetteer.charleston-sc.gov/dataportal/,Charleston,"Charleston, SC Open Data",Data Portal,(Public),32.7833° N, 79.9333° W
+United States,City,charlottesville.org/index.aspx?page=155,"Charlottesville, NC","Charlottesville, NC Maps and GIS Data",GIS/Gazetteer,,38°1′48″N, 78°28′44″W﻿ 
+United States,City,clt.charlotte.opendata.arcgis.com,"Charlotte, NC","Charlotte, NC Open Data",Data Portal,(Public),38°1′48″N, 78°28′44″W﻿ 
+United States,City,data.chattlibrary.org,"Chattanooga, TN","Chattanooga, TN",Data Portal,,35.0456° N, 85.2672° W
+United States,City,data.cityofchicago.org/,Chicago,"Chicago, IL Open Data",Data Portal, (Public),41.8819° N, 87.6278° W
+United States,City,www.metrochicagodata.org/,Metro Chicago,"Chicago, IL Open Data",Data Portal, (Public),41.8819° N, 87.6278° W
+United States,City,www.transitchicago.com/data/,CTA,Chicago Transit Authority Open Data,Data Portal, (Public),41.8819° N, 87.6278° W
+United States,City,www.opendatacincy.org/,Cincinnati,"Cincinnati, OH Open Data",Data Portal,(Public),39.1000° N, 84.5167° W
+United States,City,data.culvercity.org,"Culver City, CA","Culver City, CA",Transparency Portal,,34.0078° N, 118.4008° W
+United States,City,www.dallasopendata.com/,Dallas,"Dallas, TX Open Data",Data Portal, (Public),32.7758° N, 96.7967° W 
+United States,City,deleon.socrata.com,De Leon,"De Leon, TX Open Data",Data Portal,(Public),32.1097° N, 98.5386° W
+United States,City,data.cityofdenton.com,"Denton, TX","Denton, TX Open Data",Data Portal,(Public),33.2164° N, 97.1292° W
+United States,City,data.denvergov.org/,"Denver, CO","Denver, CO Open Data",Data Portal,(Public),39.7392° N, 104.9847° W
+United States,City,d3.d3.opendata.arcgis.com,D3,Data Driven Detroit,Data Portal,,39.7392° N, 104.9847° W
+United States,City,ftp://ftp.accessfayetteville.org/Published/GIS/,"Fayetteville, AR","Fayetteville, AR GIS",GIS/Gazetteer,,36.0764° N, 94.1608° W
+United States,City,data.fortworthtexas.gov,"Fort Worth, TX","Fort Worth, TX Open Data",Data Portal,,32.7574° N, 97.3332° W
+United States,City,data.cityofgainesville.org/,Gainesville,"Gainsville, FL Open Data",Data Portal, (Public),29.6520° N, 82.3250° W 
+United States,City,gis.glendaleaz.com,"Glendale, AZ","Glendale, AZ - GIS Portal",GIS/Gazetteer,,33.5386° N, 112.1864° W
+United States,City,data.grcity.us/,"Grand Rapids, MI","Grand Rapids, MI Open Data",Data Portal,(Public),42.9612° N, 85.6557° W
+United States,City,www.hamilton.ca/ProjectsInitiatives/OpenData/,"Hamilton, CA","Hamilton, CA Open Data",Data Portal,(Public),43°15′N, 79°52′W﻿ 
+United States,City,datahub.io/organization/open-hampton-roads,"Hampton Roads, VA",Open Hampton Roads,Data Portal,(CC0),36.9667° N, 76.3667° W
+United States,City,data.hartford.gov,Hartford Data,"Hartford, CT",Data Portal,(Public),41.7627° N, 72.6743° W
+United States,City,data.honolulu.gov/,Honolulu,"Honolulu, HI Open Data",Data Portal, (Public),21.3000° N, 157.8167° W
+United States,City,GIS/Gazetteer.hicentral.com/,HoLIS,"Honolulu, HI Land Information System",Property/Land, (Public),21.3000° N, 157.8167° W
+United States,City,data.houston.gov/,"Houston, TX","Houston, TX Open Data",Data Portal, (Public),29.7628° N, 95.3831° W
+United States,City,data.ohouston.org,O Houston,Houston Data Portal,Data Portal,,29.7628° N, 95.3831° W
+United States,City,huntsvilleal.gov/gis/,"Huntsville, AL","Huntsville, AL GIS",GIS/Gazetteer,,34.7300° N, 86.5850° W
+United States,City,jerseycitynj.gov/data.aspx,"Jersey City, NJ","Jersey City, NJ Data Portal",Data Portal,,40.7140° N, 74.0710° W
+United States,City,data.kcmo.org/,Kansas City,"Kansas City, MO Open Data",Data Portal, (Public) ,39.0997° N, 94.5783° W
+United States,City,lasvegas.opendata.junar.com/home/,Las Vegas,"Las Vegas, NV Open Data",Data Portal, (Public),36.1215° N, 115.1739° W
+United States,City,data.lexingtonky.gov/,Lexington,"Lexington, KY Open Data",Data Portal, (Public),38.0297° N, 84.4947° W 
+United States,City,controllerdata.lacity.org/browse?sortBy=most_accessed&sortPeriod=week,Los Angeles,"Los Angeles, CA Open Data",Data Portal, (Public),34.0500° N, 118.2500° W 
+United States,City,portal.louisvilleky.gov,"Louisville, KY","Louisville, KY Open Data",Data Portal,(Public),38.2500° N, 85.7667° W
+United States,City,mapviewer.lynchburgva.gov/downloads,"Lynchburg,VA","Lynchburg, VA GIS Data",GIS/Gazetteer,(Public),37.4037° N, 79.1702° W
+United States,City,data.cityofmadison.com/,"Madison, WI","Madison, WI Open Data",Data Portal, (Public),43.0667° N, 89.4000° W
+United States,City,gis.mesaaz.gov/,"Mesa, AZ","Mesa, AZ - Maps/GIS",GIS/Gazetteer,,33.4150° N, 111.8314
+United States,City,opendata.minneapolismn.gov,"Minneapolis, MN",Open Data Minneapolis,Data Portal,(CC 4.0 BY-SA),44.9833° N, 93.2667° W
+United States,City,ctdatahaven.org,"New Haven, CT",Greater New Haven Data Portal,Data Portal,,41.3100° N, 72.9236° W
+United States,City,data.nola.gov/,New Orleans,"New Orleans, LA Open Data",Data Portal, (Public),29.9667° N, 90.0500° W
+United States,City,nycopendata.socrata.com/,New York,"New York City, NY Open Data",Data Portal, (Public),40.7127° N, 74.0059° W
+United States,City,beta.ci.newark.nj.us/newark-2-0/open-data/,"Newark, NJ","Newark, NJ Open Data",Data Portal,(Public),40.7242° N, 74.1726° W
+United States,City,data.codeforhamptonroads.org/organization/city-of-norfolk,"Norfolk, VA","Norfolk, VA Open Data",Data Portal,(Public),36.9167° N, 76.2000° W
+United States,City,data.okc.gov,"Oklahoma City, OK","Oklahoma City, OK",Data Portal,(Public),35.4822° N, 97.5350° W
+United States,City,data.oaklandnet.com/,"Oakland, CA","Oakland, CA  Open Data",Data Portal, (Public),37.8044° N, 122.2708° W
+United States,City,data.openoakland.org/,Open Oakland,"Oakland, CA Open Data",Data Portal, (Public),37.8044° N, 122.2708° W 
+United States,City,gis.cityoforange.org,"Orange, CA","Orange, CA - GIS Data",GIS/Gazetteer,,33.8031° N, 117.8325° W
+United States,City,data.cityofpaloalto.org/,"Palo Alto, CA","Palo Alto, CA Open Data",Data Portal, (Public),37.4292° N, 122.1381° W
+United States,City,www.opendataphilly.org/,Open Data Philly,"Philadelphia, PA Open Data",Data Portal, (Public),39.9500° N, 75.1667° W
+United States,City,civicapps.org,CivicApps,"Portland, OR Open Data",Data Portal,(Public),45.5200° N, 122.6819° W
+United States,City,developer.trimet.org/,Trimet,"Portland, OR Trimet",Transportation,(Public),45.5200° N, 122.6819° W
+United States,City,portal.its.pdx.edu,Portal ITS,Portland-Vancouver metropolitan region Transportation Archive (Portal),Transportation,(Public),45.5200° N, 122.6819° W
+United States,City,greaterportlandinc.com/regional-data,Greater Portland,Greater Portland - Regional Data,Data Portal,,45.5200° N, 122.6819° W
+United States,City,oregonmetro.gov/rlis-live,RLIS,"Portland, OR - Metro’s Regional Land Information System",GIS/Gazetteer,(Public),45.5200° N, 122.6819° W
+United States,City,data.providenceri.gov/,"Providence, RI","Providence, RI Open Data",Data Portal, (Public),41.8236° N, 71.4222° W
+United States,City,data.raleighnc.gov/,"Raleigh, NC","Raleigh, NC Open Data",Data Portal, (Public),35.7806° N, 78.6389° W 
+United States,City,openregina.cloudapp.net/,"Regina, CA","Regina, CA Open Data",Data Portal, (Public),50.4547° N, 104.6067° W 
+United States,City,data.redmond.gov,"Redmond, WA","Redmond, WA open data",Data Portal,(Attribution/Disclaimer),47.6694° N, 122.1239° W
+United States,City,dashboard.reno.gov/,"Reno, NV",Open Reno,Data Portal,(Public),39.5272° N, 119.8219° W
+United States,City,riversideca.gov/transparency/data,"Riverside, CA","Riverside, CA Open Data",Data Portal,,33.9481° N, 117.3961° W
+United States,City,data.illinois.gov/rockford,"Rockford, IL","Rockford, IL Open Data",Data Portal,(Public),42.2697° N, 89.0697° W
+United States,City,portal.cityofsacramento.org/opendata,Sacramento,"Sacramento, CA Open Data",Data Portal, (Public),38.5556° N, 121.4689° W
+United States,City,stlouis-mo.gov/data/,"St. Louis, MO","St. Louis, MO Open Data",Data Portal,(Public),38.6272° N, 90.1978° W
+United States,City,data.slcgov.com/,Salt Lake City,"Salt Lake City, UT Open Data",Data Portal, (Public),40.7500° N, 111.8833° W
+United States,City,catalog.opensandiego.org/,San Diego,San Diego Open Data,Data Portal, (Public),32.7150° N, 117.1625° W
+United States,City,sdappschallenge.com/details/data,San Diego Apps Challenge,"San Diego, CA Apps Challenge",Data Portal,(Public),32.7150° N, 117.1625° W
+United States,City,rdw.sandag.org,"San Diego, CA",SanGIS/SANDAG GIS Data Warehouse,GIS/Gazetteer,(Public),32.7150° N, 117.1625° W
+United States,City,data.sanjoseca.gov/home,San Jose,"San Jose, CA Open Data",Data Portal, (Public),37.3333° N, 121.9000° W 
+United States,City,data.sfgov.org/,SFgov.org,"San Francisco, CA Open Data",Data Portal, (Public),37.7833° N, 122.4167° W
+United States,City,data.cityofsantacruz.com/,Santa Cruz,"Santa Cruz, CA Open Data",Data Portal, (Public),36.9720° N, 122.0263° W
+United States,City,data.smgov.net,"Santa Monica, CA","Santa Monica, CA Data Portal",Data Portal,,34.0219° N, 118.4814° W
+United States,City,data.scottsdaleaz.gov/,Scottsdale,"Scottsdale, AZ Open Data",Data Portal, (Public),33.5000° N, 111.9333° W
+United States,City,data.seattle.gov/,Seattle,"Seattle, WA Open Data",Data Portal, (Public),47.6097° N, 122.3331° W
+United States,City,mainstreetmaps.com/AK/Sitka,"Sitka, AK","Sitka, AK - GIS Data",GIS/Gazetteer,,57.0516° N, 135.3386° W
+United States,City,data.somervillema.gov/,"Somerville, MA","Somerville, MA Open Data",Data Portal, (Public),42.3875° N, 71.1000° W 
+United States,City,data.southbendin.gov/,"South Bend, IN","South Bend, IN Open Data",Data Portal, (Public),41.6725° N, 86.2553° W
+United States,City,www.cityoftulsa.org/our-city/open-tulsa/open-tulsa-dataset-list.aspx,Tulsa,"Tulsa, OK Open Data",Data Portal,(Public),36.1314° N, 95.9372° W
+United States,City,data.codeforhamptonroads.org/organization/city-of-virginia-beach,Virginia Beach,Virginia Beach Open Data,Data Portal, (Public),36.8506° N, 75.9779° W
+United States,City,data.weatherfordtx.gov/,"Weatherford, TX","Weatherford, TX Open Data",Data Portal,(Public),32.7592° N, 97.7850° W
+United States,City,data.wellingtonfl.gov/,"Wellington, FL","Wellington, FL Open Data",Data Portal, (Public),26.6550° N, 80.2542° W
+United States,City,data.codeforhamptonroads.org/organization/city-of-williamsburg,Williamsburg,"Williamsburg, VA Open Data",Data Portal,(Public),37.2708° N, 76.7069° W
+United States,City,cityofws.org/departments/planning/gis,"Winston-Salem, NC ","Winston-Salem, NC GIS",GIS/Gazetteer,,36.1028° N, 80.2605° W
+United States,Academic,www.icpsr.umich.edu/icpsrweb/NACJD/NIBRS/,NACJD,University of Michigan: National Archive of Criminal Justice Data,Justice,,42.2828° N, 83.7347° W
+United States,Academic,ghdx.org,GHDX,University of Washington: Global Health Data Exchange,Health,,47.6550° N, 122.3080° W
+United States,Academic,wiki.csc.calpoly.edu/datasets,CalPoly,California Polytechnic State University Datasets,Education,,35.3017° N, 120.6598° W
+United States,Academic,opentopography.org,Open Topography,Open Topography - University of California,GIS/Gazetteer,,37.8700° N, 122.2590° W
+United States,Academic,oad.simmons.edu,OAD,Open Access Directory,Science,,42.3398° N, 71.1002° W
+United States,Academic,scottmanning.com/content/year-by-year-world-population-estimates/,Population Estimates,Scott Manning - Population Estimates < 10K BC,Census/Demographics,(Public),39.9500° N, 75.1667° W
+United States,Academic,wagda.lib.washington.edu/data/geography/wa_state/,,Washington State University - WA GIS Data,GIS/Gazetteer,,47.6550° N, 122.3080° W
+United States,Academic,pages.stern.nyu.edu/~adamodar/New_Home_Page/data.html,Damodaran Online,Damodaran Online - Corporate Finance Datasets,Securities/Funds,(Public),40.7300° N, 73.9950° W
+United States,Academic,icpsr.umich.edu/icpsrweb/ICPSR/,ICPSR,Inter-university Consortium for Political and Social Research (ICPSR),Data Portal,,42.2828° N, 83.7347° W
+United States,Academic,columbia.edu/acis/ets/Graesse/contents.html,Orbis Latinus,Orbis Latinus - Latin Names 1909,GIS/Gazetteer,(Public),40.8075° N, 73.9619° W
+United States,Academic,kars.ku.edu/geodata,KARS,Kansas Applied Remote Sensing,GIS/Gazetteer,,38.9581° N, 95.2478° W
+United States,Academic,groups.csail.mit.edu/vision/SUN/,SUN,SUN Database,Science,(Attribution),42.3598° N, 71.0921° W
+United States,Academic,dataverse.pitt.edu/external/datasets.php,,Dataverse,History,,40.4446° N, 79.9533° W
+United States,Academic,sage.wisc.edu/download/crop1700/hist_croplands.html,,Nielson Institute - SAGE - Historical Crop Lands,Agriculture/Food,,43.0750° N, 89.4172° W
+United States,Academic,staff.glcf.umd.edu/sns/branch/htdocs.sns/,GLCF,University of Maryland - Global Land Cover Facility,GIS/Gazetteer,(Attribution),38.9875 N, -76.94 W
+United States,Private,opengeocode.org,OpenGeoCode.Org,OpenGeoCode Data Portal and Aggregated Datasets,Data Portal,(Public),38.8833° N, 77.0167° W
+United States,Private,opendata.socrata.com/,Socrata,Socrata Open Source portal for Data,Data Portal,(Public),38.8833° N, 77.0167° W 
+United States,Private,ckan.org/,CKAN,CKAN Open Source portal for Open Data,Data Portal, (Public),38.8833° N, 77.0167° W 
+United States,Private,datamarket.com/,Data Market,Data Market Open portal to Datasets,Data Portal, (Purchase),38.8833° N, 77.0167° W
+United States,Private,geonames.org/,Geonames,Geonames, GIS/Gazetteer, (Free/Purchase),38.8833° N, 77.0167° W 
+United States,Private,developer.factual.com/,Factual,Factual, GIS/Gazetteer, (Free/Purchase),38.8833° N, 77.0167° W
+United States,Private,maxmind.com/en/opensource,MaxMind,MaxMind, GIS/Gazetteer, (Free/Purchase),38.8833° N, 77.0167° W 
+United States,Private,nasdaq.com/screening/company-list.aspx,NASDAQ,NASDAQ US Stock Exchanges, Securities/Funds, (Copyright),38.8833° N, 77.0167° W 
+United States,Private,gptogc.esri.com/geoportal,ESRI,ESRI Geoportal Server Open Source,GIS/Gazetteer,,38.8833° N, 77.0167° W
+United States,Private,index.okfn.org/,OKFN,Open Data Index,Statistics,,38.8833° N, 77.0167° W
+United States,Private,geocommons.com,GeoCommons,GeoCommons geosptial tools,GIS/Gazetteer,(CC-BY),38.8833° N, 77.0167° W
+United States,Private,naturalearthdata.com/,Natural Earth,Natural Earth Maps,GIS/Gazetteer,(Public),38.8833° N, 77.0167° W
+United States,Private,openstreetmap.org,OpenStreetMap,OpenStreetMap Foundation,GIS/Gazetteer,(ODbl),38.8833° N, 77.0167° W
+United States,Private,freebase.com,FreeBase,Google owned Community Knowledge Based Database,Community,(CC-BY),38.8833° N, 77.0167° W
+United States,Private,communities.socrata.com/catalog/code-for-summit-county/,"Summit County, OH","Summit County, OH Code for America Brigade Open Data",Data Portal,,41.1300° N, 81.5300° W 
+United States,Private,opensciencedatacloud.org/publicdata/,OSDC,Open Science Data Cloud Public Data,Data Portal,,38.8833° N, 77.0167° W
+United States,Private,openstates.org/,OpenStates,Legislation Open Data,Government,,38.8833° N, 77.0167° W
+United States,Private,openflights.org/data.html,OpenFlights,Open Flights Airflight Data,Transportation,(ODbl),38.8833° N, 77.0167° W
+United States,Private,latimes.com/local/datadesk/,LA Times DataDesk,LA Times - DataDesk for Los Angeles County,Data Portal,(Public),34.0500° N, 118.2500° W 
+United States,Private,asdfree.com,ADS Free,analyze survey data for free,Census/Demographics,(Public),,
+United States,Private,openaddresses.io,Open Addresses,Open Addresses,Property/Land,(CC0),38.8833° N, 77.0167° W
+United States,Private,grocery.com/open-grocery-database-project/,Grocery.Com,Open Grocery Database Project,Agriculture/Food,(Public),,
+United States,Private,cna.org/centers/operations-tactics/ship-database,CNA,Center for Naval Analysis - Ship Database,Military,,38.8803° N, 77.1083° W
+United States,Private,cohp.org,COHP,County Highpointers,GIS/Gazetteer,(Public),47.5000° N, 120.5000° W
+United States,Private,foodpantries.org,Food Pantries,Crowdsourced Food Banks/Pantries,Agriculture/Food,(Public),,
+United States,Private,aws.amazon.com/datasets,Amazon Public Datasets,Amazon Public Datasets,Data Portal,,47.6097° N, 122.3331° W
+United States,NGO,gadm.org/,GADM,Global Administrative Areas World administrative divisions, GIS/Gazetteer, (Non-Commercial Use),38.8833° N, 77.0167° W
+United States,NGO,ucsusa.org/nuclear_weapons_and_global_security/solutions/space-weapons/ucs-satellite-database.html, UCS Satellites,Union of Concerned Scientists,Science,,38.8951° N, 77.0367° W
+United States,NGO,openag.io/,Open Ag,Open Ag Data Alliance (Data Standards for Farmers),Data Portal,,38.8951° N, 77.0367° W
+United States,NGO,natsec.newamerica.net/drones/pakistan/analysis,Drone Attacks,New America Foundation US Drone Attacks, Military, (CC 3.0),38.8951° N, 77.0367° W
+United States,NGO,dhsprogram.com,USAID/DHS,US AID - Demographic and Health Surveys,Health,,38.8951° N, 77.0367° W
+United States,NGO,commodities.globalforestwatch.org/#v=dataView,Global Forest Watch,Global Forest Watch,Environment,(Public),38.8951° N, 77.0367° W
+United States,NGO,nsidc.org/data,NSIDC,National Snow & Ice Data Center,Climate,(Attribution),40.0067° N, 105.2672° W
+United States,NGO,marine-geo.org,Marine Geo,Marine GeoScience Data System,Environment,(CC-NC-SA),40.8075° N, 73.9619° W
+United States,NGO,ctdata.org,CT DATA,Connecticut Data Collaborative,Data Portal,,41.6000° N, 72.7000° W
+United States,NGO,feedingamerica.org/find-your-local-foodbank/?_ga=1.223258523.1626167282.1417548401,Feeding America,Feeding America - Local Food Banks,Agriculture/Food,(Public),41.8369° N, 87.6847° W
+United States,NGO,pewinternet.org/datasets/,,Pew Research Internet Project,Census/Demographics,(Attribution),38.8951° N, 77.0367° W
+United States,NGO,playgroundsforeveryone.com/,NPR Playgrounds,National Public Radio - Accessible Playgrounds,Health,(Public),38.8951° N, 77.0367° W
+Canada,Federal,open.canada.ca,Open Canada,Canadian Government Open Data,Data Portal, (Public),45.4000° N, 75.6667° W
+Canada,Federal,statcan.gc.ca/,Statistics Canada,Statistics Canada, Census/Demographics, (Public),45.4000° N, 75.6667° W 
+Canada,Federal,climate.weather.gc.ca/,Canada Climate,Canada Climate Data,Climate,(Attribution),45.4000° N, 75.6667° W
+Canada,Federal,ec.gc.ca/meteo-weather,Meteo Weaher,Meteorological Service of Canada,Climate,,45.4000° N, 75.6667° W
+Canada,Federal,nrcan.gc.ca,NRC,Natural Resources Canada,GIS/Gazetteer,,45.4000° N, 75.6667° W
+Canada,Province:Alberta,data.alberta.ca/,Alberta,Alberta Open Data,Data Portal, (Attribution),55.0000° N, 115.0000° W 
+Canada,Province:Alberta,ags.gov.ab.ca,AGS,Alberta Geological Survey,GIS/Gazetteer,,55.0000° N, 115.0000° W
+Canada,Province:British Columbia,www.data.gov.bc.ca/,Data BC,British Columbia Open Data,Data Portal, (FREE),54.0000° N, 125.0000° W
+Canada,Province:British Columbia,evaluebc.bcassessment.ca/,BC Assessment,British Columbia Property Tax,Property/Land,(Non-Commercial Use),54.0000° N, 125.0000° W
+Canada,Province:British Columbia,empr.gov.bc.ca/MINING/GEOSCIENC,GEOSCIENC,British Columbia Geological Survey,GIS/Gazetteer,,54.0000° N, 125.0000° W
+Canada,Province:British Columbia,geobc.gov.bc.ca,GeoBC,GeoBC,GIS/Gazetteer,,54.0000° N, 125.0000° W
+Canada,Province:Manitoba,mli2.gov.mb.ca/,Manitoba,Manitoba Land Initiative,GIS/Gazetteer,,55.0000° N, 97.0000° W
+Canada,Province:Manitoba,gov.mb.ca/conservation/lands_branch/geo_names/,Manitoba Geographical Names Program,Manitoba Geographical Names Program,GIS/Gazetteer,,55.0000° N, 97.0000° W
+Canada,Province:New Brunswick,b.ca/geonb1/e/DC/catalogue-E.asp,GeoNB,New Brunswick GeoNB,GIS/Gazetteer,,46.0000° N, 66.0000° W
+Canada,Province:Newfoundland and Labrador,opendata.gov.nl.ca/,Newfoundland and Labrador,Newfoundland and Labrador,Data Portal,,53.0000° N, 60.0000° W
+Canada,Province:Newfoundland and Labrador,nr.gov.nl.ca/mines&en/geosurvey,Geo Survey,Newfoundland & Labrador Geological Survey,GIS/Gazetteer,,53.0000° N, 60.0000° W
+Canada,Province,novascotia.ca/geonova,GeoNOVA,Nova Scotia GeoNOVA,GIS/Gazetteer,,45.0000° N, 63.0000° W
+Canada,Province:Nova Scotia,ontario.ca/government/open-data-ontario,Ontario,Ontario Open Data,Data Portal, (FREE),50.0000° N, 85.0000° W 
+Canada,Province:Ontario,mndm.gov.on.ca/en/mines-and-minerals,MNDM,Ontario Mines and Minerals,GIS/Gazetteer,,50.0000° N, 85.0000° W
+Canada,Province:Quebec,data.gouv.qc.ca/Quebec,Quebec,Quebec Open Data,Data Portal,(Attribution),53°N, 070°W
+Canada,Province:Quebec,toponymie.gouv.qc.ca,Commission de toponymie - Quebec,Commission de toponymie - Quebec,GIS/Gazetteer,,53°N, 070°W
+Canada,Province:Prince Edward Island,gov.pe.ca/gis/,Prince Edward Island,Prince Edward Island GIS Data Layers,GIS/Gazetteer,,46.2500° N, 63.0000° W
+Canada,Territory:Northwest Territories,geomatics.gov.nt.ca/,NWT Geomatics,Northwest Territories Centre for Geomatics,GIS/Gazetteer,,66.0000° N, 119.0000° W
+Canada,Territory:Northwest Territories,nwtgeoscience.ca/services/,NWT GeoScience,Northwest Territories GeoScience,GIS/Gazetteer,,66.0000° N, 119.0000° W
+Canada,Territory:Numavat,cngo.ca/,CNGO,Nunavat GeoScience,GIS/Gazetteer,,73.0000° N, 91.0000° W
+Canada,Territory:Yukon,geomaticsyukon.ca/,Geomatics Yukon,Geomatics Yukon,GIS/Gazetteer,,64.0000° N, 135.0000° W
+Canada,Territory:Yukon,geology.gov.yk.ca,Yukon Geological Survey,Yukon Geological Survey,GIS/Gazetteer,,64.0000° N, 135.0000° W
+Canada,Regional Municipality,regionaldistrict.com/services/gis/,RDCO,Regional District Central Okanagan GIS,GIS/Gazetteer,,49.8880° N, 119.4954° W
+Canada,Regional Municipality,halifaxopendata.ca/,"Halifax, NS","Halifax Regional Municipality, NS Open Data",Data Portal, (Attribution),44.6700° N, 63.6100° W
+Canada,Regional Municipality,regionofwaterloo.ca/en/regionalgovernment/OpenDataHome.asp,"Waterloo, ON","Region of Waterloo, ON Open Data",Data Portal, (Attribution),43.4667° N, 80.5000° W 
+Canada,Regional Municipality,niagararegion.ca/government/opendata,Niagara Region,Niagara Region of Ontario Open Data,Data Portal,(Attribution),43.0500° N, 79.3000° W
+Canada,Regional Municipality,opendata.peelregion.ca/,Peel,"Region of Peel, ON Open Data",Data Portal,(UK OGL),43.6167° N, 79.6167° W
+Canada,Regional Municipality,york.ca/Regional+Government/Open+Data/default+Open+Data.htm,York,"Region of York, ON Open Data",Data Portal,Open,44°3′5″N, 79°28′49″W
+Canada,District,crdatlas.ca/geospatial-data.aspx,"Capital Regional District, BC",Capital Regional District Atlas,GIS/Gazetteer,,48.4293° N, 123.3661° W
+Canada,District,data.countygp.ab.ca/,"Grande Prairie No. 1, AB","County of Grande Prairie, AB Open Data",Data Portal,(Attribution),55°10′15″N, 118°47′41″W
+Canada,District,rdos.bc.ca/departments/information-services/open-data-downloads/,"Regional District of Okanagan-Similkameen, BC","Regional District of Okanagan-Similkameen, BC - GIS",GIS/Gazetteer,,49.4167° N, 120.0000° W
+Canada,District,data.northcowichan.ca/,"North Cowichan, BC","Regional District of North Cowichan, BC",Data Portal,,48.8236° N, 123.7192° W
+Canada,District,www.rdno.ca/index.php/maps/digital-data,"North Okanagan, BC","Regional District of North Okanagan, BC Open Data",Data Portal,(non-commercial),50.4500° N, 119.1800° W
+Canada,District,geoweb.dnv.org/data/,GEOWeb,"District of North Vancouver, BC Open Data",Data Portal,,49.3111° N, 123.0194° W
+Canada,District,www.saanich.ca/data,"District of Saanich, BC","Saanich, BC Open Data",Data Portal,,48.4840° N, 123.3810° W
+Canada,District,districtofwestkelowna.ca/index.aspx?page=240,"West Kelowna, BC","District of West Kelowna, BC",GIS/Gazetteer,,49.8625° N, 119.5833° W
+Canada,County,data.strathcona.ca/,"Strathcona, AB",Strathcona County, AB Open Data,Data Portal,53°31′24″N, 113°18′32″W﻿
+Canada,County,www.strathcona.ca/local-government/strathcona-county-elections/election-2013-open-data/,"Strathcona, AB","Strathcona, AB Elections",Government,,53°31′24″N, 113°18′32″W﻿ 
+Canada,City,www.banffopendata.ca,Banff,"Banff, AB Open Data",Data Portal,(UK OGL),51.1781° N, 115.5719° W
+Canada,City,banff.ca/index.aspx?NID=885,Banff Ariel,"Ariel Photos of Banff, AB",GIS/Gazetteer,,51.1781° N, 115.5719° W
+Canada,City,brampton.ca/EN/City-Hall/OpenGov/,"Brampton, ON","Brampton, ON Open Data",Data Portal,,43.6833° N, 79.7667° W
+Canada,City,opengov.brandon.ca,"Brandon, MB","Brandon, MB Open Data",Data Portal,,49.8333° N, 99.9500° W
+Canada,City,cms.burlington.ca/Page7429.aspx,"Burlington, ON","Burlington, ON Open Data",Data Portal,,43.3250° N, 79.8000° W
+Canada,City,data.calgary.ca,Calgary,"Calgary, AB Open Data",Data Portal, (Public),51.0500° N, 114.0667° W
+Canada,City,chatham-kent.ca/sp_training/OpenData/Pages/DataCatalogue.aspx,Chatham-Kent,"Chatham-Kent, ON",Data Portal,,42.4000° N, 82.1833° W
+Canada,City,chilliwack.com/main/page.cfm?id=2329,"Chilliwack, BC","Chilliwack, BC",GIS/Gazetteer,,49.1577° N, 121.9509° W
+Canada,City,data.edmonton.ca/,Edmonton,"Edmonton, BC Open Data",Data Portal, (Attribution),53.5333° N, 113.5000° W
+Canada,City,fredericton.ca/en/citygovernment/DataMain.asp,"Fredericton, NB","Fredericton, NB Open Data",Data Portal,,45.9500° N, 66.6667° W
+Canada,City,gatineau.ca/donneesouvertes/,"Gatineau, QC","Gatineau, QC Open Data",Data Portal,,45.4833° N, 75.6500° W
+Canada,City,openguelph.wpengine.com/open-data-guelph/,"Guelph, ON","Guelph, ON Open Data",Data Portal,,43.5500° N, 80.2500° W
+Canada,City,halifax.ca/opendata/,"Halifax, NS","Halifax, NS Open Data",Data Portal,,44.6700° N, 63.6100° W
+Canada,City,hamilton.ca/ProjectsInitiatives/OpenData/,"Hamilton, ON","Hamilton, ON Open Data",Data Portal,,43.2500° N, 79.8667° W
+Canada,City,kamloops.ca/downloads/maps/launch.htm,"Kamloops, BC ","Kamloops, BC - My Maps",GIS/Gazetteer,,50.6761° N, 120.3408° W
+Canada,City,kelowna.ca/CM/Page3936.aspx,"Kelowna, BC","Kelowna, BC Open Data",Data Portal,,49.8801° N, 119.4436° W
+Canada,City,cityofkingston.ca/explore/data-catalogue,City of Kingston,"Kingston, ON - Data Catalogue",Data Portal,,44.2333° N, 76.5000° W
+Canada,City,kitchener.ca/opendata/,"Kitchener, ON","Kitchener, ON Open Data",Data Portal,(OGL),43.4500° N, 80.4833° W
+Canada,City,tol.ca/Services-Contact/Open-Data,"Langley, BC","Langley, BC Open Data",Data Portal,(PDDL),49.1041° N, 122.6576° W
+Canada,City,london.ca/city-hall/open-data/Pages/Open-Data-Data-Catalogue.aspx,"London, ON","London, ON Open Data",Data Portal,,42.9837° N, 81.2497° W
+Canada,City,data.medicinehat.ca/,Medicine Hat,"Medicine Hat, AB Open Data",Data Portal, (Public),50.0417° N, 110.6775° W 
+Canada,City,icreateopendata.public.esolutionsgroup.ca/,"Milton, ON","Milton, ON Open Data",Data Portal,,43.5083° N, 79.8833° W
+Canada,City,mississauga.ca/portal/residents/publicationsopendatacatalogue,"Mississauga, ON","Mississauga, ON Open Data",Data Portal,,43.6000° N, 79.6500° W
+Canada,City,donnees.ville.montreal.qc.ca/,Montreal,"Montreal, QC Open Data",Data Portal, (Attribution),45.5000° N, 73.5667° W 
+Canada,City,data.nanaimo.ca/,"Nanaimo, BC","Nanaimo, BC Open Data",Data Portal,,49.1642° N, 123.9364° W
+Canada,City,niagarafalls.ca/services/open/data,"Niagara Falls, ON","Niagara, ON Open Data",Data Portal,,43.1167° N, 79.0667° W
+Canada,City,oakville.ca/data/,"Oakville, ON","Oakville, ON Open Data",Data Portal,,43.4500° N, 79.6833° W
+Canada,City,data.ottawa.ca/,"Ottawa, ON","Ottawa, ON Open Data",Data Portal,(Attribution),45.4214° N, 75.6919° W
+Canada,City,ottawa.ca/en/mobile-apps-and-open-data/open-data-ottawa,Ottawa,"Ottawa, ON Mobile Apps and Open Data",Data Portal, (Attribution),45.4214° N, 75.6919° W
+Canada,City,princegeorge.ca/cityservices/online/odc/Pages/Documents.aspx,"Prince George, BC","Prince George, BC Open Data",Data Portal,Attribution,53.9169° N, 122.7494° W
+Canada,City,data.civicinfo.ca/organization/qualicum-beach-town,Qualicum Beach,"Qualicum Beach, BC", Data Portal,(ODbl),49.3500° N, 124.4333° W
+Canada,City,donnees.ville.quebec.qc.ca/,"Quebec, QC","Quebec, QC Open Data",Data Portal,,46.8167° N, 71.2167° W
+Canada,City,data.reddeer.ca/,"Red Deer, AB","Red Deer, AB Open Data",Data Portal,(Open),52.2681° N, 113.8111° W
+Canada,City,regina.ca/residents/open-government/data/,"Regina,SK","Regina, SK Open Data",Data Portal,,50.4547° N, 104.6067° W
+Canada,City,opendata-saskatoon.cloudapp.net/,Saskatoon,"Saskatoon, SK Open Data",Data Portal, (Public),52.1333° N, 106.6833° W 
+Canada,City,donnees.ville.sherbrooke.qc.ca/,"Sherbrooke, QC","Sherbrooke, QC Open Data",Data Portal,,45.4000° N, 71.9000° W
+Canada,City,surrey.ca/city-services/658.aspx,"Surrey, BC","Surrey, BC Open Data",Data Portal,,49.1833° N, 122.8500° W
+Canada,City,thunderbay.ca/Living/Getting_Around/Thunder_Bay_Transit/Developers_-_Open_Data.htm,Thunder Bay Transit,"Thunder Bay, ON - Transit API",Transportation,,48.3822° N, 89.2461° W
+Canada,City,toronto.ca/open,Toronto,"Toronto, ON Open Data",Data Portal, (FREE),43.7000° N, 79.4000° W
+Canada,City,vancouver.ca/your-government/open-data-catalogue.aspx,Vancouver,"Vancouver, BC Open Data",Data Portal,,49.2500° N, 123.1000° W
+Canada,City,www.vernon.ca/map/data_catalogue.html,"Vernon, BC","Vernon, BC - GIS",GIS/Gazetteer,,50.2670° N, 119.2720° W
+Canada,City,victoria.ca/EN/main/city/open-data-catalogue.html,"Victoria, BC","Victoria, BC Open Data",Data Portal,,48.4222° N, 123.3657° W
+Canada,City,opendata.waterloo.ca/,"Waterloo, ON","Waterloo, ON Open Data",Data Portal,,43.4667° N, 80.5167° W
+Canada,City,welland.ca/open/,"Welland, ON","Welland, ON OpenData",Data Portal,(Attribution),42.9833° N, 79.2333° W
+Canada,City,wpsgn.ca/website/seguin.html,"West Parry Sound, ON","West Perry Sound, ON Geography Network",GIS/Gazetteer,,45°42′N, 79°50′W
+Canada,City,citywindsor.ca/opendata,"Windsor, ON","Windsor, ON Open Data",Data Portal,,42.2833° N, 83.0000° W
+Canada,City,data.whitehorse.ca/,"Whitehorse, YK","Whitehorse, YK Open Data",Data Portal,,60.7167° N, 135.0500° W
+Canada,City,data.winnipeg.ca,"Winnepeg, MB",Winnipeg Open Data,Data Portal,,49.8994° N, 97.1392° W
+Canada,City,winnipegelection.ca/open_data_2010,"Winnipeg, MB","Winnipeg, MB Election Data",Government,(Public),49.8994° N, 97.1392° W
+Canada,City,api.winnipegtransit.com/home/api,"Winnipeg, MB", Winnipeg Transit API,Transportation,(PDDL),49.8994° N, 97.1392° W
+Canada,NGO,dcc.icgc.org,ICGC,International Cancer Genome Consortium,Health,(Non-Commerical Use),43.7000° N, 79.4000° W
+Canada,Private,www.opendatabc.ca,Open Data BC, Open Data BC Crowdsourced Portal,Data Portal,,54°N, 125°W
+Canada,Private,ourairports.com/data,Our Airports,Our Airports,Transportation,(Public),45.4214° N, 75.6919° W
+United Kingdom,Federal,data.gov.uk/,Data.Gov.uk,United Kingdom Open data, Data Portal,,51°30′N, 0°7′W
+United Kingdom,Federal,www.ordnancesurvey.co.uk/innovate/innovate-with-open-data.html,Ordance Survey,Ordance Survey, GIS/Gazetteer,,51°30′N, 0°7′W
+United Kingdom,Federal,www.gov.uk/government/collections/vehicles-statistics,Vehicle Statistics,Department of Transportation, Transportation ,(Public),51°30′N, 0°7′W
+United Kingdom,Federal,opendatacommunities.org/,Open Data Communities,Open Data Communities,Data Portal,,51°30′N, 0°7′W
+United Kingdom,Federal,statistics.gov.uk,UK Statistics,UK National Statistics,Census/Demographics,,51°30′N, 0°7′W
+United Kingdom,Federal,pcgn.org.uk,PCGN,Permanent Committee on Geographical Names,GIS/Gazetteer,,51°30′N, 0°7′W
+United Kingdom,Federal,metoffice.gov.uk,Met Office,Met Office,Climate,,51°30′N, 0°7′W
+United Kingdom,Federal,data4nr.net/resources/Data4NR,Data4NR,Data for Neighborhoods and Regeneration,Data Portal,,51°30′N, 0°7′W
+United Kingdom,Federal,tna.europarchive.org/20110116113217/http://www.food.gov.uk/science/dietarysurveys/dietsurveys/,The Composition of Foods,Food Standards Agency - The Composition of Foods,Health,,51°30′N, 0°7′W
+United Kingdom,Federal,gov.uk/government/statistics,UK Statistics,Gov.UK Statistics,Data Portal,(UK OGL),51°30′N, 0°7′W
+United Kingdom,Country,scotland.gov.uk/Topics/Statistics/Browse/School-Education/Datasets,Scotland School Statistics,Scotland School Statistics,Education,(UK OGL),55.9500° N, 3.1833° W
+United Kingdom,Country,transportscotland.gov.uk/,Transport Scotland,Transport Scotland,Transportation,,55.9500° N, 3.1833° W
+United Kingdom,Country,www.opendatani.info,Northern Ireland,Northern Ireland Open Data,Data Portal,,54°36′N, 5°55′W
+United Kingdom,Metropolitan County,www.datagm.org.uk/,Greater Manchester,Greater Manchester Open Data,Data Portal,(UK OGL),53.5000° N, 2.3167° W
+United Kingdom,Metropolitan County,opendatawestmids.org.uk,West Midlands ,West Midlands Open Datastore,Data Portal,(Attribution/Disclaimer),52.5000° N, 1.8333° W
+United Kingdom,Borough Council,allerdale.gov.uk/default.aspx?Page=2288,Allerdale,Allerdale,Data Portal,(UK OGL),54°38′24″N, 3°24′43″W
+United Kingdom,Borough Council,data.redbridge.gov.uk/,Red Bridge,London Borough of Red Bridge Open Data,Data Portal,,51.5667° N, 0.0833° E
+United Kingdom,Borough Council,www.sutton.gov.uk,Sutton,London Borough of Sutton Open Data,Data Portal,,51.3333° N, 0.1667° W
+United Kingdom,Borough Council,www.trafford.gov.uk/opendata,Trafford,Borough of Trafford Open Data,Data Portal,,53.4333° N, 2.3000° W
+United Kingdom,County,protohub.net,Hampshire County,Hampshire Hub,Data Portal,(UK OGL),51°5′N, 1°15′W
+United Kingdom,County,kent.gov.uk/your_council/open_data.asp,Kent,Kent County Open Data,Data Portal,,51.1900° N, 0.7300° E
+United Kingdom,County,openkent.org.uk,Open Kent,Kent County Open Data,Data Portal,,51.1900° N, 0.7300° E
+United Kingdom,County,merton.gov.uk/council/dp-foi/opendata.htm,Merton,Merton Council Open Data,Data Portal,,51°23′N, 0°10′W
+United Kingdom,County,opendata.warwickshire.gov.uk/datasets/,Warwickshire,Borough of Warwickshire,Data Portal,,52°17′N, 1°35′W
+United Kingdom,County,performance.westsussex.gov.uk,West Suffix,West Sussex County,Data Portal,,50.9167° N, 0.5000° W
+United Kingdom,County,wyre.gov.uk/opendata,Wyre,Wyre Council Open Data,Data Portal,,53°54′00″N, 2°48′32″W
+United Kingdom,District,www2.lichfielddc.gov.uk/data/,Lichfield,Lichfield District Open Data,Data Portal,,52°41′01″N ,1°49′36″W
+United Kingdom,District,northdevon.gov.uk/index/lgcl_council_government_and_democracy/nonlgcl_open_data.htm,North Devon,North Devon Council Open Data,Data Portal,,51.0810° N, 4.0580° W
+United Kingdom,City,opendata.aberdeencity.gov.uk,Aberdeen,Aberdeen City Open Data  Portal,Data Portal,(UK OGL),57.1526° N, 2.1100° W
+United Kingdom,City,birmingham.gov.uk/open-data,Birmingham,Birmingham City Council,Data Portal,,52.4831° N, 1.8936° W
+United Kingdom,City,www.bristol.gov.uk/page/council-and-democracy/bristol-city-council-open-data,Bristol,Bristol Open DataData Portal,Data Portal,,51.4500° N, 2.5833° W
+United Kingdom,City,www.cambridge.gov.uk/open-data-transparency-in-local-government,Cambridge,Cambridge Transparency in Local Government,Transparency Portal,,52.2050° N, 0.1190° E
+United Kingdom,City,www.derby.gov.uk/council-and-democracy/open-data-and-freedom-of-information/open-data/,Derby,Derby Open Data,Transparency Portal,,52.9219° N, 1.4758° W
+United Kingdom,City,www.edinburgh.gov.uk/info/20246/open_data,Edinburgh,Edinburgh Open Data,Data Portal,,55.9531° N, 3.1889° W
+United Kingdom,City,www.exeter.gov.uk/index.aspx?articleid=13235,Exeter,Exeter Open Data,Data Portal,(UK OGL),50.7167° N, 3.5333° W
+United Kingdom,City,data.glasgow.gov.uk/,Glasgow,"Glasgow, Scotland Open Data",Data Portal,,55.8580° N, 4.2590° W
+United Kingdom,City,leeds.gov.uk/opendata/,Leeds,Leeds Open Data,Data Portal,,53.7997° N, 1.5492° W
+United Kingdom,City,data.london.gov.uk,London,"London, England Open Data",Data Portal,,51.5072° N, 0.1275° W
+United Kingdom,City,tfl.gov.uk/info-for/open-data-users/,TFL,Transport for London,Transportation,(UK OGL),51.5072° N, 0.1275° W
+United Kingdom,City,manchester.gov.uk/info/500215/open_data,Manchester,"Manchester, England Open Data",Data Portal,,53.4667° N, 2.2333° W
+United Kingdom,City,opendatanottingham.org.uk/,Nottingham, Nottingham Open Data,Data Portal,,52.9500° N, 1.1333° W
+United Kingdom,City,salford.gov.uk/opendata.htm,Salford,Salford Open Data,Data Portal,(UK OGL),53.5097° N, 2.3344° W
+United Kingdom,City,data.opensheffield.org/,Sheffield,Open Data Sheffield,Data Portal,(Public),53.3836° N, 1.4669° W
+United Kingdom,City,york.gov.uk/info/200602/open_data/569/open_data,York,York Open Data,Transparency Portal,,53.9583° N, 1.0803° W
+United Kingdom,Academic,data.lincoln.ac.uk/,Data.Lincoln,University of Lincoln Open Data,Data Portal,,53.2285° N, 0.5479° W
+United Kingdom,Academic,gogeo.ac.uk,Go Geo,University of Edinburgh Open Data,Data Portal,,55.9474° N, 3.1872° W
+United Kingdom,Academic,data.ox.ac.uk/,Oxford University,Oxford University Open Data,Education,(CC-BY-SA),51.752453°N, 1.251996°W
+United Kingdom,Academic,data.southampton.ac.uk/home.html,University of Southampton,University of Southampton Open Data,Education,(Open),50.9346° N, 1.3960° W
+United Kingdom,Academic,discover.ukdataservice.ac.uk/,UK Data Service,UK Data Service,Data Portal,,51.7500° N, 0.5833° E
+United Kingdom,Private,howmanyleft.co.uk/,How Many Left,Statistics about every make and model of vehicle registered in Great Britain,Transportation,,51.5072° N, 0.1275° W
+United Kingdom,Private,developer.factual.com/,Factual,Factual, GIS/Gazetteer, (Free/Purchase),51.5072° N, 0.1275° W
+United Kingdom,Private,guardian.co.uk/world-government-data,World Government Data,Guardian Newspaper Data Catalog,catalog,,51.5072° N, 0.1275° W
+United Kingdom,Private,eduinfo.co.uk/,EduInfo.uk,EduInnfo,Education,,51.5072° N, 0.1275° W
+United Kingdom,NGO,data.ncvo.org.uk/,NVCO,National Council for Voluntary Organisations,Aid,(Public),51.5072° N, 0.1275° W
+United Kingdom,NGO,parlvid.mysociety.org/os/,MySociety/OS,MySociety Cache of Ordnance Survey Data,GIS/Gazetteer,,51.5072° N, 0.1275° W
+Australia,Federal,data.gov.au,Data.Gov.au,Australian Open Data,Data Portal,,35.3075° S, 149.1244° E
+Australia,Federal,data.csiro.au/,CSIRO,Commonwealth Scientific and Industrial Research Organisation,Science,(Non-Commercial Use),35.3075° S, 149.1244° E
+Australia,Federal,researchdata.ands.org.au/,Research Data Australia,Research Data Australia Open Data,Science,,35.3075° S, 149.1244° E
+Australia,Federal,abs.gov.au,Australia Statistics,Australian Bureau of Statistics,Census/Demographics,,35.3075° S, 149.1244° E
+Australia,Federal,ga.gov.au,Geoscience Australia,Geoscience Australia,GIS/Gazetteer,,35.3075° S, 149.1244° E
+Australia,Federal,bom.gov.au/,BOM,Bureau of Meteorology ,Climate,,35.3075° S, 149.1244° E
+Australia,Federal,www1.data.antarctica.gov.au/,Australian Antarctica Data Centre,Australian Antarctica Data Centre,GIS/Gazetteer,(CC 3.0),35.3075° S, 149.1244° E
+Australia,Territory,www.data.act.gov.au/,Australian Capital Territory,Australian Capital Territory Open Data,Data Portal,,35.3081° S, 149.1244° E
+Australia,Territory,planning.act.gov.au/tools_resources,ACT,Australian Capital Territory - Environment and Planning Directorate,GIS/Gazetteer,,35.3081° S, 149.1244° E
+Australia,Territory,placenames.nt.gov.au,PlaceNames.Nt,Place Names Committee for the Northern Territory,GIS/Gazetteer,,20.0000° S, 133.0000° E
+Australia,State,data.nsw.gov.au/,New South Wales,New South Wales Open Data,Data Portal,,32.1617° S, 147.0178° E
+Australia,State,gnb.nsw.gov.au,GNB,Geographic Names Board of New South Wales,GIS/Gazetteer,(Public),32.1617° S, 147.0178° E
+Australia,State,data.qld.gov.au/,Queensland,Queensland Open Data,Data Portal, (Public),23.0000° S, 143.0000° E
+Australia,State,dnrm.qld.gov.au/,DNRM,Queensland - Department of Natural Resources and Mines,GIS/Gazetteer,,23.0000° S, 143.0000° E
+Australia,State,data.sa.gov.au/,South Australia,South Australia Open Data,Data Portal,(CC),34°55′44.4″S, 138°36′3.6″E﻿ 
+Australia,State,sa.gov.au/topics/housing-property-and-land,South Australia Housing Property and Land,South Australia Housing Property and Land,Property/Land,,34°55′44.4″S, 138°36′3.6″E﻿ 
+Australia,State,dpipwe.tas.gov.au/sif,Tasmania,Tasmania Spatial Data,GIS/Gazetteer,(non-commercial),42.0000° S, 147.0000° E
+Australia,State,dpipwe.tas.gov.au/land-property-titles/,Tasmania - Land Property and Titles,Tasmania - Land Property and Titles,Property/Land,,42.0000° S, 147.0000° E
+Australia,State,data.vic.gov.au/,Victoria,Victoria Open Data,Data Portal,,37°48′49″S, 144°57′47″E﻿ 
+Australia,State,maps.land.vic.gov.au,Victoria - Maps/Land,"Victoria - Department of Transport, Planning and Local Infrastructure",GIS/Gazetteer,,37°48′49″S, 144°57′47″E﻿ 
+Australia,State,landgate.wa.gov.au,Land Gate,Western Australia - Landgate,Property/Land,,26.0000° S, 121.0000° E
+Australia,Region,gong.io,Greater Illawarra Region,Illawarra - Code the Gong,Data Portal,(CC-BY),34°25′59″S, 150°52′59″E﻿ 
+Australia,City,data.gov.au/organization/city-of-ballarat,"Ballarat, VIC","City of Ballarat, VIC",Data Portal,(CC 3.0 Australia),37.5500° S, 143.8500° E
+Australia,City,data.brisbane.qld.gov.au/,Brisbane,"Brisbane, QLD Open Data",Data Portal,,27.4679° S, 153.0278° E
+Australia,City,data.gov.au/organization/gcc,"Glenorchy, TAS","Glenorchy, TAS",Data Portal,(CC 3.0),42.8331° S, 147.2758° E
+Australia,City,data.gov.au/organization/city-of-gold-coast,"Gold Coast, QLD","City of Gold Coast, QLD",Data Portal,(CC 3.0 Australia),28.0167° S, 153.4000° E
+Australia,City,data.gov.au/organization/city-of-greater-geelong,"Geelong, VIC","City of Greater Geelong, VIC",Data Portal,(CC 3.0 Australia),38.1500° S, 144.3500° E
+Australia,City,data.gov.au/organization/city-of-hobart,"Hobart, TAS","City of Hobart, TAS",Data Portal,(CC 3.0 Australia),42.8806° S, 147.3250° E
+Australia,City,data.gov.au/organization/cityoflaunceston,"Launceston, TAS","City of Launceston, TAS",Data Portal,(CC 3.0 Australia),41.4419° S, 147.1450° E
+Australia,City,data.gov.au/organization/cityofmelbourne,"Melbourne, VIC","Melbourne, VIC",Data Portal,(CC 3.0),37.8136° S, 144.9631° E
+Australia,City,data.mosman.nsw.gov.au,Mosman,Mosman Council Open Data,Data Portal,(CC 3.0 Australia),33.8291° S, 151.2441° E
+Australia,Private,localdata.net.au/,LocalData.Net,Local Government Data,Data Portal,,35.3080° S, 149.1245° E
+Australia,NGO,anps.org.au,ANPS,Australian National Placenames Survey,GIS/Gazetteer,,32.1617° S, 147.0178° E
+Afghanistan,Federal,cso.gov.af,CSO,Central Statistics Organization,Census/Demographics,,34.5333° N, 69.1333° E
+Afghanistan,Federal,bgs.ac.uk/afghanminerals/,BGS,Ministry of Mines - Afghanistan Geological Survey,GIS/Gazetteer,,34.5333° N, 69.1333° E
+Afghanistan,NGO,afghanistandataproject.org,Afghanistan,Afganistan Open Data Project,Elections,,34.5333° N, 69.1333° E
+Aland Islands,Federal,asub.ax,ASUB,Statistics and Research Aland,Census/Demographics,,60°06′N, 019°56′E
+Albania,Federal,open.data.al,Data.al,Open Data Albania,Data Portal,(CC0),41.0000° N, 20.0000° E
+Albania,Federal,instat.gov.al,Instat,Institutii Statistikave,Census/Demographics,,41.0000° N, 20.0000° E
+Albania,Federal,gsa.gov.al/,GSA,Albanian Geological Survey,GIS/Gazetteer,,41.0000° N, 20.0000° E
+Albania,NGO,gsa-al.org,GSA-AL,Geological Society of Albania,GIS/Gazetteer,,41.0000° N, 20.0000° E
+Algeria,Federal,ons.dz,ONE,Office National des Statistiques,Census/Demographics,,28.0000° N, 2.0000° E
+Algeria,Federal,meteo.dz/,Meteo.dz,Office National de la Météorologie,Climate,,28.0000° N, 2.0000° E
+Algeria,Federal,mem-algeria.org,Mem-Algeria,Service Geologique National Algeria,GIS/Gazetteer,,28.0000° N, 2.0000° E
+Algeria,NGO,algeria.opendataforafrica.org/,Open Data for Algeria,African Development Bank Group Open Data,Data Portal, (Attribution),28.0000° N, 2.0000° E
+American Samoa,,,,,,,,
+Andorra,Federal,estadistica.ad,Estadistica,Department D'Estadistica,Census/Demographics,,42.5000° N, 1.5000° E
+Andorra,Federal,iea.ad,IEA,Institut d'Estudis Andorrans,GIS/Gazetteer,,42.5000° N, 1.5000° E
+Angola,Federal,ine.gov.ao,INE,Instituto Nacional de Estatística,Census/Demographics,,8.8333° S, 13.3333° E
+Angola,NGO,angolia.opendataforafrica.org/,Open Data for Angola,African Development Bank Group Open Data,Data Portal, (Attribution),8.8333° S, 13.3333° E
+Anguilla,Federal,gov.ai/statistics,Anguilla Statistics,Anguilla Statistics Department,Census/Demographics,,18.2272° N, 63.0490° W
+Antigua and Barbuda,Federal,ab.gov.ag/article_details.php?id=4792&category=114,Statistics Division,Statistics Division,Census/Demographics,,17.1167° N, 61.8500° W
+Antigua and Barbuda,Federal,antiguamet.com/,Antiguamet,Meteorological Services ,Climate,,17.1167° N, 61.8500° W
+Argentina,Federal,datospublicos.gob.ar,Datos Publicos,Argentine Government Open Data,Data Portal,,34.6000° S, 58.3833° W
+Argentina,Federal,datos.misiones.gov.ar/,Misiones,Misiones Open Data,Data Portal,,34.6000° S, 58.3833° W
+Argentina,Federal,indec.mecon.ar,Indec,Instituto Nacional de Estadística y Censos ,Census/Demographics,,34.6000° S, 58.3833° W
+Argentina,Federal,ign.gob.ar,IGN,Instituto Geográfico Nacional ,GIS/Gazetteer,,34.6000° S, 58.3833° W
+Argentina,Federal,smn.gov.ar/,SMN,Servicio Meteorológico Nacional,Climate,,34.6000° S, 58.3833° W
+Argentina,City,bahiablanca.opendata.junar.com/home/,Bahaia Blanca,Bahaia Blanca Open Data,Data Portal,,38.7167° S, 62.2667° W
+Argentina,City,data.buenosaires.gob.ar/,Buenos Aires,Buenos Aires Open Data,Data Portal,,34.6033° S, 58.3817° W
+Argentina,Private,data.lanacion.com.ar/,La Nacion,La Nacion Newspaper Open Data,Data Portal,,34.6000° S, 58.3833° W
+Armenia,Federal,armstat.am,ArmStat,National Statistical Service,Census/Demographics,,40.1833° N, 44.5167° E
+Armenia,Federal,geology.am,IGS,Institute of Geological Sciences (IGS),GIS/Gazetteer,,40.1833° N, 44.5167° E
+Armenia,Federal,meteo.am/,Meteo.am,Armenian State Hydrometeorological and Monitoring Service ,Climate,,40.1833° N, 44.5167° E
+Aruba,,,,,,,,
+Austria,Federal,data.gv.at,Data.Gv.at,Austrian Government Open Data,Data Portal,,48.2000° N, 16.3500° E
+Austria,Federal,umweltbundesamt.at/opendata/,umweltbundesamt,Environment Agency Austria Open Data,Data Portal,,48.2000° N, 16.3500° E
+Austria,Federal,statistik.at,Statistik Austria,Statistik Austria,Census/Demographics,,48.2000° N, 16.3500° E
+Austria,Federal,geologie.ac.at,Geologie,Geologische Bundesanstalt,GIS/Gazetteer,,48.2000° N, 16.3500° E
+Austria,Federal,basemap.at,Basemap,Austrian OGD Basemap,GIS/Gazetteer,OGD,48.2000° N, 16.3500° E
+Austria,Federal,zamg.ac.at,ZAMG,Zentralanstalt für Meteorologie und Geodynamik,Climate,,48.2000° N, 16.3500° E
+Austria,Land,data.ktn.gv.at/,Kärnten,Kärnten Open Data,Data Portal,(CC-BY),46.7610° N, 13.8190° E
+Austria,Land,data.noe.gv.at/,Niederösterreich,Niederösterreich (Lower Austria) Open Data,Data Portal,(CC-BY),48.3333° N, 15.7500° E
+Austria,Land,data.tirol.gv.at,Tirol,Tirol (Tyrol) Open Data,Data Portal,(CC-BY),47.2686° N, 11.3933° E
+Austria,Land,vorarlberg.gv.at/,Vorarlberg,Vorarlberg Open Data,Data Portal,(CC),47.2436° N, 9.8939° E
+Austria,City,open.wien.at/site/datenkatalog/,Vienna,Vienna Open Data,Data Portal,,48.2000° N, 16.3667° E
+Austria,City,data.linz.gv.at/,Linz,Linz Open Data,Data Portal,,48.3000° N, 14.2833° E
+Austria,City,data.graz.gv.at,Graz,Graz Open Data,Data Portal,(CC-BY),47.0667° N, 15.4333° E
+Austria,NGO,opendataportal.at/,Open Data Austria,Open Data Portal Austria,Data Portal,,48.2000° N, 16.3500° E
+Austria,NGO,geol-ges.at,Geol-Ges,Austrian Geological Society,GIS/Gazetteer,,48.2000° N, 16.3667° E
+Azerbaijan,Federal,gia.az,GIA,Geological Institute - National Academy of Science,GIS/Gazetteer,,40.3000° N, 47.7000° E
+Azerbaijan,Federal,stat.gov.az,Stat.Gov.az,State Statistical Committee,Census/Demographics,,40.3000° N, 47.7000° E
+Azerbaijan,Federal,eco.gov.az/,ECO,National Hydrometeorological Department ,Climate,,40.3000° N, 47.7000° E
+Bahamas,Federal,statistics.bahamas.gov.bs,Statistics,Department of Statistics,Census/Demographics,,25.0667° N, 77.3333° W
+Bahrain,Federal,cio.gov.bh,CIO,Central Informatics Organisation,Census/Demographics,,26.0275° N, 50.5500° E
+Bahrain,Federal,bahrain.bh/wps/portal/data/,Bahrain,Bahrain Open Data,Data Portal,,26.0275° N, 50.5500° E
+Bahrain,Federal,education.gov.bh,MOE,Ministry of Education,Education,,26.0275° N, 50.5500° E
+Bahrain,Federal,bahrainweather.com/,Bahrain Weather,Bahrain Meteorological Service ,Climate,,26.0275° N, 50.5500° E
+Bangladesh,Federal,bbs.gov.bd,BBS,Bangladesh Bureau of Statistics,Census/Demographics,,23.7000° N, 90.3500° E
+Bangladesh,Federal,gsb.gov.bd,GSB,Geological Survey of Bangladesh,GIS/Gazetteer,,23.7000° N, 90.3500° E
+Bangladesh,Federal,sob.gov.bd,SOB,National Mapping Organization,GIS/Gazetteer,,23.7000° N, 90.3500° E
+Bangladesh,Federal,moedu.gov.bd,MOEDU,Ministry of Education,Education,,23.7000° N, 90.3500° E
+Bangladesh,Federal,bmd.gov.bd/,BMD,Bangladesh Meteorological Department,Climate,,23.7000° N, 90.3500° E
+Barbados,Federal,barstats.gov.bb,BarStats,Barbados Statistical Service,Census/Demographics,,13.1667° N, 59.5500° W
+Barbados,Federal,barbadosweather.org/,Barbados Weather,Meteorological Services,Climate,,13.1667° N, 59.5500° W
+Belarus,Federal,belstat.gov.by,BelStat,National Statistical Committee,Census/Demographics,,53.9167° N, 27.5500° E
+Belarus,Federal,belgeodesy.by/,Bel Geodesy,Department of Geodesy and Cartography,GIS/Gazetteer,,53.9167° N, 27.5500° E
+Belarus,Federal,pogoda.by/,Pogoda,Department of Hydrometeorology,Climate,,53.9167° N, 27.5500° E
+Belgium,Federal,data.gov.be/,Data.Gov.be,Belgium Government Open Data,Data Portal,,50.8500° N, 4.3500° E
+Belgium,Federal,statbel.fgov.be,StateBel,Statistics Belgium,Census/Demographics,,50.8500° N, 4.3500° E
+Belgium,Federal,ngi.be,NGI,Nationaal Geografisch Institut,GIS/Gazetteer,,50.8500° N, 4.3500° E
+Belgium,Federal,www.meteo.be,Meteo.be,Belgium Meteorological Office,Climate,,50.8500° N, 4.3500° E
+Belgium,City,opendata.antwerpen.be/datasets,Antwerpen,Antwerpen Open Data,Data Portal,,51.2167° N, 4.4000° E
+Belgium,City,www.brussels.be/artdet.cfm/7191,Brussells,Brussels Open Data,Data Portal,(Attribution),50.8500° N, 4.3500° E
+Belgium,City,data.gent.be,Ghent,Ghent Open Data,Data Portal,(non-commercial),51.0500° N, 3.7333° E
+Belgium,Private,belgium.rootsweb.ancestry.com/bel/_places,Belgium Roots,Belgium Roots - Place Names,GIS/Gazetteer,,51.0500° N, 3.7333° E
+Belize,Federal,statisticsbelize.org.bz,Statistics Belize,Statistics Belize,Census/Demographics,,17.0667° N, 88.7000° W
+Belize,Federal,mnrei.gov.bz,MNREI,MNREI,GIS/Gazetteer,,17.0667° N, 88.7000° W
+Belize,Federal,hydromet.gov.bz/,Hydromet,National Meteorological Service,Climate,,17.0667° N, 88.7000° W
+Benin,Federal,insae-bj.org,INSAE,Institut National de la Statistique et de l'nalyse Economique,Census/Demographics,,6.3176° N, 5.6145° E
+Benin,Federal,meteo-benin.net/,Meteo Benin,Service Météorologique National,Climate,,6.3176° N, 5.6145° E
+Benin,NGO,benin.opendataforafrica.org/,Open Data for Benin,African Development Bank Group Open Data,Data Portal, (Attribution),6.3176° N, 5.6145° E
+Bermuda,Federal,govsubportal.com/ministries/2012-02-10-14-05-02/cabinet-office/statistics/statistics-hq,Department of Statistics,Department of Statistics,Census/Demographics,,32.3000° N, 64.7833° W
+Bermuda,Federal,landvaluation.bm,Land Valulation,Land Valuation Department,Property/Land,(Public),6.3176° N, 5.6145° E
+Bermuda,Private,bermuda.io/,Bermuda.IO,Louis Galipeau & Andrew Simons,Data Portal,,32.3000° N, 64.7833° W
+Bhutan,Federal,nsb.gov.bt,NSB,National Statistics Bureau,Census/Demographics,,27.4170° N, 90.4350° E
+Bhutan,Federal,moea.gov.bt/departments/department.php?id=3,MOEA,Department of Geology and Mines,GIS/Gazetteer,,27.4170° N, 90.4350° E
+"Bolivia, Plurinational State of",Federal,ine.gov.bo,INE,Instituto Nacional de Estad&Atilde;&shy;stica de Bolivia,Census/Demographics,,16.7120° S, 64.6660° W
+"Bolivia, Plurinational State of",Federal,sergeotecmin.gob.bo,Sergeotecmin,Servicio Geológico Minero,GIS/Gazetteer,,16.7120° S, 64.6660° W
+"Bolivia, Plurinational State of",Federal,MINEDU,minedu.gob.bo,Ministry of Education,Education,,16.7120° S, 64.6660° W
+"Bolivia, Plurinational State of",Federal,geo.gob.bo,GeoBolivia,GeoBolivia,GIS/Gazetteer,,16.5000° S, 68.1500° W
+"Bonaire, Sint Eustatius and Saba",,,,,,,,
+Bouvet Island,,,,,,,,
+Botswana,Federal,cso.gov.bw,CSO,Central Statistics Office,Census/Demographics,,24.6583° S, 25.9083° E
+Botswana,Federal,gov.bw/en/Ministries--Authorities/Ministries/Ministry-of-Minerals-Energy-and-Water-Resources-MMWER,MMWER,Ministry-of-Minerals-Energy-and-Water-Resources-MMWER,GIS/Gazetteer,,24.6583° S, 25.9083° E
+Botswana,Federal,gov.bw/en/Ministries--Authorities/Ministries/Ministry-of-Education-MoE/,MOE,Ministry of Education,Education,,24.6583° S, 25.9083° E
+Botswana,Federal,weather.info.bw/,Weather Info,Botswana Meteorological Services,Climate,,24.6583° S, 25.9083° E
+Botswana,NGO,botswana.opendataforafrica.org/,Open Data for Botswana,African Development Bank Group Open Data,Data Portal, (Attribution),24.6583° S, 25.9083° E
+Bosnia and Herzegovina,Federal,bhas.ba,BHAS,Agencija za statistiku,Census/Demographics,,44.0000° N, 18.0000° E
+Bosnia and Herzegovina,Federal,fhmzbih.gov.ba/,Meteorological Institute,Meteorological Institute,Climate,,44.0000° N, 18.0000° E
+Brazil,Federal,dados.gov.br/,Dados.Gov.br,Brazil Government Open Data,Data Portal,,15.7833° S, 47.8667° W
+Brazil,Federal,dadosabertos.senado.gov.br/,Senado.Gov.br,Portal de Dados Abertos do Senado Federal,Data Portal,,15.7833° S, 47.8667° W
+Brazil,Federal,ibge.gov.br,IBGE,Instituto Brasileiro de Geografia e Estatística (IBGE),Census/Demographics,,15.7833° S, 47.8667° W
+Brazil,Federal,cprm.gov.br,CPRM,Geological Survey of Brazil (CPRM),GIS/Gazetteer,,15.7833° S, 47.8667° W
+Brazil,Federal,inep.gov.br,INEP,Instituto Nacional de Estudos e Pesquisas Educacionais,Education,,15.7833° S, 47.8667° W
+Brazil,Federal,dadosabertos.senado.gov.br/,Senado,Senado Open Data,Legislation,,15.7833° S, 47.8667° W
+Brazil,Federal,inmet.gov.br/,InMet,Instituto Nacional de Meteorologia ,Climate,,15.7833° S, 47.8667° W
+Brazil,State,www.governoaberto.sp.gov.br,São Paulo,Estado de São Paulo Open Data,Data Portal,,23.5500° S, 46.6333° W
+Brazil,City,datapoa.com.br/,DataPoa,Porto Alegre Open Data,Data Portal,,30.0331° S, 51.2300° W
+Brazil,City,dados.novohamburgo.rs.gov.br,Novo Hamburgo,Novo Hamburgo Open Data,Data Portal,,29.6778° S, 51.1308° W
+Brazil,City,data.rio.rj.gov.br,Rio de Janeiro,Datos Rio,Data Portal,,22.9083° S, 43.1964° W
+Brazil,Private/Non-Profit,br.ckan.net/,CKAN Brazil,Brazil Community Data Portal,Data Portal,,15.7833° S, 47.8667° W
+British Indian Ocean Territory,,,,,,,,
+Brunei Darussalam,Federal,depd.gov.bn/statistic_data.html,DEPD,Department of Econonic Planning and Development,Census/Demographics,,4.8903° N, 114.9422° E
+Brunei Darussalam,Federal,survey.gov.bn,Survey Department,"Survey of Brunei,Ministry of Development",GIS/Gazetteer,,4.8903° N, 114.9422° E
+Brunei Darussalam,Federal,bruneiweather.com.bn/,Burnei Weather,The Brunei Meteorological Service,Climate,,4.8903° N, 114.9422° E
+Bulgaria,Federal,nsi.bg,NSI,National Statistical Institute,Census/Demographics,,42.7500° N, 25.5000° E
+Bulgaria,Federal,geology.bas.bg,BAS,Geological Institute ,GIS/Gazetteer,,42.7500° N, 25.5000° E
+Bulgaria,Federal,meteo.bg,Meteo.bg,National Institute of Meteorology and Hydrology,Climate,,42.7500° N, 25.5000° E
+Bulgaria,NGO,bgd.bg,BGD,Bugarian Geological Society,GIS/Gazetteer,,42.7500° N, 25.5000° E
+Burkina Faso,Federal,data.gov.bf,Data.bf,OpenData Burkina Faso,Data Portal,,12.3333° N, 1.6667° W
+Burkina Faso,Federal,insd.bf,INSD,Institut National de la Statistique et de la Demographie,Census/Demographics,,12.3333° N, 1.6667° W
+Burkina Faso,Federal,bumigeb.bf,Bumigeb,Le Bureau des Mines et de la Géologie du Burkina,GIS/Gazetteer,,12.3333° N, 1.6667° W
+Burkina Faso,Federal,igb.bf,,Institut Geographique du Burkina,GIS/Gazetteer,,12.3333° N, 1.6667° W
+Burkina Faso,Federal,meteo-burkina.net/,Meteo Burkina,Direction de la Météorologie ,Climate,,12.3333° N, 1.6667° W
+Burkina Faso,NGO,burkinafaso.opendataforafrica.org/,Open Data for Burkina Faso,African Development Bank Group Open Data,Data Portal,(Attribution),12.3333° N, 1.6667° W
+Burundi,Federal,isteebu.bi,ISTEEBU,Institut de Statistiques et d’Études Économiques du Burundi ,Census/Demographics,,3.5000° S, 30.0000° E
+Burundi,NGO,burundi.opendataforafrica.org/,Open Data for Burundiu,African Development Bank Group Open Data,Data Portal, (Attribution),3.5000° S, 30.0000° E
+Cambodia,Federal,nis.gov.kh,NIS,National Institute of Statistics,Census/Demographics,,11.5500° N, 104.9167° E
+Cambodia,Federal,mbodiameteo.com,Mbodia Meteo,Department of Meteorology ,Climate,,11.5500° N, 104.9167° E
+Cameroon,Federal,statistics-cameroon.org,Statistics Cameroon,Institut National de la Statistique ,Census/Demographics,,3.8667° N, 11.5167° E
+Cameroon,Federal,minatd.cm/gov/site/en/le-ministere/a-propos/carte-administrative,Administrative Map,Administrative Map,GIS/Gazetteer,,3.8667° N, 11.5167° E
+Cameroon,NGO,cameroon.opendataforafrica.org/,Open Data for Cameroon,African Development Bank Group Open Data,Data Portal, (Attribution),3.8667° N, 11.5167° E
+Cabo Verde,Federal,ine.cv,INE,Inststituto Nacional de Estatistica ,Census/Demographics,,15.1111° N, 23.6167° W
+Cabo Verde,Federal,MINEDU,minedu.gov.cv,Ministério da Educação e Desporto,Education,,15.1111° N, 23.6167° W
+Cabo Verde,Federal,meteo.cv/,Meteo.cv,Instituto Nacional de Meteorologia e Geophísica,Climate,,15.1111° N, 23.6167° W
+Cabo Verde,NGO,capeverde.opendataforafrica.org/,Open Data for Cape Verde,African Development Bank Group Open Data,Data Portal, (Attribution),15.1111° N, 23.6167° W
+Cayman Islands,Federal,eso.ky,ESO,Economics and Statistics Office,Census/Demographics,,19.3333° N, 81.4000° W
+Central African Republic,Federal,stat-centrafrique.com/,Statistics,République Direction Générale de la Statistique,Census/Demographics,,4.3667° N, 18.5833° E
+Central African Republic,NGO,car.opendataforafrica.org/,Open Data for CAR,African Development Bank Group Open Data,Data Portal, (Attribution),4.3667° N, 18.5833° E
+Chad,Federal,inseed-tchad.org,INSEED,Ministry of Education,Education,,12.1000° N, 16.0333° E
+Chad,NGO,chad.opendataforafrica.org/,Open Data for Chad,African Development Bank Group Open Data,Data Portal, (Attribution),12.1000° N, 16.0333° E
+Chile,Federal,datos.gob.cl/,Datos.Gob.cl,Chilean Government Open Data,Data Portal,,33.4333° S, 70.6667° W
+Chile,Federal,datos.bcn.cl/,Datos.Bcn.cl,Chile Library of Congress,Data Portal,(PDDL),33.4333° S, 70.6667° W
+Chile,Federal,consejotransparencia.cl/consejo/site/edic/base/port/pcatalogo.html,Chile Transparency,Chilean Transparency Board,Data Portal,,33.4333° S, 70.6667° W
+Chile,Federal,ine.cl,INE,Instituto Nacional de Estadística de Chile,Census/Demographics,,33.4333° S, 70.6667° W
+Chile,Federal,meteochile.cl/,Meteo Chile, Dirección Meteorológica de Chile,Climate,,33.4333° S, 70.6667° W
+Chile,Federal,sernageomin.cl,Serna Geomin,Servicio Nacional de Geología y Minería,GIS/Gazetteer,,33.4333° S, 70.6667° W
+Chile,Federal,geoportal.cl,Geoportal.cl,Catálogo Nacional de Información Geoespacial,GIS/Gazetteer,,33.4333° S, 70.6667° W
+Chile,City,lima.datosabiertos.pe/home/,Lima,Lima Open Data,Data Portal,,12°2′36″S, 77°1′42″W
+Chile,City,datos.penalolen.cl,Peñalolén,Peñalolén Open Data,Data Portal,,33.4833° S, 70.5500° W
+China,Federal,govinfo.nlc.gov.cn/,China,Chinese Government Public Information Online,Data Portal,,35.0000° N, 103.0000° E
+China,Federal,stats.gov.cn,Stats.Gov.cn,National Bureau of Statistics of China,Census/Demographics,,35.0000° N, 103.0000° E
+China,Federal,cgn.ac.cn,CGN,CGN,GIS/Gazetteer,,35.0000° N, 103.0000° E
+China,Federal,cma.gov.cn/,CMA,China Meteorological Administration,Climate,,35.0000° N, 103.0000° E
+China,Federal,satellite.cma.gov.cn/PortalSite/Data/Satellite.aspx,NSMC,FENGYUN Satellite Data Center,Climate,(Purchase),35.0000° N, 103.0000° E
+China,Federal,http://219.238.166.215/mcp/,MCP,MCP,GIS/Gazetteer,,35.0000° N, 103.0000° E
+China,City,zwgk.dl.gov.cn/,Dalian,Dalian Municipal Government Information Service,Data Portal,,38.9208° N, 121.6392° E
+Christmas Island,,,,,,,,
+Cocos (Keeling) Islands,,,,,,,,
+Colombia,Federal,datosabiertoscolombia.cloudapp.net/frm/buscador/frmBuscador.aspx,Columbia,Columbia Government Open Data,Data Portal,,4.5833° N, 74.0667° W
+Colombia,Federal,dane.gov.co,DANE,National Administrative Department of Statistics,Census/Demographics,,4.5833° N, 74.0667° W
+Colombia,Federal,sgc.gov.co,SGC,Servicio Geológico Colombiana,GIS/Gazetteer,,4.5833° N, 74.0667° W
+Colombia,Federal,ideam.gov.co/,IDEAM,"Instituto de Hidrología, Meteorología y Estudios Ambientales",Climate,,4.5833° N, 74.0667° W
+Colombia,Federal,igac.gov.co,IGAC,Instituto Geográfico Nacional Agustin Codazzi,GIS/Gazetteer,,4.5833° N, 74.0667° W
+Comoros,NGO,comoros.opendataforafrica.org/,Open Data for Comoros,African Development Bank Group Open Data,Data Portal, (Attribution),11.6833° S, 43.2667° E
+"Congo, Democratic Republic of the",Federal,drcongo.opendataforafrica.org/,DRC,Democratic Republic of the Congo Open Data,Data Portal,(Attribution),2.8800° S, 23.6560° E
+"Congo, Democratic Republic of the",Federal,meteo-congo-kinshasa.net/,Meteo Congo Kinshasa,Agence Nationale de Météorologie et de Télédétection par Satellite,Climate,,2.8800° S, 23.6560° E
+"Congo, Democratic Republic of the",Federal,drcmining.org/,DRC Mining,The network for the geological and mining references,GIS/Gazetteer,,2.8800° S, 23.6560° E
+"Congo, Republic of",Federal,cnsee.org,CNSEE,Centre National de la Statistique et des Etudes Economiques,Census/Demographics,,1.4400° S, 15.5560° E
+"Congo, Republic of",Federal,Meteo Congo,meteo-congo-brazza.net/,Direction de la Météorologie Nationale ,Climate,,1.4400° S, 15.5560° E
+"Congo, Republic of",NGO,rcongo.opendataforafrica.org/,Open Data for Republic of Congo,African Development Bank Group Open Data,Data Portal, (Attribution),1.4400° S, 15.5560° E
+Cook Islands,Federal,mfem.gov.ck,CISO,Cook Islands Statistics Office,Census/Demographics,,21.2000° S, 159.7667° W
+Cook Islands,Federal,cookislands.pacificweather.org/,Pacific Weather,Cook Islands Meteorological Service,Climate,,21.2000° S, 159.7667° W
+Costa Rica,Federal,datosabiertos.gob.go.cr,portal de Datos Abiertos, Costa Rica Open Data,Data Portal,,9.9333° N, 84.0833° W
+Costa Rica,Federal,censos.ccp.ucr.ac.cr,Censos,Population and Housing Census,Data Portal,,9.9333° N, 84.0833° W
+Costa Rica,Federal,inec.go.cr,INEC,Instituto Nacional de Estadística y Censos,Census/Demographics,,9.9333° N, 84.0833° W
+Costa Rica,Federal,imn.ac.cr/,IMN,Instituto Meteorológico Nacional ,Climate,,9.9333° N, 84.0833° W
+Costa Rica,Federal,snitcr.go.cr,SNITCR,Instituto Geográfico Nacional,GIS/Gazetteer,,9.9333° N, 84.0833° W
+Cote d'Ivoire,Federal,ine.cl,INE,Institut National de la Statistique,Census/Demographics,,6.8500° N, 5.3000° W
+Cote d'Ivoire,Federal,sernageomin.cl,SERNAGEOMIN,SERNAGEOMIN,GIS/Gazetteer,,6.8500° N, 5.3000° W
+Cote d'Ivoire,NGO,cotedivoire.opendataforafrica.org/,Open Data for Cote d'Ivoire,African Development Bank Group Open Data,Data Portal, (Attribution),6.8500° N, 5.3000° W
+Croatia,Federal,dzs.hr,DZS,Bureau of Statistics,Census/Demographics,,45.8000° N, 16.0000° E
+Croatia,Federal,hgi-cgs.hr,HGI,Hrvatski Geloski Institut,GIS/Gazetteer,,45.8000° N, 16.0000° E
+Croatia,Federal,cgn.dgu.hr/,CGN,Croatian Gazetteer Service,GIS/Gazetteer,,45.8000° N, 16.0000° E
+Croatia,Federal,meteo.hr,Meteo.hr,Meteorological and Hydrological Service,Climate,,45.8000° N, 16.0000° E
+Croatia,Federal,geoportal.dgu.hr,DGU,Geoportal,GIS/Gazetteer,,45.8000° N, 16.0000° E
+Croatia,City,geoportal.zagreb.hr,ZG GeoPortal,ZG GeoPortal,GIS/Gazetteer,,45.8167° N, 15.9833° E
+Croatia,NGO,geologija.hr/,Geologija,Crotian Geological Society,GIS/Gazetteer,,45.8000° N, 16.0000° E
+Cuba,Federal,one.cu,ONE,National Statistics Office,Census/Demographics,,22.0000° N, 79.5000° W
+Cuba,Federal,cubagob.cu/otras_info/censo,Censo,Censo de Poblacion y Viviendas,Census/Demographics,,22.0000° N, 79.5000° W
+Cuba,Federal,insmet.cu/,INSMET,nstituto de Meteorología ,Climate,,22.0000° N, 79.5000° W
+Curaçao,Federal,meteo.an,Meteo.an,Meteorological Service,Climate,,12.1833° N, 69.0000° W
+Cyprus,Federal,mof.gov.cy/mof/cystat/statistics.nsf,MOF,Statistics Service,Census/Demographics,,35.0000° N, 33.0000° E
+Cyprus,Federal,moa.gov.cy/gsd,GSD,Geological Survey Department,GIS/Gazetteer,,35.0000° N, 33.0000° E
+Cyprus,Federal,moa.gov.cy/ms,MOA,Meteorological Service ,Climate,,35.0000° N, 33.0000° E
+Czech Republic,Federal,cz.ckan.net/,Czech Republic,Czech Republic Open Data,Data Portal,,49.7500° N, 15.7500° E
+Czech Republic,Federal,czso.cz,CZSO,Czech Statistical Office,Census/Demographics,,49.7500° N, 15.7500° E
+Czech Republic,Federal,vugtk.cz,VUGTK,Research Institute of Geodesy,GIS/Gazetteer,,49.7500° N, 15.7500° E
+Czech Republic,Federal,chmi.cz,CHMI,Czech Hydrometeorological Institute,Climate,,49.7500° N, 15.7500° E
+Czech Republic,NGO,geologickaspolecnost.cz,Czech Geological Society,Czech Geological Society,GIS/Gazetteer,,49.7500° N, 15.7500° E
+Denmark,Federal,odaa.dk,Open Data Aarhus,Danish Government Open Data,Data Portal,,55.7200° N, 12.5700° E
+Denmark,Federal,dst.dk,DST,Danmark Statistik,Census/Demographics,,55.7200° N, 12.5700° E
+Denmark,Federal,geus.dk,GEUS,GEUS,GIS/Gazetteer,,55.7200° N, 12.5700° E
+Denmark,Federal,dmi.dk,DMI,Danish Meteorological Institute ,Climate,,55.7200° N, 12.5700° E
+Denmark,Federal,kortforsyningen.dk,Kortforsyningen,Map Supply - Geodatastyrelsens,GIS/Gazetteer,,55.7200° N, 12.5700° E
+Djibouti,Federal,ministere-finances.dj/statist.htm,Statist,Direction Nationale de la Statistique ,Census/Demographics,,11.5883° N, 43.1450° E
+Djibouti,NGO,dhibouti.opendataforafrica.org/,Open Data for Djibouti,African Development Bank Group Open Data,Data Portal, (Attribution),11.5883° N, 43.1450° E
+Dominica,Federal,weather.gov.dm/,Weather Dominica,Dominica Meteorological Services,Climate,,15.4167° N, 61.3333° W
+Dominican Republic,Federal,dominica.gov.dm/education-and-human-resource-development,MOE,Ministry of Education and Human Resource Development,Education,,19.0000° N, 70.6667° W
+Dominican Republic,Federal,one.gov.do,ONE,Encuesta Nacional de Hogares de Propósitos Múltiples,Census/Demographics,,19.0000° N, 70.6667° W
+Dominican Republic,Federal,onamet.gov.do/,ONAMET,Oficina Nacional de Meteorologiá ,Climate,,19.0000° N, 70.6667° W
+Dominican Republic,Federal,dgm.gov.do,DGM,Ministry of Energy & Mines,GIS/Gazetteer,,19.0000° N, 70.6667° W
+Ecuador,Federal,inec.gob.ec/estadisticas/,INEC,Estadistico Instituto Nacional de Estadística y Censos,Census/Demographics,,0.1500° S, 78.3500° W
+Ecuador,Federal,educacion.gob.ec,MOE,Ministerio de Educación,Education,,0.1500° S, 78.3500° W
+Ecuador,Federal,inamhi.gob.ec/,INAMHI,Instituto Nacional de Meteorología e Hidrología ,Climate,,0.1500° S, 78.3500° W
+Egypt,Federal,egypt.gov.eg/english/general/Open_Gov_Data_Initiative.aspx,Egypt,Egytian Government Open Data, Data Portal,,26.0000° N, 30.0000° E
+Egypt,Federal,capmas.gov.eg,CAPMAS,Central Agency for Mobilization and Statistics,Census/Demographics,,26.0000° N, 30.0000° E
+Egypt,Federal,nwp.gov.eg/,NWP,The Egyptian Meteorological Authority,Climate,,26.0000° N, 30.0000° E
+Egypt,Federal,egsma.gov.eg,EGSMA,Egyptian Geological Survey and Mining Authority (EGSMA),GIS/Gazetteer,,26.0000° N, 30.0000° E
+Egypt,Federal,esa.gov.eg,ESA,Egypt Survey Authority,GIS/Gazetteer,(Non-Commerical Use),26.0000° N, 30.0000° E
+El Salvador,Federal,digestyc.gob.sv,Digestyc,Direccion General de Estadstica y Censos,Census/Demographics,,13.6667° N, 89.1667° W
+El Salvador,Federal,mined.gob.sv,MINED,Ministry of Education,Education,,13.6667° N, 89.1667° W
+El Salvador,Federal,snet.gob.sv/,SNET,Servicio Nacional de Estudios Territoriales ,Climate,,13.6667° N, 89.1667° W
+El Salvador,Federal,cnr.gob.sv,CNR,National Registration Center,Property/Land,,13.6667° N, 89.1667° W
+Equatorial Guinea,Federal,dgecnstat-ge.org,DGECN,Dirección General de Estadística y Cuentas Nacionales,Census/Demographics,,3°27′N, 8°33′E
+Equatorial Guinea,Federal,equatorialoil.com,Equatorial Oil,"Ministry of Mines, Industry and Energy",GIS/Gazetteer,,3°27′N, 8°33′E
+Equatorial Guinea,NGO,equinea.opendataforafrica.org/,Open Data for Equatoral Guinea,African Development Bank Group Open Data,Data Portal, (Attribution),3°27′N, 8°33′E
+Eritrea,NGO,eritria.opendataforafrica.org/,Open Data for Eritrea,African Development Bank Group Open Data,Data Portal, (Attribution),15.3333° N, 38.9167° E
+Estonia,Federal,opendata.ee,Opendata.ee,Estonian Government Open Data,Data Portal,,59.0000° N,26.0000° E
+Estonia,Federal,stat.ee/en,Stat.ee,Statistics Estonia,Census/Demographics,,59.0000° N, 26.0000° E
+Estonia,Federal,eki.ee/knn,EKI,Place Names Board of Estonia,GIS/Gazetteer,,59.0000° N, 26.0000° E
+Estonia,Federal,ilmateenistus.ee/,EHMI,Estonian Weather Service,Climate,,59.0000° N, 26.0000° E
+Ethiopia,Federal,csa.gov.et,CBS,Central Statistics Agency,Census/Demographics,,59.0000° N, 26.0000° E
+Ethiopia,Federal,ethiomet.gov.et/,Ethio Net,National Meteorological Services Agency,Climate,,59.0000° N, 26.0000° E
+Ethiopia,Federal,gse.gov.et,GSE,Geological Survey of Ethiopia,GIS/Gazetteer,,59.0000° N, 26.0000° E
+Ethiopia,NGO,ethiopia.opendataforafrica.org/,Open Data for Ethopia,African Development Bank Group Open Data,Data Portal, (Attribution),59.0000° N, 26.0000° E
+Falkland Islands (Malvinas),,,,,,,,
+Faroe Islands, ,,,,,,,
+Fiji,Federal,statsfiji.gov.fj,Stats Fiji,Bureau of Statistics,Census/Demographics,,18.0000° S, 179.0000° E
+Fiji,Federal,met.gov.fj/,Met Fiji,Fiji Meteorological Service,Climate,,18.0000° S, 179.0000° E
+Finland,Federal,fi.thedatahub.org/,The Data Hub,Finish Government Open Data,Data Portal,(ODbl),64.0000° N, 26.0000° E
+Finland,Federal,ilmatieteenlaitos.fi,ilmatieteenlaitos,Finnish Meteorological Institute,Climate,,64.0000° N, 26.0000° E
+Finland,Federal,gtk.fi,GTK,Geological Survey of Finland,GIS/Gazetteer,,64.0000° N, 26.0000° E
+Finland,Federal,maanmittauslaitos.fi,NLS,National Land Survey of Finland,GIS/Gazetteer,(Public),64.0000° N, 26.0000° E
+Finland,Federal,kaino.kotus.fi/maidennimet/index.php?h=en,Kotus,Research Institute for the Languages of Finland - Names of countries in seven languages,GIS/Gazetteer,(Public),64.0000° N, 26.0000° E
+Finland,Federal,developer.matka.fi,FTA,Finish Transport Agency API,Transportation,(Public),64.0000° N, 26.0000° E
+Finland,Federal,www.stat.fi,Stat.fi,Statistics Finland,Census/Demographics,(Attribution),64.0000° N, 26.0000° E
+Finland,Region,paikkatietokeskus.lounaispaikka.fi/fi/aineistot/,Lounais-Suomi,Lounais-Suomi (Southwest) Finland,Data Portal,(CC-BY-SA),60°30′N, 22°45′E
+Finland,City,hri.fi,HRI,Helsinki Region Infoshare,Data Portal,,60.1708° N, 24.9375° E
+Finland,City,hel.fi/hki/tieke/en/Etusivu,City of Helsinki Urban Facts, City Statistical Office and the City Archives,Census/Demographics,,60.1708° N, 24.9375° E
+Finland,City,reittiopas.fi,Reittiopas,Helsinki Regional Transport Open Data/API,Transportation,(Public),60.1708° N, 24.9375° E
+Finland,City,data.jyvaskyla.fi,Jyväskylä,Jyväskylä Open Data,Data Portal,,62.2417° N, 25.7417° E
+Finland,City,ouka.fi/oulu/english/open-data,Oulu,Oulu Open Data,Data Portal,(Attribution),65.0167° N, 25.4667° E
+Finland,City,tampere.fi/avoindata,Tampere,Tampere Open Data,Data Portal,,61.5000° N, 23.7667° E
+Finland,City,developer.publictransport.tampere.fi,Tampere Public Transport ,Tampere Public Transport - API,Transportation,(Public),61.5000° N, 23.7667° E
+France,Federal,data.gouv.fr/,Data.Gouv.fr,French Government Open Data,Data Portal,,47.0000° N, 2.0000° E
+France,Federal,insee.fr,INSEE,National Institittue of Statistics and Economic Studies,Census/Demographics,,47.0000° N, 2.0000° E
+France,Federal,meteofrance.com,Meteo France,Meteo France,Climate,,47.0000° N, 2.0000° E
+France,Federal,brgm.fr,BRGM,The French Geological Survey,GIS/Gazetteer,,47.0000° N, 2.0000° E
+France,Region,opendata.auvergne.fr,Auvergne,Région Auvergne,Data Portal,,45.3333° N, 3.0000° E
+France,Region,opendata.alsace.fr,Alsace,Région Alsace,Data Portal,(Attribution),48.5000° N, 7.5000° E
+France,Region,data-tourisme-bretagne.com,Brittany,Brittany,Data Portal,,48.0000° N, 3.0000° W
+France,Region,opendata.corse.fr,Corsica,OpenData Corsica,Data Portal,(Attribution),42.1500° N, 9.0833° E
+France,Region,data.iledefrance.fr,Île-de-France,Île-de-France Open Data,Data Portal,,48.5000° N, 2.5000° E
+France,Region,opendata.nordpasdecalais.fr,Nord-pas-de-Calais,Région Nord-pas-de-Calais,Data Portal,(ODbl),50.525°N, 2.9°E
+France,Region,data.paysdelaloire.fr,Pays de la Loire,Région Pays de la Loire,Data Portal,(ODbl),47.4667° N, 0.8333° W
+France,Region,data.visitprovence.com/,Provence,Provence Open Data,Data Portal,,43°47′24″N, 4°49′57″E
+France,Region,data.angers.fr/,Angers.fr,Angers Loire Metropol Data Catalog,Data Portal,(CC),47.4736° N, 0.5542° W
+France,Region,datalocale.fr,DataLocale.fr,Aquitaine Regional Council Open Data,Data Portal,(ODbl),44.5833° N, 0.0000° W
+France,Region,opendata.regionpaca.fr,Provence-Alpes-Côte d'Azur,Open PACA,Data Portal,(Public),44.0764° N, 5.9745° E
+France,Department,data-tourisme-cotesdarmor.com,Côtes-d'Armor,Côtes-d'Armor,Data Portal,,48.3333° N, 2.8333° E
+France,Department,opendata.hauts-de-seine.net/,Hauts de Seine,French Department Hauts de Seine Open Data,Data Portal,(Open),48.8333° N, 2.2000° E
+France,Department,data.loire-atlantique.fr/,Loire-Atlantique,French Department Loire-Atlantique Open Data,Data Portal,(ODbl),47.3333° N, 1.6667° E
+France,Department,pilote41.fr,Loir-et-Cher,Département Loir-et-Cher,Data Portal,,47.2667° N, 0.6667° E
+France,Department,opendata49.fr,Maine-Et-Loire,Département Maine-Et-Loire,Data Portal,(ODbl),47.4500° N, 0.6000° E
+France,Department,conseil.general.manche.fr/open-data.asp,Manche,Département Manche,Data Portal,,49.0500° N, 1.2500° E
+France,Department,moselleopendata.fr/,Moselle,Département de la Moselle,Data Portal,,49.0339° N, 6.6619° E
+France,Department,opendata71.fr/,Saône-et-Loire,French Department Saône-et-Loire Open Data,Data Portal,(non-commercial),46.6667° N, 4.7000° E
+France,City,opendata.bordeaux.fr/,Bordeaux,Bordeaux Open Data,Data Portal,,44.8400° N, 0.5800° W
+France,City,data.lacub.fr/,LaCUB,Bordeaux Open Data,Data Portal,,44.8400° N, 0.5800° W
+France,City,opendata.brocas.fr,Brocas,Ville de Brocas,Data Portal,(ODbl),44.0447° N, 0.5339° W
+France,City,data.issy.com,Ville de Issy-les-Moulineaux,Ville de Issy-les-Moulineaux,Data Portal,,48°49′26″N, 2°16′12″E
+France,City,catalogue.data.grandlyon.com/,Grand Lyon,Greater Lyon Open Data,Data Portal,(ODbl), 45°45′27″N, 4°51′14″E
+France,City,opendata.larochelle.fr,La Rochelle,La Rochelle Open Data,Data Portal,,46.1591° N, 1.1517° W
+France,City,lemans.fr/page.do?t=2&uuid=16CB26C7-550EA533-5AE8381B-D7A64AF8,Le Mans,Le Mans Open Data,Data Portal,(ODbl),48.0077° N, 0.1984° E
+France,City,data.gouv.fr/fr/organizations/metz-metropole/,Metz,Metz Métropole,Data Portal,,49.1203° N, 6.1778° E
+France,City,opendata.montpelliernumerique.fr,Montpellier,Montpellier Open Data,Data Portal,(Non-Commercial Use),43.6119° N, 3.8772° E
+France,City,mulhouse.fr/fr/les-donnees/,Mulhouse,Mulhouse Open Data,Data Portal,(Open),47.7500° N, 7.3400° E
+France,City,opendata.grand-nancy.org,Nancy,Ville de Nancy,Data Portal,(ODbl),48.6936° N, 6.1846° E
+France,City,data.nantes.fr,Nantes,Nantes Open Data,Data Portal,(ODbl),47.2181° N, 1.5528° W
+France,City,opendata.nicecotedazur.org,Nice Côte d'Azur,Open Data de Nice Côte d'Azur,Data Portal,,43.6653° N, 7.2150° E
+France,City,opendata.paris.fr.opendatasoft.com,Paris,Paris Open Data,Data Portal,,48.8567° N, 2.3508° E
+France,City,www.data.rennes-metropole.fr,Data.Rennes,"Renne's Area,Rennes Métropole en Accès Open Data",Data Portal,(Non-Commercial Use),48.1147° N, 1.6794° W
+France,City,data.gouv.fr/fr/organizations/ville-de-saint-malo/,Saint-Malo,Ville de Saint-Malo,Data Portal,,48.6481° N, 2.0075° W
+France,City,strasbourg.eu/fr/ma-situation/professionnel/open-data,Ville de Strasbourg,Ville de Strasbourg,Data Portal,(ODbl),48°35′N, 7°45′E
+France,City,data.grandtoulouse.fr/,Grand Toulouse,Grand Toulouse Open Data,Data Portal,(ODbl),43.6045° N, 1.4440° E
+France,City,siteopendataversailles.cloudapp.net/,Versailles,Versailles Open Data,Data Portal,,48.8044° N, 2.1232° E
+France,Private,github.com/gregoiredavid/france-geojson,Boundaries of France,Boundaries of Administrative Divisions in France,GIS/Gazetteer,(GeoFLA),47.0000° N, 2.0000° E
+French Guiana,,,,,,,,
+French Polynesia,Federal,meteo.pf/,Meteo.pf,Météo-France Polynesie Francaise,Climate,,17.5333° S, 149.5667° W
+French Southern Territories,,,,,,,,
+Gabon,Federal,stat-gabon.org,Stat-Gabon,Direction Générale des Statistiques du Gabon,Census/Demographics,,0.3833° N, 9.4500° E
+Gabon,NGO,gabon.opendataforafrica.org/,Open Data for Gabon,African Development Bank Group Open Data,Data Portal, (Attribution),0.3833° N, 9.4500° E
+Gambia,Federal,gbos.gm,GBoS,Gambia Bureau of Statistics,Census/Demographics,,13.4667° N, 16.6000° W
+Gambia,Federal,dugambia.gm,DUGambia,Department of State for Education,Education,,13.4667° N, 16.6000° W
+Gambia,NGO,gambia.opendataforafrica.org/,Open Data for Gambia,African Development Bank Group Open Data,Data Portal, (Attribution),13.4667° N, 16.6000° W
+Georgia,Federal,geostat.ge,GeoStat.Ge,National Statistics Office of Georgia,Census/Demographics,,41.7167° N, 44.7833° E
+Georgia,Federal,hydromet.ge/,HydroMet,Department of Hydrometeorology,Climate,,41.7167° N, 44.7833° E
+Germany,Federal,govdata.de/,GovData.de,German Government Open Data,Data Portal,(Open),52.5167° N, 13.3833° E
+Germany,Federal,destatis.de,DeStatis,DeStatis - Statistisches Bundesamt,Census/Demographics,,52.5167° N, 13.3833° E
+Germany,Federal,dwd.de/,DWD,Weather and Climate - Deutscher Wetterdienst,Climate,,52.5167° N, 13.3833° E
+Germany,Federal,bgr.bund.de,BGR,Bundesanstalt fur Geowissenschaften und Rohstoffe,GIS/Gazetteer,,52.5167° N, 13.3833° E
+Germany,State,opendata.service-bw.de/Seiten/default.aspx,Baden-Württemberg,Baden-Württemberg Open Data,Data Portal,,47°51′22″N, 8°6′42″E﻿ 
+Germany,State,daten.bremen.de/,Bremen,Bremen Open Data,Data Portal,,53.0833° N, 8.8000° E
+Germany,State,daten.rlp.de/,Rheinland-Pfalz,Rheinland-Pfalz Open Data,Data Portal,,49.9131° N, 7.4500° E
+Germany,City,daten.berlin.de/,Berlin,Berlin Open Data,Data Portal,,52.5167° N, 13.3833° E
+Germany,City,offenedaten-koeln.de/,Cologne,Cologne Open Data,Data Portal,,50.9500° N, 6.9667° E
+Germany,City,daten.hamburg.de/,Hamburg,Hamburg Open Data,Data Portal,,53.5653° N, 10.0014° E
+Germany,City,opendata-hro.de/,HRO,Hansestadt Rostock Open Data,Data Portal,,54°5′0″N, 12°8′0″E﻿ 
+Germany,City,apileipzig.de/,Leipzig,Leipzig Open Data,Data Portal,(Open),51.3333° N, 12.3833° E
+Germany,City,offenedaten.moers.de/,Moers,Moers Open Data,Data Portal,(Attribution),51.4592° N, 6.6197° E
+Germany,City,data.ulm.de/,Ulm,Ulm Open Data,Data Portal,(CC-BY),48.4000° N, 9.9833° E
+Germany,Private,offenedaten.de/,Offene Daten,Germany Datasets,Data Portal,,41.7167° N, 44.7833° E
+Germany,Private,segelflug.de/vereine/welt2000/,Welt 2000 ,Welt 2000 Airports/Waypoints,Transportation,(Public),52.5167° N, 13.3833° E
+Ghana,Federal,opendata.go.ke/,Data.Gov.gh,Ghana Government Open Data,Data Portal,,5.5500° N, 0.2000° W
+Ghana,Federal,statsghana.gov.gh,Stats Ghana,Ghana Statistical Service,Census/Demographics,,5.5500° N, 0.2000° W
+Ghana,Federal,meteo.gov.gh/,Meteo Ghana,Ghana Meteorological Services Department,Climate,,5.5500° N, 0.2000° W
+Ghana,NGO,ghana.opendataforafrica.org/,Open Data for Ghana,African Development Bank Group Open Data,Data Portal, (Attribution),5.5500° N, 0.2000° W
+Gibraltar,,,,,,,,
+Greece,Federal,geodata.gov.gr/,Geodata.gov.gr,Greek Government Open Data,Data Portal,,39.0000° N, 22.0000° E
+Greece,Federal,data.gov.gr/,Data.Gov.gr,Greece National Data Portal,Data Portal,(CC-BY),39.0000° N, 22.0000° E
+Greece,Federal,statistics.gr,Statistics.Gr,National Statistical Service of Greece,Census/Demographics,,39.0000° N, 22.0000° E
+Greece,Federal,hnms.gr,HNMS,Hellenic National Meteorological Service,Climate,,39.0000° N, 22.0000° E
+Greece,NGO,geosociety.gr,Geosociety,Geological Society of Greece,GIS/Gazetteer,,37.9617° N, 23.7533° E
+Greenland,,,,,,,,
+Grenada,,,,,,,,
+Guam,,,,,,,,
+Guatemala,Federal,ine.gob.gt,INE,Instituto Nacional de Estadística,Census/Demographics,,14.6133° N, 90.5353° W
+Guatemala,Federal,mineduc.gob.gt/,MINEDUC,Ministry of Education,Education,,14.6133° N, 90.5353° W
+Guatemala,Federal,insivumeh.gob.gt/,INSIVUMEH,"Instituto Nacional de Sismología, Vulcanología, Meteorologiá e Hidrología",Climate,,14.6133° N, 90.5353° W
+Guatemala,Federal,ign.gob.gt,IGN,Instituto Geográfico Nacional,GIS/Gazetteer,,14.6133° N, 90.5353° W
+Guernsey,,,,,,,,
+Guinea,Federal,stat-guinee.org,Stat Guinee,Direction Nationale de la Statistique,Census/Demographics,,9.5167° N, 13.7000° W
+Guinea,Federal,meteo-guinee-conakry.net/,Meteo Guinee Conakry,Direction Nationale de la Météorologie,Climate,,9.5167° N, 13.7000° W
+Guinea,NGO,guinea.opendataforafrica.org/,Open Data for Guinea,African Development Bank Group Open Data,Data Portal, (Attribution),9.5167° N, 13.7000° W
+Guinea-Bissau,Federal,stat-guinebissau.com,Stat-GuineBissau,Instituto Nacional de Estatística e Censos,Census/Demographics,,12.0000° N, 15.0000° W
+Guinea-Bissau,Federal,meteo-guinee-bissau.net/,Meteo Guinee Bissau,Météorologie de Guinée Bissau,Climate,,12.0000° N, 15.0000° W
+Guinea-Bissau,NGO,guineab.opendataforafrica.org/,Open Data for Guinea-Bissam,African Development Bank Group Open Data,Data Portal, (Attribution),12.0000° N, 15.0000° W
+Guyana,Federal,statisticsguyana.gov.g,Statistics Guyana,Bureau of Statistics,Census/Demographics,,5.0000° N, 58.7500° W
+Guyana,Federal,education.gov.gy,MOE,Ministry of Education,Education,,5.0000° N, 58.7500° W
+Guyana,Federal,ggmc.gov.gy,GGMC,Guyana Geology and Mines Commission,GIS/Gazetteer,,5.0000° N, 58.7500° W
+Haiti,Federal,ihsi.ht,IHSI,Institut Haitien de Statistique et d'Informatique,Census/Demographics,,18.5333° N, 72.3333° W
+Haiti,Federal,meteo-haiti.gouv.ht/,Meteo Haiti,Centre national de météorologie,Climate,,18.5333° N, 72.3333° W
+Haiti,Federal,bme.gouv.ht,BME,Bureau of Mines and Energy,GIS/Gazetteer,,18.5333° N, 72.3333° W
+Honduras,Federal,ine.gob.hn,INE,National Institute of Statistics,Census/Demographics,,14.1000° N, 87.2167° W
+Honduras,Federal,smn.gob.hn,SMN,Servicio Meteorológico Nacional (SMN),Climate,,14.1000° N, 87.2167° W
+Hong Kong,Federal,gov.hk/en/theme/psi,Hong Kong,Hong Kong Open Data,Data Portal,,22.2670° N, 114.1880° E
+Hong Kong,Federal,censtatd.gov.hk,Censtatd,Census and Statistics Department,Census/Demographics,,22.2670° N, 114.1880° E
+Hong Kong,Federal,hko.gov.hk,HKO,Hong Kong Observatory,Climate,,22.2670° N, 114.1880° E
+Hong Kong,Federal,landsd.gov.hk,Lands Dept.,Lands Department,Property/Land,,22.2670° N, 114.1880° E
+Hungary,Federal,met.hu,Met.hu,Meteorological Service of Hungary,Climate,,47.4333° N, 19.2500° E
+Hungary,Federal,ksh.hu,KSH,Hungarian Central Statistical Office,Census/Demographics,,47.4333° N, 19.2500° E
+Hungary,NGO,foldtan.hu,Foldtan,Hungarian Geological Society,GIS/Gazetteer,,47.4925° N, 19.0514° E
+Iceland,Federal,Statice,Statistics Iceland,statice.is,Census/Demographics,,65.0000° N, 18.0000° W
+Iceland,Federal,vedur.is/,Verdus,Icelandic Meteorological Office,Climate,,65.0000° N, 18.0000° W
+Iceland,Federal,isor.is/,ISOR,Iceland Geosurvey,GIS/Gazetteer,,65.0000° N, 18.0000° W
+Iceland,Federal,lmi.is,LMI,National Land Survey of Iceland,GIS/Gazetteer,(Attribution),65.0000° N, 18.0000° W
+India,Federal,data.gov.in/,Data.Gov.in,India Government Open Data,Data Portal,,21.0000° N, 78.0000° E
+India,Federal,dise.in,DISE,District Information System for Education,Education,,21.0000° N, 78.0000° E
+India,Federal,censusindia.gov.in,Census India,Census of India,Census/Demographics,,21.0000° N, 78.0000° E
+India,Private,data.klp.org.in/,KLP,Karnataka Learning Partnership,Education,,21.0000° N, 78.0000° E
+India,Federal,imd.gov.in/,IMD,India Meteorological Department,Climate,,21.0000° N, 78.0000° E
+Indonesia,Federal,data.id,Data.Id,Data Indonesia,Data Portal,,6.1750° S, 106.8283° E
+Indonesia,Federal,satupemerintah.net,Indonesia,Indonesian Government Open Data,Data Portal,,6.1750° S, 106.8283° E
+Indonesia,Federal,depdiknas.go.id,DOE,Department of Education,Education,,6.1750° S, 106.8283° E
+Indonesia,Federal,bps.go.id,BPS,Badan Pusat Statistik,Census/Demographics,,6.1750° S, 106.8283° E
+Indonesia,Federal,bmkg.go.id/,BMKG,Meteorological and Geophysical Agency,Climate,,6.1750° S, 106.8283° E
+Indonesia,Federal,data.id,Data.id,Data Indonesia,Data Portal,,6.1750° S, 106.8283° E
+Indonesia,Federal,esdm.go.id,ESDM,Ministry of Energy and Mines,GIS/Gazetteer,,6.1750° S, 106.8283° E
+"Iran, Islamic Republic of",Federal,gsi.ir,GSI,Geological Survey of Iran,GIS/Gazetteer,,32° N, 53° E
+"Iran, Islamic Republic of",Federal,gndb.ncc.org.ir,GNDB,Iranian National Geographical Names Database,GIS/Gazetteer,,32° N, 53° E
+Ireland,Federal,opendata.ie/,OpenData Ireland,Ireland Government Open Data,Data Portal,,53.0000° N, 8.0000° W
+Ireland,Federal,cso.ie/,Statistics Ireland,Statistics Ireland, Census/Demographics,,53.0000° N, 8.0000° W
+Ireland,Federal,ie.ckan.net/,CKAN Ireland,Ireland Community Data Portal,Data Portal,,53.0000° N, 8.0000° W
+Ireland,Federal,statcentral.ie/,Stat Central,Stat Central Open Data,Statistics,(non-commercial),53.0000° N, 8.0000° W
+Ireland,Federal,met.ie/,Met.ie,Met Éireann ,Climate,,53.0000° N, 8.0000° W
+Ireland,Federal,osi.ie,OSI,Ordnance Survey of Ireland,GIS/Gazetteer,(Purchase),53.0000° N, 8.0000° W
+Ireland,County,data.fingal.ie/,Fingal,Fingal County Open Data,Data Portal,(Attribution),53°27′35″N, 6°13′05″W
+Ireland,Academic,logainm.ie/Info.aspx?menuItem=about&contentTitle=proj.machines&uiLang=en,Logainm,Univeristy of Dublin Irish Placenames,GIS/Gazetteer, (CC 3.0),53.0000° N, 8.0000° W
+Ireland,Academic,ucc.ie/locus/,Historical Dictionary of Irish Placenames,University College Cork - Historical Dictionary of Irish Placenames,GIS/Gazetteer,,51.8935° N, 8.4919° W
+Ireland,Private,dublinked.ie/datastore/index.php,DibLinked Datastore,NUI Maynooth,Data Portal,(Public/Fee),53.0000° N, 8.0000° W
+Isle of Man,Federal,gov.im/categories/home-and-neighbourhood/census/,Census,Isle of Man Census,Census/Demographics,,54.2500° N, 4.5000° W
+Isle of Man,Federal,gov.im/about-the-government/departments/environment-food-and-agriculture/agriculture-directorate/agriculture-statistics/,Agriculture Statistics,Isle of Man - Agriculture Statistics,Agriculture/Food,,54.2500° N, 4.5000° W
+Israel,Federal,data.gov.il/,Data.Gov.il,Israel Government Portal Open Data,Data Portal,,31.0000° N, 35.0000° E
+Israel,Federal,cbs.gov.il,CBS,Central Bureau of Statistics,Census/Demographics,,31.0000° N, 35.0000° E
+Israel,Federal,ims.gov.il/,IMS,Israel Meteorological Service,Climate,,31.0000° N, 35.0000° E
+Italy,Federal,dati.gov.it,Dati.Gov.it,Italian Government Open Data,Data Portal,,41.9000° N, 12.4833° E
+Italy,Federal,dati.salute.gov.it/dati/homeDataset.jsp,Ministry of Health,Ministry of Health, Health,,41.9000° N, 12.4833° E
+Italy,Federal,dati.camera.it/it/,Dati.Camera.it,Italian Chamber of Deputies,Data Portal,(CC-BY-SA),41.9000° N, 12.4833° E
+Italy,Federal,dati.istat.it,I.Stat,Italian National Institute of Statistics,Census/Demographics,,41.9000° N, 12.4833° E
+Italy,Federal,dati.senato.it/,Italian Senate,Italian Senate Data,Government,(CC-BY),41.9000° N, 12.4833° E
+Italy,Federal,meteoam.it/,Meteo AM,Servizio Meteorologico Aeronautica Militare,Climate,,41.9000° N, 12.4833° E
+Italy,Federal,pcn.minambiente.it,PCN,Geoportale Nazionale,GIS/Gazetteer,,41.9000° N, 12.4833° E
+Italy,Region,dati.emilia-romagna.it/,Emilia-Romagna,Emilia-Romaga Region Open Data,Data Portal,,44.5106° N, 10.9569° E
+Italy,Region,dati.friuliveneziagiulia.it,Friuli Venezia,Regione Autonoma Friuli Venezia,Data Portal,,46.1000° N, 13.1167° E
+Italy,Region,dati.lombardia.it,Lombardy,Lombardy Region Open Data,Data Portal,,45.6500° N, 9.9500° E
+Italy,Region,dati.puglia.it/,Puglia,Puglia Region Open Data,Data Portal,(Open),41.0086° N, 16.5128° E
+Italy,Region,sardegnageoportale.it/index.html,Sardegna,Sardegna Open Data,Data Portal,(Non-Commercial Use),40.0000° N, 9.0000° E
+Italy,Region,dati.veneto.it/,Veneto,Veneto Region Open Data,Data Portal,,45.7333° N, 11.8500° E
+Italy,Province,opendata.provincia.lucca.it/,Lucca,Lucca Open Data,Data Portal,(CC-BY),43.8500° N, 10.5000° E
+Italy,Province,www.opendata.provincia.roma.it/,Provincia di Roma,Province of Rome Open Data,Data Portal,,41°54′N, 12°30′E﻿ 
+Italy,Province,provincia.bz.it/informatica/cartografia/geoportale.asp,Bolzano,Autonomous Province of Bolzano Open Data,Data Portal,,46.5000° N, 11.3500° E
+Italy,Province,www.dati.piemonte.it,Piemonte,Regione Piemonte (Piedmont) Open Data,Data Portal,,45.2500° N, 7.9167° E
+Italy,City,opendata.comune.bari.it/,Bari,Bari Open Data,Data Portal,,41.1253° N, 16.8667° E
+Italy,City,dati.comune.bologna.it/,Bologna,Bologna Open Data,Data Portal,(CC0),44.5075° N, 11.3514° E
+Italy,City,opendata.comune.fi.it,Comune di Firenze,Comune di Firenze (Florence) Open Data,Data Portal,,43.7833° N, 11.2500° E
+Italy,City,dati.comune.milano.it/,Milan,Milan Open Data,Data Portal,,45.4667° N, 9.1833° E
+Italy,City,dati.comune.roma.it/,Roma,Rome Open Data,Data Portal,,41.9000° N, 12.5000° E
+Italy,City,dati.trentino.it/,Trentino,Trentino Open Data,Data Portal,(CC0),46°04′N, 11°07′E
+Italy,City,www.comune.trento.it/comunicazione/trasparenza/open-data,Trento,Trento Open Data,Data Portal,,46.0667° N, 11.1167° E
+Italy,City,www.comune.torino.it/aperto,Torino,Torino (Turin) Open Data,Data Portal,,45.0667° N, 7.7000° E
+Italy,City,dati.toscana.it,Toscana,Tuscany Open Data,Data Portal,,43.3500° N, 11.0167° E
+Italy,City,dati.venezia.it/,Venezia,Venezia (Venice) Open Data,Data Portal,(Open),45.4375° N, 12.3358° E
+Italy,City,comune.vicenza.it/ente/settori/dipgenpers/sistinf/sit/daticartografici.php,Vicenza,Vicenza Open Data,Data Portal,,45.5500° N, 11.5500° E
+Italy,Private,it.ckan.net/,CKAN Italia,Italy Community Data Portal,Data Portal,(ODbl),41.9000° N, 12.4833° E
+Italy,Private,datiopen.it/,DATIOpen,DatiOpen.it Group,Data Portal,,41.9000° N, 12.4833° E
+Italy,Private,data.enel.com,ENEL, ENEL Power Company Finacial/Sustanability Data,Energy,,41.9000° N, 12.4833° E
+Italy,NGO,socgeol.it,Soc Geol,Italian Geological Society,GIS/Gazetteer,,41.903898 N,12.514318 E
+Jamaica,Federal,statinja.gov.jm/,Stat Inja,Statistical Institute of Jamaica,Census/Demographics,,18.1824° N, 77.3218° W
+Jamaica,Federal,metservice.gov.jm/,Met Service,Meteorological Service,Climate,,18.1824° N, 77.3218° W
+Jamaica,Federal,mgd.gov.jm,MGD,Mines & Geology Department,GIS/Gazetteer,,18.1824° N, 77.3218° W
+Jamaica,Federal,nla.gov.jm,,National Land Registry,Property/Land,,18.1824° N, 77.3218° W
+Japan,Federal,data.go.jp,Data.Go.jp,Japanese Government Open Data,Data Portal,,35.6833° N, 139.7667° E
+Japan,Federal,stat.go.jp,Stat,Statistics Bureau of Japan,Census/Demographics,,35.6833° N, 139.7667° E
+Japan,Federal,jma.go.jp,JMA,Japan Meteorological Agency ,Climate,,35.6833° N, 139.7667° E
+Japan,Federal,gsj.jp,GSJ,Geological Survey of Japan,GIS/Gazetteer,,35.6833° N, 139.7667° E
+Japan,Federal,gsi.go.jp,,Geospatial Information Authority of Japan,GIS/Gazetteer,,35.6833° N, 139.7667° E
+Japan,Ward,kcc.docomo-cycle.jp/en/,Docomo Cycle,Community Cycle Bike Sharing,Transportation,,35.6895° N, 139.6917° E
+Jersey,Federal,www.gov.je/Government/JerseyWorld/StatisticsUnit,Statistics Unit,Statistics Unit,Census/Demographics,,49.1900° N, 2.1100° W
+Jordan,Federal,dos.gov.jo,DOS,Department of Statistics,Census/Demographics,,31.9500° N, 35.9333° E
+Jordan,Federal,jometeo.gov.jo/,JoMeteo,Jordan Meteorological Department,Climate,,31.9500° N, 35.9333° E
+Jordan,Federal,nra.gov.jo,NRA,National Resource Authority,GIS/Gazetteer,,31.9500° N, 35.9333° E
+Kazakhstan,Federal,stat.kz,Stat.Kz,Agency on Statistics,Census/Demographics,,48.0000° N, 68.0000° E
+Kenya,Federal,opendata.go.ke/,Kenya Open Data,Kenya Government Open Data,Data Portal,,1.2667° S, 36.8000° E
+Kenya,Federal,knbs.or.ke,KNBS,Kenya National Bureau of Statistics,Census/Demographics,,1.2667° S, 36.8000° E
+Kenya,Federal,meteo.go.ke/,Meteo.ke,Kenya Meteorological Department,Climate,,1.2667° S, 36.8000° E
+Kenya,NGO,kenya.opendataforafrica.org/,Kenya,Open Data for Kenya Development Bank Group Open Data,Data Portal, (Attribution),1.2667° S, 36.8000° E
+Kiribati,Federal,spc.int/prism/Country/KI/Stats,NSO,National Statistics Office,Census/Demographics,,1.4667° N, 173.0333° E
+"Korea, Republic of",Federal,data.go.kr,Data.Go.kr,South Korean Government Open Data,Data Portal,,37.5500° N, 126.9667° E
+"Korea, Republic of",Federal,kostat.go.kr,NSO,Statistics Koreo,Census/Demographics,,37.5500° N, 126.9667° E
+"Korea, Republic of",Federal,kosis.kr,KOSIS,Korean Statistical Information Service,Census/Demographics,,37.5500° N, 126.9667° E
+"Korea, Republic of",Federal,kma.go.kr/,KMA,Korea Meteorological Administration,Climate,,37.5500° N, 126.9667° E
+"Korea, Republic of",Federal,nsdi.go.kr,,National Spatial Data Infrastructure,GIS/Gazetteer,,37.5500° N, 126.9667° E
+"Korea, Republic of",City,data.seoul.go.kr,Seoul,Seoul Open Data,Data Portal,,37.5667° N, 126.9781° E
+Kosovo,Federal,ask.rks-gov.net,ASK,Kosvo Agency of Statistics,Census/Demographics,,42.6000° N, 20.8500° E
+Kosovo,Federal,geoportal.rks-gov.net,,Kosovo Cadastral Agency - Geoportal,GIS/Gazetteer,,42.6000° N, 20.8500° E
+Kuwait,Federal,scpd.gov.kw,MOP,Ministry Of Planning,Census/Demographics,,29.3667° N, 47.9667° E
+Kuwait,Federal,met.gov.kw/,Met.kw,Department of Meteorology,Climate,,29.3667° N, 47.9667° E
+Kuwait,Federal,kiein.kisr.edu.kw,KIEIN,Kuwait Integrated Environmental Network,GIS/Gazetteer,,29.3667° N, 47.9667° E
+Kyrgyzstan,Federal,stat.kg,Stat.kg,National Statisical Committee,Census/Demographics,,42.8667° N, 74.6000° E
+Kyrgyzstan,Federal,meteo.ktnet.kg/,KTNET,Main Hydrometeorological Administration,Climate,,42.8667° N, 74.6000° E
+Lao People's Democratic Republic,Federal,NSC,nsc.gov.la,National Statistics Centre,Census/Demographics,,17.9667° N, 102.6000° E
+Lao People's Democratic Republic,Federal,dmhlao.etllao.com/,DMHALO,Department of Meteorology and Hydrology,Climate,,17.9667° N, 102.6000° E
+Latvia,Federal,csb.gov.lv,CSB,Latvijas statistika,Census/Demographics,,57.0000° N, 25.0000° E
+Latvia,Federal,meteo.lv/,Meteo.lv,"Latvian Environment,Geology and Meteorology Agency",Climate,,57.0000° N, 25.0000° E
+Latvia,Private,opendata.lv/,Latvia,Latvia Open Data,Data Portal,,57.0000° N, 25.0000° E
+Lebanon,Federal,cas.gov.lb,CAS,Central Administration for Statistics,Census/Demographics,,33.9000° N, 35.5333° E
+Lesotho,Federal,bos.gov.ls,BOS,Bureau of Statistics,Census/Demographics,,29.4667° S, 27.9333° E
+Lesotho,Federal,lesmet.org.ls/,LesMet,Lesotho Meteorological Services,Climate,,29.4667° S, 27.9333° E
+Lesotho,Federal,laa.org.ls,,Land Administration Authority,GIS/Gazetteer,,29.4667° S, 27.9333° E
+Lesotho,NGO,lesotho.opendataforafrica.org/,Open Data for Lesotho,African Development Bank Group Open Data,Data Portal, (Attribution),29.4667° S, 27.9333° E
+Liberia,Federal,lisgis.net,LISGIS,Liberia Institute of Statistics and Geo-Information Services,Census/Demographics,,6.3167° N, 10.8000° W
+Liberia,NGO,liberia.opendataforafrica.org/,Open Data for Liberia,African Development Bank Group Open Data,Data Portal, (Attribution),6.3167° N, 10.8000° W
+Libya,NGO,libya.opendataforafrica.org/,Open Data for Libya,African Development Bank Group Open Data,Data Portal, (Attribution),27.0000° N, 17.0000° E
+Lithuania,Federal,std.lt,Std.lt,Department of Statistics,Census/Demographics,,55.0000° N, 24.0000° E
+Lithuania,Federal,meteo.lt/,Meteo.lt,Lithuanian Hydrometeorological Service,Climate,,55.0000° N, 24.0000° E
+Lithuania,Federal,lgt.lt,LGT,Lithuanian Geological Survey,GIS/Gazetteer,,55.0000° N, 24.0000° E
+Luxembourg,Federal,statistiques.public.lu,STATEC,STATEC,Census/Demographics,,49.6000° N, 6.1167° E
+Luxembourg,Federal,aeroport.lu/,Aeroport,Administration de l'Aéroport de Luxembourg,Climate,,49.6000° N, 6.1167° E
+Luxembourg,Federal,pch.public.lu,PCH,Administration of Roads and Bridges - Grand Duchy of Luxembourg,Transportation,,49.6000° N, 6.1167° E
+"Macedonia, The Former Yugoslav Republic of",Federal,stat.gov.mk,Stat.gov.mk,State Statistical Office,Census/Demographics,,41.6000° N, 21.7000° E
+"Macedonia, The Former Yugoslav Republic of",Federal,meteo.gov.mk/,Meteo.mk,Republic Hydrometeorological Institute,Climate,,41.6000° N, 21.7000° E
+Macao,Federal,smg.gov.mo/,SMG,Meteorological and Geophysical Bureau,Climate,,22.1667° N, 113.5500° E
+Madagascar,Federal,instat.mg,Instat,Institut National de la Statistique de Madagascar,Census/Demographics,,20.0000° S, 47.0000° E
+Madagascar,Federal,meteomadagascar.mg/,Meteo Madagascar,Direction Générale de la Météorologie,Climate,,20.0000° S, 47.0000° E
+Madagascar,NGO,madagascar.opendataforafrica.org/,Open Data for Madagascar,African Development Bank Group Open Data,Data Portal, (Attribution),20.0000° S, 47.0000° E
+Malawi,Federal,maseda.info,MASEDA,Socio-Economic Database,Census/Demographics,,13.9500° S, 33.7000° E
+Malawi,Federal,metmalawi.com/,Met Malawi,Malawi Meteorological Services,Climate,,13.9500° S, 33.7000° E
+Malawi,Federal,malawi.gov.mw/Mines,Malawi,Department of Geographic Survey,GIS/Gazetteer,,13.9500° S, 33.7000° E
+Malawi,NGO,malawi.opendataforafrica.org/,Open Data for Malawi,African Development Bank Group Open Data,Data Portal, (Attribution),13.9500° S, 33.7000° E
+Malaysia,Federal,statistics.gov.my,Statistics Malaysia,Department of Statistics Malaysia,Census/Demographics,,3.1333° N, 101.7000° E
+Malaysia,Federal,met.gov.my/,Met.my,Malaysian Meteorological Department,Climate,,3.1333° N, 101.7000° E
+Maldives,Federal,planning.gov.mv,Planning.Gov.mv,Ministry of National Planning,Census/Demographics,,3.2000° N, 73.2200° E
+Maldives,Federal,meteorology.gov.mv/,Meteorology.mv,Department of Meteorology,Climate,,3.2000° N, 73.2200° E
+Mali,Federal,instat.gov.ml,Instat,National Directorate of Statistics and Data Processing,Census/Demographics,,12.6500° N, 8.0000° W
+Mali,NGO,mali.opendataforafrica.org/,Open Data for Mali,African Development Bank Group Open Data,Data Portal, (Attribution),12.6500° N, 8.0000° W
+Malta,Federal,nso.gov.mt,NSO,National Statistics Office,Census/Demographics,,35.8833° N, 14.5000° E
+Malta,Federal,maltairport.com/weather/,Malta Airport Weather,Meteorological Office,Climate,,35.8833° N, 14.5000° E
+Malta,Federal,mepa.org.mt,MEPA,Malta Environment and Planning Authority,Environment,,35.8833° N, 14.5000° E
+Mauritania,Federal,ons.mr,ONS,National Statistics Office,Census/Demographics,,18.1500° N, 15.9667° W
+Mauritania,Federal,onm.mr/,ONM,Office National de Météorologie,Climate,,18.1500° N, 15.9667° W
+Mauritania,NGO,mauritania.opendataforafrica.org/,Open Data for Mauritania,African Development Bank Group Open Data,Data Portal, (Attribution),18.1500° N, 15.9667° W
+Mauritius,Federal,statsmauritius.gov.mu,Stats Mauritus,Central Statistics Office,Census/Demographics,,20.2000° S, 57.5000° E
+Mauritius,Federal,metservice.intnet.mu/,Met Service,Mauritius Meteorological Services,Climate,,20.2000° S, 57.5000° E
+Mauritius,NGO,mauritius.opendataforafrica.org/,Open Data for Mauritius,African Development Bank Group Open Data,Data Portal, (Attribution),20.2000° S, 57.5000° E
+Mexico,Federal,datos.gob.mx,Datos.mx,Open to Innovate,Data Portal,,19.0000° N, 99.1333° W
+Mexico,Federal,datos.codeandomexico.org/,Mexico,Mexico Open Data,Data Portal,,19.0000° N, 99.1333° W
+Mexico,Federal,inegi.gob.mx,INEGI,Instituto Nacional de Estadística y Geografía,Census/Demographics,,19.0000° N, 99.1333° W
+Mexico,Federal,smn.cna.gob.mx,SMN,Servicio Meteorológico Nacional,Climate,,19.0000° N, 99.1333° W
+"Micronesia, Federated States of",Federal,sboc.fm,SBOC,"Office of Statistics, Budget and Economic Management",Census/Demographics,,6.9167° N, 158.1833° E
+"Micronesia, Federated States of",Federal,weather.noaa.gov/weather/FM_cc.html,FSM Weather Station,FSM Weather Station,Climate,,6.9167° N, 158.1833° E
+"Moldova, Republic of",Federal,date.gov.md,Date.Gov.md,Moldavian Government Open Data,Data Portal,,47.0000° N, 28.9167° E
+"Moldova, Republic of",Federal,statistica.md,Statistica.md,National Bureau of Statistics,Census/Demographics,,47.0000° N, 28.9167° E
+"Moldova, Republic of",Federal,meteo.md/,Meteo.md,Serviciul Hidrometeorologic de Stat Moldova,Climate,,47.0000° N, 28.9167° E
+"Moldova, Republic of",Federal,geoportal.md,,Geoportal,GIS/Gazetteer,,47.0000° N, 28.9167° E
+Monaco,Federal,monacostatistics.mc,IMSEE,Monaco Statistics,Census/Demographics,,43.7328° N, 7.4197° E
+Mongolia,Federal,nso.mn,NSO,Population and Housing Census,Census/Demographics,,46.0000° N, 105.0000° E
+Mongolia,Federal,mram.gov.mn,MRAM,Mineral Resource Authority,GIS/Gazetteer,,46.0000° N, 105.0000° E
+Montenegro,Federal,monstat.org,MONSTAT,Statistical Office of Montenegro,Census/Demographics,,42.7833° N, 19.4667° E
+Montenegro,Federal,meteo.co.me/,Meteo.me,Hydrometeorological Institute of Montenegro,Climate,,42.7833° N, 19.4667° E
+Monrenegro,Private,geozavod.co.me,Geo Zavod,Geological Survey of Montenegro,GIS/Gazetteer,,42.7833° N, 19.4667° E
+Montserrat,Federal,gov.ms/pubs/statistics-department,Statistics Department,Statistics Department,Census/Demographics,,16.7500° N, 62.2000° W
+Morocco,Federal,data.gov.ma,Data.Gov.ma,Morrocon Government Open Data, Data Portal,,32.0000° N, 6.0000° W
+Morocco,Federal,hcp.ma,HCP,Planning Commission,Census/Demographics,,32.0000° N, 6.0000° W
+Morocco,Federal,marocmeteo.ma/,Maroc Meteo,Direction de la Météorologie Nationale,Climate,,32.0000° N, 6.0000° W
+Mozambique,Federal,ine.gov.mz,INE,Instituto Nacional de Estadistica,Census/Demographics,,25.9500° S, 32.5833° E
+Mozambique,Federal,inam.gov.mz/,INAM,Instituto Nacional de Meteorologia,Climate,,25.9500° S, 32.5833° E
+Mozambique,Federal,dng.gov.mz,DNG,Direcção Nacional de Geologia,GIS/Gazetteer,,25.9500° S, 32.5833° E
+Mozambique,NGO,mozambique.opendataforafrica.org/,Open Data for Mozambique,African Development Bank Group Open Data,Data Portal, (Attribution),25.9500° S, 32.5833° E
+Myanmar,Federal,mnped.gov.mm,MNPED,Central Statistical Organization,Census/Demographics,,22.0000° N, 96.0000° E
+Myanmar,Federal,dmh.gov.mm/,DMH,Department of Meteorology and Hydrology,Climate,,22.0000° N, 96.0000° E
+Namibia,Federal,nsa.org.na,NSA,National Statistics Agency,Census/Demographics,,22.5700° S, 17.0861° E
+Namibia,Federal,meteona.com/,Meteo NA,Namibia Meteorological Service,Climate,,22.5700° S, 17.0861° E
+Namibia,Federal,mme.gov.na/gsn,MME,Nambia Geological Survey,GIS/Gazetteer,,22.5700° S, 17.0861° E
+Namibia,Federal,mme.gov.na,MME,Ministry of Mines and Energy,GIS/Gazetteer,,22.5700° S, 17.0861° E
+Namibia,NGO,namibia.opendataforafrica.org/,Open Data for Namibia,African Development Bank Group Open Data,Data Portal, (Attribution),22.5700° S, 17.0861° E
+Nauru,Federal,spc.int/prism/country/nr/stats/,NBS,Nauru Bureau of Statistics ,Census/Demographics,,0.5333° S, 166.9333° E
+Nepal,Federal,data.opennepal.net/,Open Nepal,Nepal Government Open Data,Data Portal,,26.5333° N, 86.7333° E
+Nepal,Federal,cbs.gov.np,CBS,Central Bureau of Statistics,Census/Demographics,,26.5333° N, 86.7333° E
+Nepal,Federal,doe.gov.np,DOE,Department of Education and Sports,Education,,26.5333° N, 86.7333° E
+Nepal,Federal,dhm.gov.np/,DHM,Department of Hydrology and Meteorology,Climate,,26.5333° N, 86.7333° E
+Nepal,Federal,dos.gov.np,,Survey Department,Property/Land,,26.5333° N, 86.7333° E
+Netherlands,Federal,data.overheid.nl/english,Open Data NEXT,Netherland Government Open Data,Data Portal,,52.3167° N, 5.5500° E
+Netherlands,Federal,cbs.nl,CBS,Statistics Netherlands,Census/Demographics,,52.3167° N, 5.5500° E
+Netherlands,Federal,knmi.nl/,KNMI,Royal Netherlands Meteorological Institute,Climate,,52.3167° N, 5.5500° E
+Netherlands,Federal,geologicalsurvey.nl,TNO,TNO Geological Survey of the Netherlands,GIS/Gazetteer,,52.3167° N, 5.5500° E
+Netherlands,Federal,kadaster.nl,Netherlands' Cadastre, Land Registry and Mapping Agency,Property/Land,,52.3167° N, 5.5500° E
+Netherlands,City,alkmaar.nl/opendata,Alkmaar,Alkmaar Open Data,Data Portal,,52.6333° N, 4.7500° E
+Netherlands,City,os.amsterdam.nl/,Amsterdam O+S,Amsterdam Department for Research and Statistics,Data Portal,,52.3667° N, 4.9000° E
+Netherlands,City,maps.amsterdam.nl/open_geodata/,Open GeoData,City of Amsterdam Planning Department,Data Portal,,52.3667° N, 4.9000° E
+Netherlands,City,amsterdamopendata.nl,Open GeoData,Amsterdam Economic Board Open Data Exchange (ODE),Data Portal,,52.3667° N, 4.9000° E
+Netherlands,City,data.eindhoven.nl,Einhoven,Einhoven,Data Portal,,51.4333° N, 5.4833° E
+Netherlands,City,opendata.enschede.nl,Enschede,Enschede Open Data,Data Portal,(CC0),52.2167° N, 6.9000° E
+Netherlands,City,rotterdamopendata.nl,Rotterdam,Rotterdam Open Data,Data Portal,,51.9167° N, 4.5000° E
+New Caledonia,Federal,isee.nc,ISEE,Statistics Office,Census/Demographics,,21.2500° S, 165.3000° E
+New Caledonia,Federal,meteo.nc,Meteo.nc,Météo-France Nouvelle Calédonie,Climate,,21.2500° S, 165.3000° E
+New Caledonia,State,georep.nc/,GeoRep,Georepertoire du gouvernement de la Nouvelle Calédonie,Data Portal,(Attribution),,
+New Zealand,Federal,data.govt.nz/,Data.Govt.nz,New Zealand Government Open Data,Data Portal,,42.0000° S, 174.0000° E
+New Zealand,Federal,stats.govt.nz,Stats.Govt,Statistics New Zealand,Census/Demographics,,42.0000° S, 174.0000° E
+New Zealand,Federal,metservice.co.nz/Met Service,Met Service,New Zealand National Meteorological Service,Climate,,42.0000° S, 174.0000° E
+New Zealand,Federal,linz.govt.nz/regulatory,LINZ,Land Information New Zealand,GIS/Gazetteer,(CC 3.0),42.0000° S, 174.0000° E
+Nicaragua,Federal,inide.gob.ni,INIDE,Instituto Nacional de Información de Desarrollo,Census/Demographics,,13.0000° N, 85.0000° W
+Nicaragua,Federal,ineter.gob.ni/,INETER,Dirección General de Meteorología,Climate,,13.0000° N, 85.0000° W
+Niger,Federal,stat-niger.org,Stat-Niger,National Institute of Statistics,Census/Demographics,,13.5333° N, 2.0833° E
+Niger,Federal,meteo-niger.net/,Meteo Niger,Direction de la Météorologie Nationale,Climate,,13.5333° N, 2.0833° E
+Niger,NGO,niger.opendataforafrica.org/,Open Data for Niger,African Development Bank Group Open Data,Data Portal, (Attribution),13.5333° N, 2.0833° E
+Nigeria,Federal,data.edostate.gov.ng/,EDO State,Nigeria Government Open Data,Data Portal, (CC 3.0 CC-BY),8.0000° N, 10.0000° E
+Nigeria,Federal,nigerianstat.gov.ng,NBS,National Bureau of Statistics,Census/Demographics,,8.0000° N, 10.0000° E
+Nigeria,Federal,nimet.gov.ng/,NiMet,Nigerian Meteorological Agency,Climate,,8.0000° N, 10.0000° E
+Niue,Federal,spc.int/prism/niue,Statistics Niue,Statistics Niue,Census/Demographics,,19.0500° S, 169.9167° W
+Niue,Federal,informet.net/niuemet,Niue Met,Niue Meteorological Service,Climate,,19.0500° S, 169.9167° W
+Norfolk Island,Federal,norfolkisland.gov.nf,Census & Statistics,Census & Statistics,Census/Demographics,,29.0333° S, 167.9500° E
+Northern Mariana Islands,Federal,commerce.gov.mp/divisions/central-statistics,CSD,Central Statistics Division,Census/Demographics,,17.0000° N, 146.0000° E
+Norway,Federal,data.norge.no/,Data.Norge.no,Norwegian Government Open Data,Data Portal,,61.0000° N, 8.0000° E
+Norway,Federal,ssb.no,SSB,Statistics Norway,Census/Demographics,,61.0000° N, 8.0000° E
+Norway,Federal,www.met.no/,Met.No,Norwegian Meteorological Institute,Climate,,61.0000° N, 8.0000° E
+Norway,Federal,ngu.no,NGU,NGU Geology for Society,GIS/Gazetteer,,61.0000° N, 8.0000° E
+Norway,Federal,data.kartverket.no,,Mapping Authority,GIS/Gazetteer,(Public),61.0000° N, 8.0000° E
+Norway,Province,data.groningen.nl,Groningen,Groningen Province and City Open Data,Data Portal,,53.2500° N, 6.7333° E
+Norway,Private,datakilder.no,Data Kilder,Catalog of Norwegian Data portals,Data Portal,,61.0000° N, 8.0000° E
+Occupied Palestinian Territory,Federal,pcbs.gov.ps,PCBS,Palestinian Central Bureau of Statistics,Census/Demographics,,31°54′N, 35°12′E
+Oman,Federal,ncsi.gov.om,NCSI,National Centre for Statistics & Information,Census/Demographics,,23.6000° N, 58.5500° E
+Oman,Federal,met.gov.om/,Met.om,Department of Meteorology,Climate,,33.6667° N, 73.1667° E
+Pakistan,Federal,pbs.gov.pk,PBS,Pakistan Bureau of Statistics,Census/Demographics,,33.6667° N, 73.1667° E
+Pakistan,Federal,moe.gov.pk,MOE,Ministry of Education,Education,,33.6667° N, 73.1667° E
+Pakistan,Federal,pmd.gov.pk/,PMD,Pakistan Meteorological Department,Climate,,33.6667° N, 73.1667° E
+Pakistan,Federal,gsp.gov.pk,GSP,Geological Survey of Pakistan - Online,GIS/Gazetteer,,33.6667° N, 73.1667° E
+Palau,Federal,palaugov.org/bureau-of-budget-planning,Budget & Planning,Bureau of Budget & Planning,Census/Demographics,,7.3500° N, 134.4667° E
+Panama,Federal,contraloria.gob.pa/inec,INEC,Censos Nacionales,Census/Demographics,,8.9667° N, 79.5333° W
+Panama,Federal,meduca.gob.pa,MEDUCA,Ministry of Education,Education,,8.9667° N, 79.5333° W
+Panama,Federal,hidromet.com.pa/,HidroMet,Hidrometeorología,Climate,,8.9667° N, 79.5333° W
+Papua New Guinea,Federal,spc.int/prism/country/pg/stats/,NSO,National Statistical Office,Census/Demographics,,9.5000° S, 147.1167° E
+Papua New Guinea,Federal,pi-gcos.org/,Pi GCOS,Papua New Guinea Meteorological Service,Climate,,9.5000° S, 147.1167° E
+Paraguay,Federal,dgeec.gov.py,DGEEC,"Dirección General de Estadística, Encuestas y Censos",Census/Demographics,,25.2667° S, 57.6667° W
+Paraguay,Federal,meteorologia.gov.py/,Meteorologia.py,Dirección de Meteorología e Hidrología,Climate,,25.2667° S, 57.6667° W
+Peru,Federal,minedu.gob.pe,MINEDU,Nacional de Estadística e Informatica National,Census/Demographics,,12.0433° S, 77.0283° W
+Peru,Federal,senamhi.gob.pe/,SENAMHI,Servicio Nacional de Meteorología e Hidrología,Climate,,12.0433° S, 77.0283° W
+Peru,Federal,ingemmet.gob.pe,INGEMMET,Ministry of Energy & Mines,GIS/Gazetteer,,12.0433° S, 77.0283° W
+Peru,Metropolitation Municipality,munlima.gob.pe/datos-abiertos.html,MunLima.Gob.pe,Lima Metropolitation Municipality Open Data,Data Portal,,12.0433° S, 77.0283° W
+Peru,City,lima.datosabiertos.pe,Lima,Lima Open Data,Data Portal,,12.0433° S, 77.0283° W
+Peru,Private,datosperu.org/,Datos Peru,Datos Peru,Data Portal,,12.0433° S, 77.0283° W
+Philippines,Federal,data.gov.ph/,Data.Gov.ph,Phillipines Government Open Data,Data Portal,,13.0000° N, 122.0000° E
+Philippines,Federal,deped.gov.ph,DEPED,Department of Education,Education,,13.0000° N, 122.0000° E
+Philippines,Federal,census.gov.ph,Census,Statistics Authority,Census/Demographics,,13.0000° N, 122.0000° E
+Philippines,Federal,pagasa.dost.gov.ph/,PAGASA,Philippine Atmospheric Geophysical and Astronomical Services Administration,Climate,,13.0000° N, 122.0000° E
+Philippines,Federal,geoportal.gov.ph,,Geoportal,GIS/Gazetteer,,13.0000° N, 122.0000° E
+Poland,Federal,stat.gov.pl,State.Gov.pl,Polish Official Statistics,Census/Demographics,,52.2167° N, 21.0333° E
+Poland,Federal,imgw.pl/,IMGW,Institute of Meteorology and Water Management,Climate,,52.2167° N, 21.0333° E
+Poland,NGO,ptgeol.pl,Pt Geol,Geological Society of Poland,GIS/Gazetteer,,50.0614° N, 19.9372° E
+Portugal,Federal,dados.gov.pt/,Dados.Gov.pt,Portugal Government Open Data,Data Portal,,38.7000° N, 9.1833° W
+Portugal,Federal,ine.pt,INE,National Statistical Institute ,Census/Demographics,,38.7000° N, 9.1833° W
+Portugal,Federal,meteo.pt/,Meteo.pt,Instituto de Meteorologia,Climate,,38.7000° N, 9.1833° W
+Portugal,Federal,igeo.pt,IGEO,Informação Geográfica,GIS/Gazetteer,,38.7000° N, 9.1833° W
+Puerto Rico,Federal,abrepr.org/,APR,Abre Puerto Rico,Data Portal,,18.4500° N, 66.1000° W
+Qatar,Federal,qsa.gov.qa,QSA,Qatar Statistics Authority,Census/Demographics,,25.3000° N, 51.5167° E
+Qatar,Federal,qweather.gov.qa/,QWeather,Civil Aviation Authority,Climate,,25.3000° N, 51.5167° E
+Romania,Federal,exploredata.gov.ro,Explore Data,Explore Data Romania,Data Portal,,44.4167° N, 26.1000° E
+Romania,Federal,insse.ro,INSSE,National Institute of Statistics,Census/Demographics,,44.4167° N, 26.1000° E
+Romania,Federal,inmh.ro/,INMH,National Meteorological Administration,Climate,,44.4167° N, 26.1000° E
+Romania,NGO,geosociety.ro,GeoSociety,Romanian Geological Society,GIS/Gazetteer,,44.4167° N, 26.1000° E
+Russian Federation,Federal,gks.ru,GKS,State Committee on Statistics (Goskomstat),Census/Demographics,,60.0000° N, 90.0000° E
+Russian Federation,Federal,budget.gov.ru,Budget.Gov.ru,Russian Ministry of Finances,Government,,60.0000° N, 90.0000° E
+Russian Federation,City,data.mos.ru,Data.Mos.ru,Moscow Open Data,Data Portal,,55.7500° N, 37.6167° E
+Russian Federation,Private,opengovdata.ru,OpenGovData.ru,OpenGovData Russia Catalog,Data Portal,,60.0000° N, 90.0000° E
+Russian Federation,Private,datagov.ru/,DataGov.ru,Institute of Contemporary Development,Data Portal,,60.0000° N, 90.0000° E
+Russian Federation,Federal,meteorf.ru/,MeteoRF,Russian Federal Service for Hydrometeorology and Environmental Monitoring,Climate,,60.0000° N, 90.0000° E
+Russian Federation,Academic,geol.msu.ru,MSU,Moscow University - Geology Department,GIS/Gazetteer,,55.7031° N, 37.5306° E
+Rwanda,Federal,statistics.gov.rw,Statistics.Gov.ru,National Institute of Statistics,Census/Demographics,,1.9403° S, 29.8739° E
+Rwanda,Federal,mineduc.gov.rw/,MINEDUC,Ministry of Education,Education,,1.9403° S, 29.8739° E
+Rwanda,Federal,meteorwanda.gov.rw/,Meteo Rwanda,Rwanda Meteorological Agency,Climate,,1.9403° S, 29.8739° E
+Rwanda,NGO,rwanda.opendataforafrica.org/,Open Data for Rwanda,African Development Bank Group Open Data,Data Portal, (Attribution),1.9403° S, 29.8739° E
+Saint Helena,Federal,sainthelena.gov.sh/statistics,Saint Helena Statistics,Saint Helena,Census/Demographics,,15.9500° S, 5.7167° W
+Saint Lucia,Federal,stats.gov.lc/,Stats.Gov.lc,Department of Statistics,Census/Demographics,,14.0167° N, 60.9833° W
+Saint Lucia,Federal,cdera.org/weather/stlucia.php,CDERA,Meteorological Services,Climate,,14.0167° N, 60.9833° W
+Samoa,Federal,sbs.gov.ws,SBS,Samoa Bureau of Statistics,Census/Demographics,,13.8333° S, 171.7500° W
+Samoa,Federal,mesc.gov.ws,MESC,"Ministry of Education, Sports and Culture",Education,,13.8333° S, 171.7500° W
+Samoa,Federal,mnre.gov.ws/,MNRE,Samoa Meteorology Division,Climate,,13.8333° S, 171.7500° W
+San Marino,Federal,statistica.sm,Upeceds,Upeceds,Census/Demographics,,43.9333° N, 12.4667° E
+Sao Tome and Principe,Federal,ine.st,INE,National Institute of Statistics,Census/Demographics,,.3361° N, 6.6814° E
+Sao Tome and Principe,Federal,ine.st,INE,Instituto Nacional de Estadistica,Data Portal,,.3361° N, 6.6814° E
+Sao Tome and Principe,NGO,saotome.opendataforafrica.org/,Open Data for Sao Tome and Principe,African Development Bank Group Open Data,Data Portal, (Attribution),.3361° N, 6.6814° E
+Saudi Arabia,Federal,cdsi.gov.sa,CDSI,Central Department of Statistics & Information,Census/Demographics,,24.0000° N, 45.0000° E
+Saudi Arabia,Federal,pme.gov.sa/,PME,Presidency of Meteorology and Environment,Climate,,24.0000° N, 45.0000° E
+Saudi Arabia,Federal,sgs.org.sa,SGS,Saudi Geological Survey,GIS/Gazetteer,,24.0000° N, 45.0000° E
+Senegal,Federal,ansd.sn,ANSD,Agence Nationale de Statistique et de la Démographie,Census/Demographics,,14.6667° N, 17.4167° W
+Senegal,Federal,education.gouv.sn,MOE,Ministry of Education,Education,,14.6667° N, 17.4167° W
+Senegal,Federal,meteo-senegal.net/,Meteo Senegal,Direction de la Météorologie Nationale,Climate,,14.6667° N, 17.4167° W
+Senegal,NGO,senegal.opendataforafrica.org/,Open Data for Senegal,African Development Bank Group Open Data,Data Portal, (Attribution),14.6667° N, 17.4167° W
+Serbia,Federal,rs.ckan.net/,Serbia,Serbia Open Data,Data Portal,,44.8000° N, 20.4667° E
+Serbia,Federal,webrzs.stat.gov.rs/WebSite/,RZS,Statistical Office,Census/Demographics,,44.8000° N, 20.4667° E
+Serbia,Federal,meteo.rs/,Meteo.rs,Republic Hydrometeorological Service of Serbia,Climate,,44.8000° N, 20.4667° E
+Serbia,Federal,geosrbija.rs,,Geo Serbia,GIS/Gazetteer,,44.8000° N, 20.4667° E
+Seychelles,Federal,nsb.gov.sc,NBS,National Bureau of Statistics,Census/Demographics,,4.6167° S, 55.4500° E
+Seychelles,Federal,education.gov.sc,MOE,Ministry of Education,Education,,4.6167° S, 55.4500° E
+Seychelles,Federal,pps.gov.sc/,PPS,National Meteorological Services,Climate,,4.6167° S, 55.4500° E
+Seychelles,NGO,seychelles.opendataforafrica.org/,Open Data for Seychelles,African Development Bank Group Open Data,Data Portal, (Attribution),4.6167° S, 55.4500° E
+Sierra Leone,Federal,statistics.sl,Statistis.sl,Statistics Sierra Leone,Census/Demographics,,8.4844° N, 13.2344° W
+Sierra Leone,NGO,sierraleone.opendataforafrica.org/,Open Data for Sierra Leone,African Development Bank Group Open Data,Data Portal, (Attribution),8.4844° N, 13.2344° W
+Singapore,Federal,data.gov.sg/,Data.Gov.sg,Singapore Government Open Data,Data Portal,,1.3000° N, 103.8000° E
+Singapore,Federal,singstat.gov.sg,SingStat,Department of Statistics,Census/Demographics,,1.3000° N, 103.8000° E
+Singapore,Federal,nea.gov.sg/,NEA,Meteorological Services Division,Climate,,1.3000° N, 103.8000° E
+Singapore,Federal,sla.gov.sg,,Singapore Land Authority,Property/Land,(Non-Commerical Use),1.3000° N, 103.8000° E
+Slovak Republic,Federal,data.gov.sk/,Data.Gov.sk,Slovak Government Open Data,Data Portal,,48.1500° N, 17.1167° E
+Slovak Republic,Federal,portal.statistics.sk,statistics.sk,Štatistický úrad SR ,Census/Demographics,,48.1500° N, 17.1167° E
+Slovak Republic,Federal,shmu.sk/,SHMU,Slovak Hydrometeorological Institute,Climate,,48.1500° N, 17.1167° E
+Slovak Republic,Federal,geology.sk,Geology.sk,State Geological Survey of the Slovak Republic,GIS/Gazetteer,,48.1500° N, 17.1167° E
+Slovak Republic,Federal,zbgis.skgeodesy.sk/tkgis,,Mapovy Klient Zbgis,GIS/Gazetteer,,48.1500° N, 17.1167° E
+Slovak Republic,Private,tanest.fair-play.sk/datasets,Datanest Aliance Fair Play,Datanest Aliance Fair Play,Data Portal,,48.1500° N, 17.1167° E
+Slovenia,Federal,stat.si,Stat.si,Statistical Office of the Republic of Slovenia ,Census/Demographics,,46.0500° N, 14.5000° E
+Slovenia,Federal,rzs-hm.si/,RZS-HM,Meteorological Office,Climate,,46.0500° N, 14.5000° E
+Slovenia,Federal,geo-zs.si,Geo ZS,Geological Survey of Slovenia,GIS/Gazetteer,,46.0500° N, 14.5000° E
+Solomon Islands,Federal,spc.int/prism/solomons,NSO,National Statistics Office,Census/Demographics,,9.4667° S, 159.8167° E
+Solomon Islands,Federal,met.gov.sb/,Met.sb,Solomon Islands Meteorological Service,Climate,,9.4667° S, 159.8167° E
+Somalia,NGO,somalia.opendataforafrica.org/,Open Data for Somalia,African Development Bank Group Open Data,Data Portal, (Attribution),2.0333° N, 45.3500° E
+South Africa,Federal,beta2.statssa.gov.za,Stat SSA,Statistics South Africa,Census/Demographics,,2.0333° N, 45.3500° E
+South Africa,Federal,education.gov.za,DOE,Department of Basic Education,Education,,30.0000° S, 25.0000° E
+South Africa,Federal,weathersa.co.za/,Weather SA,South African Weather Service,Climate,,30.0000° S, 25.0000° E
+South Africa,Federal,geoscience.org.za,CGS,Council for Geoscience,Data Portal,,30.0000° S, 25.0000° E
+South Africa,Federal,geoscience.org.za,GeoScience,Council for Geoscience,GIS/Gazetteer,,30.0000° S, 25.0000° E
+South Africa,Province,africacentre.ac.za/Default.aspx?tabid=69,KwaZulu-Natal,Univerisity of KwaZulu-Natal - African Centre for Population/Health Studies,Census/Demographics,(Copyright),29.0000° S, 31.0000° E
+South Africa,City,ctcs.capetown.gov.za/OpenDataPortal/,Cape Town,Cape Town Open Data Portal,Data Portal,,33.9253° S, 18.4239° E
+South Africa,NGO,southafrica.opendataforafrica.org/,Open Data for South Africa,African Development Bank Group Open Data,Data Portal, (Attribution),30.0000° S, 25.0000° E
+South Sudan,Federal,ssnbs.orgSSNBS,,National Bureau of Statistics,Census/Demographics,,4.8500° N, 31.6000° E
+South Sudan,NGO,southsudan.opendataforafrica.org/,Open Data for South Sudan,African Development Bank Group Open Data,Data Portal, (Attribution),4.8500° N, 31.6000° E
+Spain,Federal,datos.gob.es,Datos.Gob.es,Spanish Government Open Data,Data Portal,,40.4333° N, 3.7000° W
+Spain,Federal,ine.e,INE,Instituto Nacional de EstadísticaExternal link,Census/Demographics,,40.4333° N, 3.7000° W
+Spain,Federal,aemet.es,AEMET,Agencia Estatal de Meteorología,Climate,,40.4333° N, 3.7000° W
+Spain,Federal,igme.es,IGME,Institute of Geology and Mines,GIS/Gazetteer,,40.4333° N, 3.7000° W
+Spain,Autonomous,juntadeandalucia.es/datosabiertos/portal.html,Andalusia,Regional Government of Andalusia,Data Portal,(CC),37.3833° N, 5.9833° W
+Spain,Autonomous,opendata.aragon.es,Aragon, Aragon Open Data,Data Portal,,41.0000° N, 1.0000° W
+Spain,Autonomous,caib.es/caibdatafront,CAIB,Dades Obertes CAIB - Baleraic Islands,Data Portal,(CC0),39.5000° N, 3.0000° E
+Spain,Autonomous,dadesobertes.gencat.cat,Catalonya,Catalonya (Catalonia) Open Data,Data Portal,,41.8167° N, 1.4667° E
+Spain,Autonomous,opendata.euskadi.net,EU SKADI,Basque Government Open Data,Data Portal,(CC-BY),42°50′N, 2°41′W
+Spain,Autonomous,caib.es/caibdatafront/,Balearic Islands,Balearic Islands Open Data,Data Portal,(CC-BY),39.5000° N, 3.0000° E
+Spain,Autonomous,dadesobertes.gencat.cat,Catalonia,Catalonia Open Data,Data Portal,,41.8167° N, 1.4667° E
+Spain,Autonomous,opendata.jccm.es/,Castilla-La Mancha,Castilla-La Mancha Open Data,Data Portal,(CC-BY),39.8667° N, 4.0167° W
+Spain,Autonomous,abertos.xunta.es/portada,Galicia,Galicia Open Data,Data Portal,,42.5000° N, 8.1000° W
+Spain,Autonomous,datosabiertos.jcyl.es,Castilla y León,Junta de Castilla y León Open Data,Data Portal,(CC-BY),41.3833° N, 4.4500° W
+Spain,Autonomous,opendata.navarra.es,Navarra,Autonomous Community of Navarra Open Data,Data Portal,,42°49′N, 1°39′W﻿ 
+Spain,City,opendata.bcn.cat/opendata/ca,OpenData BCN,Barcelona Open Data,Data Portal,(CC-BY),41.3833° N, 2.1833° E
+Spain,City,badalona.cat/portalWeb/badalona.portal?_nfpb=true&_pageLabel=opendata,Badalona,Badalona Open Data,Data Portal,,41.3833° N, 2.1833° E
+Spain,City,opendata.caceres.es/,Cáceres,Cáceres Open Data,Data Portal,,39°29′N, 6°22′W﻿ 
+Spain,City,opendatacordoba.com,Córdoba,Córdoba Open Data,Data Portal,,37.8833° N, 4.7667° W
+Spain,City,gavaobert.gavaciutat.cat,Gavà,Gavà Obert,Data Portal,,41.3072° N, 2.0039° E
+Spain,City,datos.gijon.es,Gijón,Gijón Open Data,Data Portal,,43.5333° N, 5.7000° W
+Spain,City,cartolleida.paeria.es/lleidaoberta/inici.aspx,Lleida,Lleida Open Data,Data Portal,,41.6167° N, 0.6333° E
+Spain,City,datos.lorca.es/,Lorca,Lorca,Data Portal,,37.6798° N, 1.6944° W
+Spain,City,datos.gob.es/datos/?q=node/31072,Madrid,Madrid Open Data,Data Portal,,40.4000° N, 3.6833° W
+Spain,City,pamplona.es/verPagina.asp?IdPag=1519&Idioma=1,Pamplona,Pamplona Open Data,Data Portal,,42.8167° N, 1.6500° W
+Spain,City,opendata.terrassa.cat/,Terrassa,Terrassa Open Data,Data Portal,,41.5611° N, 2.0081° E
+Spain,City,.valencia.es/ayuntamiento/DatosAbiertos.nsf/,Valencia,Valencia,Data Portal,,39.4667° N, 0.3833° W
+Spain,City,datos.zaragoza.es,Zaragoza,Zaragoza (Saragossa) Open Data,Data Portal,,41.6500° N, 0.8833° W
+Spain,Academic,pendientedemigracion.ucm.es/info/cliwoc/cliwoc15.htm,Ships 1750 - 1855,University of Madrid: Ships 1750 - 1855,History,,40.4492° N, 3.7281° W
+Spain,Private,opengov.es,OpenGov.es,Spanish open data intiatives,Data Portal,,40.4333° N, 3.7000° W
+Sri Lanka,Federal,statistics.gov.lk,Statistics,Department of Census and Statistic,Census/Demographics,,7.0000° N, 81.0000° E
+Sri Lanka,Federal,erd.gov.lk/publicweb/ERDDOCS.html,ERD,Department of Resources - Integrated Survey,Census/Demographics,,7.0000° N, 81.0000° E
+Sri Lanka,Federal,meteo.slt.lk/,Meteo.lk,Department of Meteorology,Climate,,7.0000° N, 81.0000° E
+Sudan,Federal,cbs.gov.sd,CBS,Sudan Central Bureau of Statistics,Census/Demographics,,15.0000° N, 32.0000° E
+Sudan,Federal,ersad.gov.sd/,ERSAD,Sudan Meteorological Authority,Climate,,15.0000° N, 32.0000° E
+Sudan,NGO,sudan.opendataforafrica.org/,Open Data for Sudan,African Development Bank Group Open Data,Data Portal, (Attribution),15.0000° N, 32.0000° E
+Suriname,Federal,statistics-suriname.org,Statistics Suriname,Algemeen Bureau voor de Statistiek,Census/Demographics,,5.8333° N, 55.1667° W
+Suriname,Federal,meteosur.sr/,MeteoSUR,Meteorological Service,Climate,,5.8333° N, 55.1667° W
+Svalbard and Jan Mayen,Federal,SSB,ssb.no/en/befsvalbard,Population of Svalbard,Census/Demographics,,78.0000° N, 16.0000° E
+Swaziland,Federal,gov.sz/index.php?option=com_content;view=article;catid=78%3Aeconomic-planning-a-development;id=687%3Acentral-statistics-office;Itemid=258,CSO,Central Statistics Office,Census/Demographics,,26.3167° S, 31.1333° E
+Swaziland,Federal,swazimet.gov.sz/,SwaziMet,Swaziland Meteorological Service,Climate,,26.3167° S, 31.1333° E
+Swaziland,Federal,gov.sz/index.php?option=com_content&view=article&id=285&Itemid=363,Geological Survey & Mines ,Geological Survey & Mines Department,GIS/Gazetteer,,26.3167° S, 31.1333° E
+Swaziland,NGO,swaziland.opendataforafrica.org/,Open Data for Swaziland,African Development Bank Group Open Data,Data Portal, (Attribution),26.3167° S, 31.1333° E
+Sweden,Federal,opengov.se/data,OpenGov.se,Sweden Open Data,Data Portal,(CC-BY),59.3500° N, 18.0667° E
+Sweden,Federal,oppnadata.se/,OppnaData.se,Sweden Open Data,Data Portal,,59.3500° N, 18.0667° E
+Sweden,Federal,SCB,scb.se,Statistiska centralbyrn,Census/Demographics,,59.3500° N, 18.0667° E
+Sweden,Federal,smhi.se/,SMHI,Swedish Meteorological and Hydrological Institute,Climate,,59.3500° N, 18.0667° E
+Sweden,Federal,sgu.se,SGU,Geology Survey of Sweden,GIS/Gazetteer,,59.3500° N, 18.0667° E
+Sweden,Federal,geodata.se,,Sweden Bit by Bit,GIS/Gazetteer,,59.3500° N, 18.0667° E
+Sweden,City,orebro.se/psidata,Örebro,Örebro Open Data,Data Portal,(Public),59.2739° N, 15.2075° E
+Sweden,City,open.stockholm.se/,Stockholm,Stockholm Open Data,Data Portal,,59.3294° N, 18.0686° E
+Sweden,City,www.openumea.se/,Umea,Umea Open Data,Data Portal,,63.8250° N, 20.2639° E
+Switzerland,Federal,opendata.admin.ch/,OpenData.Admin.ch,Switzerland Government Open Data,Data Portal,,46.8333° N, 8.3333° E
+Switzerland,Federal,statistics.admin.ch,Swiss Statistics,Swiss Statistics,Census/Demographics,,46.8333° N, 8.3333° E
+Switzerland,Federal,meteoswiss.ch/,Meteo Swiss,MeteoSwiss,Climate,,46.8333° N, 8.3333° E
+Switzerland,State,ge.ch/sitg/sitg_catalog/sitg_donnees,Geneva,SITG Geneva's Territorial Information System,GIS/Gazetteer,,46.2000° N, 6.1500° E
+Switzerland,City,data.stadt-zuerich.ch/content/portal/de/index/ogd/daten.html,Zurich,Zurich Open Data,Data Portal,,47.3667° N, 8.5500° E
+"Taiwan, Province of China",Federal,www.opendata.tw/,Taiwan,Taiwan Open Data,Data Portal,,23.5000° N, 121.0000° E
+"Taiwan, Province of China",Federal,stat.gov.tw/,Stat.Gov.tw,National Statistics Republic of China (Taiwan),Census/Demographics,,23.5000° N, 121.0000° E
+"Taiwan, Province of China",Federal,moeacgs.gov.tw,MOEA,"Central Geological Survey, MOEA",GIS/Gazetteer,,23.5000° N, 121.0000°
+Tajikistan,Federal,stat.tj,Stat.tj,State Statistical Committee,Census/Demographics,,38.5500° N, 68.8000° E
+Tajikistan,Federal,meteo.tj/,Meteo.tj,Main Administration of Hydrometeorology and Monitoring of the Environment,Climate,,38.5500° N, 68.8000° E
+"Tanzania, United Republic of",Federal,opengov.go.tz,Open Government Partnership,Open Government Partnership,Transparency Portal,,6.3070° S, 34.8540° E
+"Tanzania, United Republic of",Federal,nbs.go.tz,NBS,National Bureau of Statistics,Census/Demographics,,6.3070° S, 34.8540° E
+"Tanzania, United Republic of",Federal,meteo.go.tz,Meteo.tz,Tanzania Meteorological Agency,Climate,,6.3070° S, 34.8540° E
+"Tanzania, United Republic of",Federal,gst.go.tz,GST,Geological Survey of Tanzania,GIS/Gazetteer,,6.3070° S, 34.8540° E
+"Tanzania, United Republic of",NGO,tanzania.opendataforafrica.org/,Open Data for Tanzania,African Development Bank Group Open Data,Data Portal, (Attribution),6.3070° S, 34.8540° E
+Thailand,Federal,catalog.opendata.in.th/,Thailand,Thailand Open Data,Data Portal,,13.7500° N, 100.4833° E
+Thailand,Federal,nso.go.th,NSO,National Statistical Office of Thailand,Census/Demographics,,13.7500° N, 100.4833° E
+Thailand,Federal,tmd.go.th/,TMD,Thai Meteorological Department,Climate,,13.7500° N, 100.4833° E
+Timor-Leste,Federal,transparency.gov.tl,Timor-Leste,Transparency Data,Transparency Portal,,8.5667° S, 125.5667° E
+Timor-Leste,Federal,statistics.gov.tl,Statistics.Gov.tl,General Directorate of Statistics,Census/Demographics,,8.5667° S, 125.5667° E
+Timor-Leste,Federal,dnmg.gov.tl/,DNMG,Dirrecão Nacional Meteorologia e Geofisica,Climate,,8.5667° S, 125.5667° E
+Togo,Federal,stat-togo.org,Stat-Togo,General Directorate of Statistics and National Accounts,Census/Demographics,,6.1167° N, 1.2167° E
+Togo,NGO,togo.opendataforafrica.org/,Open Data for Togo,African Development Bank Group Open Data,Data Portal, (Attribution),6.1167° N, 1.2167° E
+Tokelau,Federal,tokelau.org.nz/Tokelau+Government/Government+Departments/Office+of+the+Council+for+the+Ongoing+Government+OCOG/Tokelau+National+Statistics+Office.html,Tokelau National Statistics Office,Tokelau National Statistics Office,Census/Demographics,,9.1667° S, 171.8333° W
+Tonga,Federal,spc.int/prism/tonga/,DOS,Department of Statistics,Census/Demographics,,21.1333° S, 175.2000° W
+Tonga,Federal,met.gov.to/,Met.to,Tonga Meteorological Service,Climate,,21.1333° S, 175.2000° W
+Trinidad and Tobago,Federal,cso.planning.gov.tt,CSO,Central Statistical Office ,Census/Demographics,,10.6667° N, 61.5167° W
+Trinidad and Tobago,Federal,metoffice.gov.tt/,MetOffice.tt,Meteorological Service,Climate,,10.6667° N, 61.5167° W
+Tunisia,Federal,ins.nat.tn,INS,National Institute of Statistics,Census/Demographics,,34.0000° N, 9.0000° E
+Tunisia,Federal,meteo.tn/htmlen/accueil.php,Meteo.tn,National Institute of Meteorology,Climate,,34.0000° N, 9.0000° E
+Tunisia,NGO,tunisia.opendataforafrica.org/,Open Data for Tunisia,African Development Bank Group Open Data,Data Portal, (Attribution),34.0000° N, 9.0000° E
+Turkey,Federal,turkstat.gov.tr,TurkStat,Turkish Statistical Institute,Census/Demographics,,39.9167° N, 32.8333° E
+Turkey,Federal,meb.gov.tr,MEB,Ministry of National Education,Education,,39.9167° N, 32.8333° E
+Turkey,Federal,meteor.gov.tr/,Meteor.tr,Turkish State Meteorological Service,Climate,,39.9167° N, 32.8333° E
+Turkey,Federal,mta.gov.tr,MTA,General Directorate of Mineral and Exploration,GIS/Gazetteer,,39.9167° N, 32.8333° E
+Turkey,Federal,hgk.msb.gov.tr/,MSB,National Mapping Agency,GIS/Gazetteer,,39.9167° N, 32.8333° E
+Turkmenistan,Federal,stat.gov.tm,Stat.Gov.tm,Türkmenistanyň Statistika,Census/Demographics,,37.9667° N, 58.3333° E
+Turks and Caicos Islands,Federal,depstc.org,DEPSTC,Department of Economic Planning and Statistics,Census/Demographics,,21.7500° N, 71.5833° W
+Tuvalu,Federal,spc.int/prism/tuvalu/,Tuvalu Statistics,Tuvalu Statistics,Census/Demographics,,8.5333° S, 179.2167° E
+Tuvalu,Federal,informet.net/tuvmet/,Tuvalu Met Service,Tuvalu Met Service,Climate,,8.5333° S, 179.2167° E
+Uganda,Federal,data.ug,Data.ug,Open Data Uganda,Data Portal,,1.0667° N, 31.8833° E
+Uganda,Federal,ubos.org,UBOS,Uganda Bureau of Statistics,Census/Demographics,,1.0667° N, 31.8833° E
+Uganda,Federal,education.go.ug,MOES,Ministry of Education and Sports,Education,,1.0667° N, 31.8833° E
+Uganda,Federal,meteo-uganda.net/,Meteo Uganda,Department of Meteorology,Climate,,1.0667° N, 31.8833° E
+Uganda,Federal,uganda-mining.go.ug,GSMD,The Geological Survey and Mines Department,GIS/Gazetteer,,1.0667° N, 31.8833° E
+Uganda,Federal,energyandminerals.go.ug,Energy and Minerals,Ministry of Energy and Mineral Development,GIS/Gazetteer,,1.0667° N, 31.8833° E
+Uganda,NGO,uganda.opendataforafrica.org/,Open Data for Uganda,African Development Bank Group Open Data,Data Portal, (Attribution),1.0667° N, 31.8833° E
+Ukraine,Federal,ukrstat.gov.ua,UkrStat,State Statistics Committee,Census/Demographics,,49.0000° N, 32.0000° E
+Ukraine,Federal,meteo.gov.ua/,Meteo.ua,Ukrainian Hydrometeorological Center,Climate,,49.0000° N, 32.0000° E
+Ukraine,Private,cityscale.com.ua,CityScale, Ukrainian non-government open-data,Data Portal,,49.0000° N, 32.0000° E
+Ukraine,NGO,geolog.org.ua,Geolog.ua,Ukrainian Geologists,GIS/Gazetteer,,50.4500° N, 30.5233° E
+United Arab Emirates,Federal,uaestatistics.gov.ae,UAE Statistics,National Bureau of Statistics ,Census/Demographics,,24.4667° N, 54.3667° E
+United Arab Emirates,Federal,government.ae/web/guest/uae-data,UAE,United Arab Emirates Open Data,Data Portal,(Non-Commercial Use),24.4667° N, 54.3667° E
+United Arab Emirates,Federal,ncms.ae,NCMS,National Center for Meteorology and Seismology,Climate,,24.4667° N, 54.3667° E
+Uruguay,Federal,datos.gub.uy,Datos.Gub.uy,Uruguaian Government Open Data,Data Portal,,34.8833° S, 56.1667° W
+Uruguay,Federal,mec.gub.uy,MEC,Ministry of Education and Culture,Education,,34.8833° S, 56.1667° W
+Uruguay,Federal,ine.gub.uy,INE,Insituto Nacional de Estadistica ,Census/Demographics,,34.8833° S, 56.1667° W
+Uruguay,Federal,meteorologia.com.uy/,Meteorologia.uy,Dirección Nacional de Meteorología,Climate,,34.8833° S, 56.1667° W
+Uruguay,Federal,dinamige.gub.uy,Dinamige,Ministry of Minerals & Geology,GIS/Gazetteer,,34.8833° S, 56.1667° W
+Uruguay,City,datos.montevideo.gub.uy,Montevideo,Montevideo Open Data,Data Portal,,34.8836° S, 56.1819° W
+Uzbekistan,Federal,meteo.uz,Meteo.uz,Uzhydromet,Climate,,41.0000° N, 69.0000° E
+Vanuatu,Federal,vnso.gov.vu,VNSO,Vanuatu National Statistics Office,Census/Demographics,,17.7500° S, 168.3000° E
+Vanuatu,Federal,meteo.gov.vu,Meteo.vu,Vanuatu Meteorological Services,Climate,,17.7500° S, 168.3000° E
+"Venezuela, Bolivarian Republic of",Federal,ine.gov.ve,INE,Instituto Nacional de Estadística ,Data Portal,,10.5000° N, 66.9667° W
+"Venezuela, Bolivarian Republic of",Federal,meteorologia.mil.ve/,Meteorologia.ve,Servicio de Meteorología de la Aviación,Climate,,10.5000° N, 66.9667° W
+"Virgin Islands, U.S.",Federal,usviber.org,US Viber,VI Bureau of Economic Research,Census/Demographics,,18.3500° N, 64.9333° W
+Viet Nam,Federal,gso.gov.vn,GSO,General Statistics Office,Census/Demographics,,21.0333° N, 105.8500° E
+Viet Nam,Federal,nchmf.gov.vn,NCHMF,Hydrometeorological Service,Climate,,21.0333° N, 105.8500° E
+Wallis and Futuna,Federal,spc.int/prism/wf,SPC - Wallis and Futuna,SPC - Wallis and Futuna,Census/Demographics,,13.3000° S, 176.2000° W
+Yemen,Federal,cso-yemen.org,CSO,Central Statistical Organisation,Census/Demographics,,15.3333° N, 44.2000° E
+Yemen,Federal,yms.gov.ye,YMS,Yemen Meteorological Service,Climate,,15.3333° N, 44.2000° E
+Zambia,Federal,zamstats.gov.zm,CSO,Central Statistical Office ,Census/Demographics,,15.4167° S, 28.2833° E
+Zambia,Federal,zmd.gov.zm/,ZMD,Zambia Meteorological Department,Climate,,15.4167° S, 28.2833° E
+Zambia,NGO,zambia.opendataforafrica.org/,Open Data for Zambia,African Development Bank Group Open Data,Data Portal, (Attribution),15.4167° S, 28.2833° E
+Zimbabwe,Federal,zimstat.co.zw/,ZIMSTAT,Statistics in Zimbabwe,Census/Demographics,,17.8333° S, 31.0500° E
+Zimbabwe,Federal,weather.co.zw,Weather.zw,Zimbabwe Meteorological Services Department,Climate,,17.8333° S, 31.0500° E
+Zimbabwe,Federal,mines.gov.zw,Mines,Ministry of Mines and Mining Development,GIS/Gazetteer,,17.8333° S, 31.0500° E
+Zimbabwe,NGO,zimbabwe.opendataforafrica.org/,Open Data for Zimbabwe,African Development Bank Group Open Data,Data Portal, (Attribution),17.8333° S, 31.0500° E
+Africa,NGO,opendataforafrica.org/,Open Data for Africa,African Development Bank Group Open Data,Data Portal, (Attribution),,
+Africa,NGO,oagsafrica.org,OAGS,Organization of African Geological Surveys,GIS/Gazetteer,,,
+Africa,NGO,dataportal.afdb.org,AFDB,African Development Bank Group Statistical Data Portal,Data Portal,(Attribution),,
+Latin America,NGO,opendatalatinoamerica.org,Open Data Latin America,Open Data,Data Portal,,,
+South America,NGO,datospublicos.org/,Datos Publicos,Datos Publicos,Data Portal,(ODbl),,
+Caribbean,NGO,caricomstats.org,Caricomstats,Caribbean Community Regional Statistics,Census/Demographics,,,
+Caribbean,NGO,cmo.org.tt,CMO,Caribbean Meteorological Organization,Climate,,,
+Europe,NGO,emetsoc.org/resources/meteorological-and-hydrological-services,EMETSOC,European Meteorological Society,Climate,,,
+Europe,Academic,esfdb.websites.bta.com/table.aspx?resourceid=11484,ESFD,European State Finance Database  - Historical Index of Consumer Index and Builders Wages in England,Commerce,,,
