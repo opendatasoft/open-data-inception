@@ -1,5 +1,17 @@
 (ns data-inception.util
-  (:require [clojure.string :as st]))
+  (:require [clojure.string :as st]
+            [incanter.core :refer [to-dataset]]))
+
+(defn valid-location?
+  [s]
+  (when (seq s)
+    (let [a (st/split s #",")]
+      (boolean (= 2 (count a))))))
+
+(defn valid-location
+  [s]
+  (when (seq s)
+    (if (valid-location? s) s nil)))
 
 (defn location->lat
   [s]
@@ -13,6 +25,10 @@
     (let [[lat lon] (st/split s #",")]
       lon)))
 
+(defn lat-lon->loc
+  [lat lon]
+  (str lat "," lon))
+
 (defn complete-url?
   [url]
   (boolean
@@ -20,9 +36,7 @@
 
 (defn complete-url
   [url]
-  (if (complete-url? url)
-    url
-    (str "http://" url)))
+  (if (complete-url? url) url (str "http://" url)))
 
 (defn trim
   [s]
@@ -34,3 +48,5 @@
     (let [a (st/split s #" ")
           c (map st/capitalize a)]
       (->> c (interpose " ") (apply str) trim))))
+
+

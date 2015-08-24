@@ -2,7 +2,7 @@ Name,URL,Organisation,Description,Location,Latitude,Longitude
 "Ann Arbor, Michigan",http://www.a2gov.org/data/pages/default.aspx,City Of Ann Arbor,City of Ann Arbor's Open Data Catalog (USA),"42.2775627974,-83.7408828735",42.2775627974,-83.7408828735
 Alabama,http://open.alabama.gov/,,Open Alabama Initiative,"32.7504062,-86.7502625",32.7504062,-86.7502625
 Open Data Albania,http://open.data.al/,Shqiperiacom Shpk / Osi / Osfa,Albania Open Data Catalog,"41,20",41,20
-Alkmaar - Open Data,http://www.alkmaar.nl/opendata,,,",,",,
+Alkmaar - Open Data,http://www.alkmaar.nl/opendata,,,,,
 Allerdale Open Data,http://www.allerdale.gov.uk/default.aspx?page=2288,Allerdale Borough Council,Official borough data.,"54.7087988626,-3.28016784955",54.7087988626,-3.28016784955
 Open Geo-data Amsterdam,http://www.gisdro.nl/open_geodata/,City Of Amsterdam Planning Department,Open geographic data from the City of Amsterdam Planning Dept.,"52.3740272046,4.88968849182",52.3740272046,4.88968849182
 Andalusia Data Portal,http://www.juntadeandalucia.es/datosabiertos/portal.html,Regional Government Of Andalusia,Regional government data portal by the government of Andalusia.,"37.8852862723,-4.77682113647",37.8852862723,-4.77682113647
@@ -26,7 +26,7 @@ Bologna Data Portal,http://dati.comune.bologna.it/,City Of Bologna,"Official ope
 Boston Gis Data Hub,http://hubmaps1.cityofboston.gov/datahub/,City Of Boston,,"42.3584308,-71.0597732",42.3584308,-71.0597732
 Bouche-rhone / Provence Data Portal,http://data.visitprovence.com/,Departement Bouche-rhone,"Launched April 2012. Tourism oriented data sets only.
 
-Two days after launch license was changed from not-open (NC/ND) to ODbL.",",,",,
+Two days after launch license was changed from not-open (NC/ND) to ODbL.",,,
 Buenos Aires Data,http://data.buenosaires.gob.ar/,Gobierno De La Ciudad Autónoma De Buenos Aires,"Open Data released by the City of Buenos Aires, Argentina.","-34.6131488101,-58.3772277832",-34.6131488101,-58.3772277832
 "Burlington, Ontario",http://cms.burlington.ca/page7429.aspx,City Of Burlington,You may send [feedback](mailto:its@burlington.ca). Adapted the [Vancouver license](http://cms.burlington.ca/AssetFactory.aspx?did=18762).,"43.386208342,-79.83713012",43.386208342,-79.83713012
 California Climate Commons,http://climate.calcommons.org/lists/datasets,California Climate Commons,"Searchable catalog of climate data hosted at California Climate Commons Commons and elsewhere.
@@ -51,7 +51,7 @@ This beta version of the site has been developed as part of our Open Government 
 Currently the site contains a limited set of datasets available under Creative Commons. We are working on the publication of progressively more data in open formats, so your comments and suggestions are vital to help us improve this platform and bring it to more users.","-33.3587068216,-69.7702217102",-33.3587068216,-69.7702217102
 Chile Library Of Congress Linked Data,http://datos.bcn.cl/,Library Of Congress Of Chile,Chile Library of Congress Linked Data,"-30,-71",-30,-71
 Chile's Transparency Board Opendata,http://www.consejotransparencia.cl/consejo/site/edic/base/port/pcatalogo.html,,OpenData catalog by the Chile's Transparency Board,"-30,-71",-30,-71
-Chinese Government Public Information Online,http://govinfo.nlc.gov.cn/,,Integration of the Chinese Government Public Information Service Platform,35105,35105,
+Chinese Government Public Information Online,http://govinfo.nlc.gov.cn/,,Integration of the Chinese Government Public Information Service Platform,,,
 "Chicago, Illinois",http://data.cityofchicago.org/,City Of Chicago,The City of Chicago’s Data Portal is dedicated to promoting access to government data and encouraging the development of creative tools to engage and serve Chicago's diverse community. Here you’ll find essential data presented in easy-to-use formats to help Chicagoans keep track of how their government is performing and build innovative applications to benefit residents and visitors alike.,"41.850033,-87.6500523",41.850033,-87.6500523
 City Of Waterloo,http://opendata.waterloo.ca/,City Of Waterloo,City of Waterloo Open Data website.,"32.983333,49.133333",32.983333,49.133333
 "Windsor, Ontario",http://www.citywindsor.ca/003713.asp,City Of Windsor,You may send [feedback](http://www.citywindsor.ca/003739.asp). Adapted the [Vancouver license](http://www.citywindsor.ca/DataCatalogue/PDF/OpenDataTermsofUse.pdf).,"42.300083644,-83.016543483",42.300083644,-83.016543483
@@ -72,10 +72,10 @@ Colorado,http://www.colorado.gov/data/,State Of Colorado,"State of Colorado (off
 
 9 datasets (Jan 2012)","38.8338816,-104.8213634",38.8338816,-104.8213634
 City Of Milan Open Data,http://dati.comune.milano.it/,Comune Di Milano,"Open Data portal of the City of Milan, Italy.","45.464269381,9.18950557709",45.464269381,9.18950557709
-City Of Rome Open Data,http://dati.comune.roma.it/,Roma Capitale,"Open Data from the City of Rome, Italy.",",,",,
+City Of Rome Open Data,http://dati.comune.roma.it/,Roma Capitale,"Open Data from the City of Rome, Italy.",,,
 Conneticut Transparency Website,http://transparency.ct.gov/html/main.asp,The Office Of Fiscal Analysis (ofa),"This site was created in accordance with Public Act 10-155, An Act Requiring the Establishment of a Searchable Database for State Expenditures. This Public Act requires the Office of Fiscal Analysis to establish and maintain a website for the purpose of posting state agency expenditures, including contracts and grants.
 
-The Office of Fiscal Analysis (OFA) is a nonpartisan office that supports the Connecticut General Assembly. To read more about us, please visit our website at <http://www.cga.ct.gov/ofa/>.",",,",,
+The Office of Fiscal Analysis (OFA) is a nonpartisan office that supports the Connecticut General Assembly. To read more about us, please visit our website at <http://www.cga.ct.gov/ofa/>.",,,
 Open Data Portal For Cook County Government,http://data.cookcountyil.gov/,Local Authority," * Courts
  * Economic Development
  * Finance and Accounting
@@ -90,7 +90,7 @@ Lacub Opendata Bordeaux,http://data.lacub.fr/,Communauté Urbaine De Bordeaux,"O
 
 The Cub has a lot of data of interest to a wide audience, in the areas of transportation, travel, water, sanitation, housing, environment, etc.
 
-The Cub has decided to provide free public data available to citizens, associations, businesses, researchers, so they can reuse them to create innovative digital services (mobile applications, information systems, web portals , etc.).",",,",,
+The Cub has decided to provide free public data available to citizens, associations, businesses, researchers, so they can reuse them to create innovative digital services (mobile applications, information systems, web portals , etc.).",,,
 Ckan Czech Republic,http://cz.ckan.net/,,Czech CKAN powered data catalogue.,"49.75,15",49.75,15
 Dados.gov.br,http://dados.gov.br/,Brazilian Government,"Official Brazilian government data portal.
 
@@ -119,24 +119,24 @@ Data Publica,http://www.data-publica.com/,Data Publica,"Repository of French dat
 
 Contact: via <http://www.data-publica.com/content/contact-us/>.","46,2",46,2
 Data.ukmin.lt,http://data.ukmin.lt/,,,"32.983333,49.133333",32.983333,49.133333
-Australian Government Catalogue,http://data.gov.au,Department Of Finance And Deregulation,"Data.gov.au provides an easy way to find, access and reuse public datasets from the Australian Government and state and territory governments. The main purpose of the site is to encourage public access to and reuse of government data by providing it in useful formats and under open licences. ",-25135,-25135,
+Australian Government Catalogue,http://data.gov.au,Department Of Finance And Deregulation,"Data.gov.au provides an easy way to find, access and reuse public datasets from the Australian Government and state and territory governments. The main purpose of the site is to encourage public access to and reuse of government data by providing it in useful formats and under open licences. ",,,
 Canada,http://www.data.gc.ca/,Government Of Canada,"You may send [feedback](http://www.data.gc.ca/default.asp?lang=En&n=E028144D-1), [request datasets](http://www.data.gc.ca/default.asp?lang=En&n=8A4E1E4D-1) and subscribe to [dataset updates](http://www.data.gc.ca/default.asp?lang=En&SyndFeed=DCCE2653-4AEC-42B2-9D95-B61951852606). Uses its [own license](http://www.data.gc.ca/default.asp?lang=En&n=46D15882-1). See the [FAQ](http://www.data.gc.ca/default.asp?lang=En&n=C5DBADB8-1).","60.108670463,-113.642578125",60.108670463,-113.642578125
 United States Federal Government,http://www.data.gov/catalog,,"The purpose of Data.gov is to increase public access to high value, machine readable datasets generated by the Executive Branch of the Federal Government.","39.76,-98.5",39.76,-98.5
 Data.gov.uk,http://data.gov.uk/data,Uk Government,"The UK Government's official open data catalogue.
 
 Contact: via <http://data.gov.uk/contact>.","54.7584442358,-2.69531160593",54.7584442358,-2.69531160593
 Data.one,http://www.gov.hk/en/theme/psi,,Data.One is the Hong Kong Government Open Data portal,"22.2855225818,114.157691002",22.2855225818,114.157691002
-Queensland Government Data,http://data.qld.gov.au,Queensland Government,"Open data from the State government of Queensland, Australia",-20145,-20145,
+Queensland Government Data,http://data.qld.gov.au,Queensland Government,"Open data from the State government of Queensland, Australia",,,
 Seattle,http://data.seattle.gov/,City Of Seattle,"The purpose of the City of Seattle Data Catalogue (data.seattle.gov) is to increase public access to high value, machine readable datasets generated by various departments of Seattle City government.","47.6062095,-122.3320708",47.6062095,-122.3320708
-Victorian Government Data Directory,http://www.data.vic.gov.au,,data.vic.gov.au is your online access point to Victorian Government public sector information.,-37145,-37145,
-Dataact (australian Capital Territory),https://data.act.gov.au/,Act Government Government Information Office,"dataACT is an open data service initiative for the ACT community that enables individuals, businesses, data journalists, NGOs and even other people in the public sector to access, explore and build upon existing government data sets in new and innovative ways.",-35.5149,-35.5149,
-Datacatalogs.org,http://datacatalogs.org/,Open Knowledge Foundation Deutschland E.v.,DataCatalogs.org aims to be the most comprehensive list of open data catalogs in the world. It is curated by a group of open data experts from around the world.,",,",,
+Victorian Government Data Directory,http://www.data.vic.gov.au,,data.vic.gov.au is your online access point to Victorian Government public sector information.,,,
+Dataact (australian Capital Territory),https://data.act.gov.au/,Act Government Government Information Office,"dataACT is an open data service initiative for the ACT community that enables individuals, businesses, data journalists, NGOs and even other people in the public sector to access, explore and build upon existing government data sets in new and innovative ways.",,,
+Datacatalogs.org,http://datacatalogs.org/,Open Knowledge Foundation Deutschland E.v.,DataCatalogs.org aims to be the most comprehensive list of open data catalogs in the world. It is curated by a group of open data experts from around the world.,,,
 Datagm,http://www.datagm.org.uk,,"Greater Manchester Datastore
 
 Official site for the Manchester borough councils, fire and police services.
 
 Coordinated by Trafford Council in partnership with FutureEverything and OKF. Runs on CKAN with a custom theme.","53.4809464284,-2.23743438721",53.4809464284,-2.23743438721
-Datagov.ru,http://datagov.ru/,Institute Of Contemporary Development - Института Современного Развития,"CKAN community site, Russia",60100,60100,
+Datagov.ru,http://datagov.ru/,Institute Of Contemporary Development - Института Современного Развития,"CKAN community site, Russia",,,
 Datakilder.no,http://datakilder.no,Citizen-run Data Catalog,"A catalog of primarily Norwegian data sources, mostly but not exclusively government data. In Norwegian language. 
 
 Also runs as no.ckan.net
@@ -176,7 +176,7 @@ Enel,http://data.enel.com,Enel,"Open data from the Italian power company Enel, i
 
 Enel is Italy’s largest power company, and Europe’s second listed utility by installed capacity. It is an integrated player, active in the power and gas sectors. Enel today operates in 40 countries worldwide, has over 97,000 MW of net installed capacity and sells power and gas to more than 61 million customers.
 ","42.8333333,12.8333333",42.8333333,12.8333333
-Esri Geoportal Server Open Source,http://gptogc.esri.com/geoportal,"Esri, Inc.",Free sample catalog built using the open source Esri Geoportal Server ([This link](http://esriurl.com/geoportalserver)).,",,",,
+Esri Geoportal Server Open Source,http://gptogc.esri.com/geoportal,"Esri, Inc.",Free sample catalog built using the open source Esri Geoportal Server ([This link](http://esriurl.com/geoportalserver)).,,,
 Open Data Euskadi,http://opendata.euskadi.net,Basque Government,"Open Data Euskadi.
 
 -The open data catalog of the Basque Government (Spain). Since 2010, April.","43.3568885956,-3.01145553589",43.3568885956,-3.01145553589
@@ -188,7 +188,7 @@ Open Data Finland,http://www.valtioneuvosto.fi/ajankohtaista/tiedotteet/tiedote/
 Data.gouv.fr,http://www.data.gouv.fr/,,,"46,2",46,2
 "Fredericton, New Brunswick",http://www.fredericton.ca/en/citygovernment/datamain.asp,City Of Fredericton,You may send feedback via [email](mailto:opendata@fredericton.ca) or [webform](http://www.fredericton.ca/en/includes/email/emailattachment.aspx?id=524&ref=http://www.fredericton.ca/en/citygovernment/Catalogue.asp). Adapted the [Vancouver license](http://fredericton.icreate2.esolutionsgroup.ca/cityfredericton/en/citygovernment/TermsOfUse.asp).,"45.945414773,-66.665581601",45.945414773,-66.665581601
 Catalonia Open Data Catalog,http://dadesobertes.gencat.cat,,Catalonia Open Data Catalog / Generalitat de Catalunya,"41.8204550961,1.86767578125",41.8204550961,1.86767578125
-Geocommons,http://geocommons.com,Geoiq,"Online community of open geospatial data, visualizations and analysis.",",,",,
+Geocommons,http://geocommons.com,Geoiq,"Online community of open geospatial data, visualizations and analysis.",,,
 Geodata Vicenza,http://www.comune.vicenza.it/ente/settori/dipgenpers/sistinf/sit/daticartografici.php,Comune Di Vicenza,geodata of Vicenza city,"45.557294,11.540898",45.557294,11.540898
 Public Open Data Greece,http://www.geodata.gov.gr/geodata/,Hellenic Mapping And Cadastre Organization,Greek government's open geospatial data catalog,"39,22",39,22
 Georgia,http://www.open.georgia.gov/,State Of Georgia,Open Georgia,"32.7504171,-83.5001803",32.7504171,-83.5001803
@@ -197,7 +197,7 @@ On the web-site you can see the officially received public documents from the st
 the web-site was created by the Institute for Development of Freedom of Information - a non-for-profit, non-governmental organization operating in Georgia and focused on enhancing of openness of governmental agencies, Administrative transparency, access to public documents and development of e-Transparency, e-government in Georgia. 
 For more information please see www.idfi.ge","41.999981,43.499905",41.999981,43.499905
 Geospatial One-stop,http://www.geodata.gov,Us Geological Survey,"Federal catalog of geospatial resources available by US government (federal, state, local), academia, NGO, commercial, and other sources.","39.76,-98.5",39.76,-98.5
-Ghdx - Global Health Data Exchange,http://ghdx.org,Institute For Health Metrics And Evaluation,"Catalog of the world's health and demographic data, maintained by the Institute for Health Metrics and Evaluation (IHME) at the University of Washington.",",,",,
+Ghdx - Global Health Data Exchange,http://ghdx.org,Institute For Health Metrics And Evaluation,"Catalog of the world's health and demographic data, maintained by the Institute for Health Metrics and Evaluation (IHME) at the University of Washington.",,,
 Gijón Public Data Catalogue,http://datos.gijon.es,,City of Gijón Public Data Catalogue,"43.535731,-5.661519",43.535731,-5.661519
 Opendata Locale Gironde-aquitaine,http://www.datalocale.fr/,Conseil Général De La Gironde,Mutualised OpenData store for France's departments of Gironde and region of Aquitaine,"44.9166667,-0.5",44.9166667,-0.5
 Go-geo!,http://www.gogeo.ac.uk,"Edina, University Of Edinburgh","A catalog of public geospatial datasets with a focus on research reuse, maintained by EDINA.ac.uk on behalf of JISC.ac.uk","54.7584442358,-2.69531160593",54.7584442358,-2.69531160593
@@ -208,7 +208,7 @@ Bases de dados do Estado de Sao Paulo, Brasil, em formato aberto, com download, 
 "Grande Prairie No. 1, Alberta",http://data.countygp.ab.ca/,"County Of Grande Prairie No. 1, Alberta","Open Data released by the County of Grande Prairie No. 1, a municipal district in Alberta, Canada. You may send feedback [via e-mail](mailto:opendata@countygp.ab.ca). Adapts the [City of Toronto license](https://www.countygp.ab.ca/municipal/countygp/countygp-website.nsf/AllDoc/462C5D3B8363A1DE872579F00074012A?OpenDocument), which in turn is based upon the the UK Government's Open Government Licence for Public Sector Information.","55.272453751,-119.155534942",55.272453751,-119.155534942
 Grand Lyon Data Catalog,http://catalogue.data.grandlyon.com/,Grand Lyon,Geodata catalogue for the Lyon metropolitan area.,"45.7609,4.8367",45.7609,4.8367
 Graz Open Data,http://data.graz.gv.at,Stadt Graz,"Official open data portal for the city of Graz, Austria. The site runs OpenCms with CKAN as a back end; the catalogue is also exposed directly at http://ckan.data.graz.gv.at.","47.0666667,15.45",47.0666667,15.45
-Guardian World Government Data,http://www.guardian.co.uk/world-government-data,The Guardian,Gateway to government datasets from around the world curated by the Guardian newspaper in the UK.,",,",,
+Guardian World Government Data,http://www.guardian.co.uk/world-government-data,The Guardian,Gateway to government datasets from around the world curated by the Guardian newspaper in the UK.,,,
 "Guelph, Ontario",http://guelph.ca/services.cfm?itemid=78870&smocid=1550,City Of Guelph,"No license other than this disclaimer:
 
 > The Corporation of the City of Guelph makes no guarantees, representations, or warranties respecting the data, expressed or implied, arising by law or otherwise, including but not limited to, effectiveness, completeness, accuracy, or fitness for a particular purpose.","43.550096829,-80.249670076",43.550096829,-80.249670076
@@ -229,7 +229,7 @@ Katalog Offene Daten Österreich,http://offener.datenkatalog.at/,"Martin Kaltenb
 
 Also at <http://at.ckan.net/>","47.3333333,13.3333333",47.3333333,13.3333333
 "King County, Washington",http://www.datakc.org/,King County,"The King County Open Data Project is an ongoing effort to release high-value, machine readable data sets to the public. The data sets currently available come from many areas of county government. Ongoing efforts to expand the data are in progress. ","47.4664913,-121.8178891",47.4664913,-121.8178891
-The Korea Data Hub,http://thedatahub.kr/,,Community-run Korean data portal.,37127.5,37127.5,
+The Korea Data Hub,http://thedatahub.kr/,,Community-run Korean data portal.,,,
 Kozadat,http://kozadat.neumannhaz.hu/fooldal/adatforrasok,John Von Neumann Digital Library,Hungarian data catalog from John von Neumann Digital Library from a 2010 pilot project.,"47,20",47,20
 La Nacion,http://data.lanacion.com.ar/,La Nacion (argentina),Data publisehed by La Nacion newspaper in Argentina (in Spanish).,"-34,-64",-34,-64
 Le Mans Data Catalog,http://www.lemans.fr/page.do?t=2&uuid=16cb26c7-550ea533-5ae8381b-d7a64af8,Le Mans Metropole,"Page in the city's website providing download links of data sets. Launched in February 2012, without budget. Files in CSV, KML, SHP and PDF.","48,0.2",48,0.2
@@ -239,7 +239,7 @@ Lichfield District Council (uk) Data Catalogue,http://www2.lichfielddc.gov.uk/da
 Linked Clean Energy Data - Data.reegle.info,http://data.reegle.info/,Reeep - Renewable Energy And Energy Efficiency Partnership - Www.reeep.org,"Clean Energy Datasets - free for re-use
 
 Include clean energy datasets including actors, project outcome documents, country policy reports and more than 3000 clean energy terms from our thesaurus into your website or application by using reegle's Linked Open Data facilities. Datasets are published  using the Open Government Data License for public sector information and are therefore free for re-use.
-",",,",,
+",,,
 Loire-atlantique Data Portal,http://data.loire-atlantique.fr/,Departement Loire-atlantique,Launched April 2012. LOAD (Loire Atlantique Ouverture des Donnees).,"47.153189,-1.610725",47.153189,-1.610725
 "London, Ontario",http://www.london.ca/d.aspx?s=/open_data/data_catalogue.htm,City Of London (ontario),You may send [feedback](mailto:opendata@london.ca). Adapted the [Vancouver license](http://www.london.ca/d.aspx?s=/Open_Data/Open_Data_Terms_Use.htm).,"42.983389283,-81.233042387",42.983389283,-81.233042387
 London Datastore,http://data.london.gov.uk,Greater London Authority,"Data on London, UK from the GLA and other public sector bodies.
@@ -251,7 +251,7 @@ Map Your Taxes - Missouri Accountability Portal,http://mapyourtaxes.mo.gov/map/p
 The data on the MAP site is updated each business day. New features are added as they become available. Please visit the site frequently for new information.
 ","29.6185669,-95.5377215",29.6185669,-95.5377215
 Massachusetts,https://wiki.state.ma.us/confluence/display/data/open+data+initiative+home,State Of Massachusetts,An inventory of Massachusetts public data available for download.,"42.2503731,-71.4997856",42.2503731,-71.4997856
-Medical Free/libre And Open Source Software,http://www.medfloss.org,Medfloss.org,Medfloss.org provides a comprehensive and structured overview of Free/Libre and Open Source Software (FLOSS) projects in the domains of medical informatics and health care.,",,",,
+Medical Free/libre And Open Source Software,http://www.medfloss.org,Medfloss.org,Medfloss.org provides a comprehensive and structured overview of Free/Libre and Open Source Software (FLOSS) projects in the domains of medical informatics and health care.,,,
 "Medicine Hat, Alberta",http://data.medicinehat.ca/,City Of Medicine Hat,You may send feedback via [email](opendata@medicinehat.ca) or [Twitter](https://twitter.com/#!/OpenDataMedHat). Adapted the [Vancouver license](http://www.medicinehat.ca/City%20Government/Open%20Data/Terms%20of%20Use.asp). Uses [OGDI](http://data.medicinehat.ca/Developers/Index).,"50.050059602,-110.668342521",50.050059602,-110.668342521
 Merton Council,http://www.merton.gov.uk/council/dp-foi/opendata.htm,Merton Council,"Open data is about making non-personal information held by government freely available. We are making a range of our data available online so that we can be more transparent and accountable.
 This page lists all the data sets that we publish for public re-use. If you build any systems using the data please let us know so we can list them here.
@@ -268,10 +268,10 @@ Mosman Council Datastore,http://data.mosman.nsw.gov.au/,Mosman Municipal Council
 "Nanaimo, British Columbia",http://data.nanaimo.ca/,City Of Nanaimo,"Uses [Open Data Publisher](http://opendatapublisher.codeplex.com/), a fork of Microsoft's [OGDI project](http://ogdi.codeplex.com/). The City of Nanaimo is currently investigating options for formal open data licensing. See the [disclaimer](http://www.nanaimo.ca/EN/main/departments/106/DataCatalogue/Licence.html). Offers an [API](http://www.nanaimo.ca/EN/main/departments/106/DataCatalogue/Developers.html).","49.166337382,-123.936012692",49.166337382,-123.936012692
 Nantes Ouverture Des Données,http://data.nantes.fr,Mairie De Nantes,France's city of Nantes Area OpenData store,"47.2172508194,-1.55336380005",47.2172508194,-1.55336380005
 Istat,http://dati.istat.it/,Istat,"the datawarehouse of the italian statistics produced by Istat, a complete and consistent information assets","42.8333333,12.8333333",42.8333333,12.8333333
-Natural Earth,http://www.naturalearthdata.com/,,"Natural Earth is a map dataset available at 1:10m, 1:50m, and 1:110 million scales, featuring tightly integrated vector and raster data. It was built by many volunteers and is supported by the North American Cartographic Information Society (NACIS).",",,",,
+Natural Earth,http://www.naturalearthdata.com/,,"Natural Earth is a map dataset available at 1:10m, 1:50m, and 1:110 million scales, featuring tightly integrated vector and raster data. It was built by many volunteers and is supported by the North American Cartographic Information Society (NACIS).",,,
 Open Data Navarra,http://opendata.navarra.es,,Open Data Catalog of Navarre,"42.75,-1.6666667",42.75,-1.6666667
 Nc Openbook,http://www.ncopenbook.gov/ncopenbook/,State Of North Carolina,,"35.5006942,-80.0003243",35.5006942,-80.0003243
-Open Data Nederland,http://opendatanederland.org,Oxyva.nl,A community hub for Open Data in the Netherlands.,-4.75138,-4.75138,
+Open Data Nederland,http://opendatanederland.org,Oxyva.nl,A community hub for Open Data in the Netherlands.,,,
 "New Orleans, Louisiana",http://data.nola.gov/,City Of New Orleans,data.nola.gov,"29.9546482,-90.075072",29.9546482,-90.075072
 "Niagara Region, Ontario",http://www.niagararegion.ca/government/opendata/default.aspx,Regional Municipality Of Niagara,"Open data pilot catalog of the Niagara Region of Ontario, Canada
 
@@ -281,7 +281,7 @@ North Dakota Gis Hub,http://www.nd.gov/gis/,State Of North Dakota,,"47.500274,-1
 "Regional District Of North Okanagan, British Columbia",http://www.rdno.ca/index.php/maps/digital-data,Regional District Of North Okanagan,You may send feedback via [email](gistech@rdno.ca) or [webform](http://www.rdno.ca/index.php/maps/interactive-mapping-application-feedback). Uses its [own restrictive license](http://www.rdno.ca/index.php/maps/digital-data-terms-of-use).,"50.416514678,-118.752318369",50.416514678,-118.752318369
 North Devon Council Open Data,http://www.northdevon.gov.uk/index/lgcl_council_government_and_democracy/nonlgcl_open_data.htm,,Catalogue of open data published by North Devon Council,"51.2093031523,-4.11343574524",51.2093031523,-4.11343574524
 Nosdonnées.fr,http://www.nosdonnees.fr,Regards Citoyens,"A community driven catalogue for citizen based open data in France, relying on CKAN and operated by [Regards Citoyens](http://www.regardscitoyens.org/).","46,2",46,2
-New South Wales State (australia) Open Data Catalog,http://data.nsw.gov.au,,New South Wales State (Australia) Open Data Catalog,-33146,-33146,
+New South Wales State (australia) Open Data Catalog,http://data.nsw.gov.au,,New South Wales State (Australia) Open Data Catalog,,,
 New York Senate,http://www.nysenate.gov/opendata,State Of New York,Senate of New York Open Data,"40.7142691,-74.0059729",40.7142691,-74.0059729
 "New York, New York",http://nycopendata.socrata.com/,City Of New York,New York City OpenData! A catalog which supplies many sets of public data produced by City agencies,"40.7142691,-74.0059729",40.7142691,-74.0059729
 Offenedaten,http://offenedaten.de/,Open Knowledge Foundation Deutschland E.v.,"A community-maintained open data catalog dedicated to Germany.
@@ -304,7 +304,7 @@ Open Data Firenze,http://dati.comune.firenze.it,Comune Di Firenze,The open data 
 Open Data For Africa,http://opendataforafrica.org/,African Development Bank Group,Open data catalogue from African Development Bank Group.,"7.18810087118,21.09375",7.18810087118,21.09375
 Open Data Thailand,http://catalog.opendata.in.th/,,"Community-led open data CKAN portal for Thailand.
 
-** Currently dormant **",15100,15100,
+** Currently dormant **",,,
 Open Kent,http://www.openkent.org.uk,Public Service Organisations In Kent,"Open Kent aims to make open data available on local public services in Kent. Sponsored by our local technology partnership, Kent Connects, we're working across the county with the organisations listed below so that you can access the data in a single place.
 
 Ashford Borough Council, Canterbury City Council, Dover District Council, Gravesham Borough Council, Kent County Council, Kent Fire and Rescue, Maidstone Borough Council, Medway Council, Sevenoaks District Council, Shepway District Council, Swale Borough Council, Thanet District Council, Tonbridge and Malling Borough Council and Tunbridge Wells Borough Council.
@@ -319,7 +319,7 @@ Open Umea,http://www.openumea.se/,Umeå Kommun,Open Data from the Municipality o
 Open Government Data Saudi,http://www.saudi.gov.sa/wps/portal/!ut/p/c5/04_sb8k8xllm9msszpy8xbz9cp0os3itmgenye8tiwoduesla89qu69g11a_ywmtq6b8jjk8u68jud44ocqwmndd0mdqnbldrhtpdjygrrcbdubishdwap5-oci08psen7wraxmqd0dyenzo55gfm6pfkbsaghpr4zkzkk4iaom0c0u!/dl3/d3/l0lhskovd0rnquprquvnqsehl1lczncvyxi!/?,,Saudi e-Government National Portal,"25,45",25,45
 Open Government Data Wien,http://data.wien.gv.at/,City Of Vienna,"Open government data for Vienna, Austria.","48.2084877602,16.3720750809",48.2084877602,16.3720750809
 Tennessee,http://www.tn.gov/opengov/,State Of Tennessee,Open Government Tennessee,"35.7503468,-86.250271",35.7503468,-86.250271
-New Zealand Open Data Catalogue,http://cat.open.org.nz/category/dataset/,,"Opengovt.org.nz is an open, independent catalogue of Government and Local Body datasets in New Zealand",-42174,-42174,
+New Zealand Open Data Catalogue,http://cat.open.org.nz/category/dataset/,,"Opengovt.org.nz is an open, independent catalogue of Government and Local Body datasets in New Zealand",,,
 Openaid.se,http://openaid.se/,Government Of Sweeden,Sweden's aid - openly and in one place,"62,15",62,15
 "Baltimore, Maryland",http://data.baltimorecity.gov/,City Of Baltimore,"The goal of OpenBaltimore is to provide, to the public, access to City data in an effort that supports government transparency, openness and innovative uses that will help improve the lives of Baltimore residents, visitors and businesses through use of technology. OpenBaltimore will enable the local developer community to develop applications that will hopefully help the city solve problems.","39.2880770318,-76.6107559204",39.2880770318,-76.6107559204
 Opendata.lv,http://opendata.lv/,,"Volunteer-run open data portal for Latvia. Focus on public data.
@@ -338,13 +338,13 @@ Opendataphilly,http://www.opendataphilly.org/,Opendataphilly,"Data on the Philad
 
 OpenDataPhilly is a catalog developed by Azavea, a Philadelphia geospatial firm, in collaboration with the City of Philadelphia Office of Information Technology, WHYY, Technically Philly, NPower, the William Penn Foundation and other partners.","39.952335,-75.163789",39.952335,-75.163789
 Opendoor Kentucky,http://opendoor.ky.gov/transparency/pages/default.aspx,,Kentucky's Financial Transparency Portal.,"37.5003439,-85.2502384",37.5003439,-85.2502384
-Openei – Open Energy Info,http://en.openei.org/,U.s. National Renewable Energy Laboratory,"An online community dedicated to information and data on energy resources. Provides access to energy-related information via geographic discovery, visualizations, and topic-oriented gateways. The site includes a data catalog of hundreds of energy-related datasets. Developed by the National Renewable Energy Laboratory (NREL) with funding from the U.S. Department of Energy.",",,",,
+Openei – Open Energy Info,http://en.openei.org/,U.s. National Renewable Energy Laboratory,"An online community dedicated to information and data on energy resources. Provides access to energy-related information via geographic discovery, visualizations, and topic-oriented gateways. The site includes a data catalog of hundreds of energy-related datasets. Developed by the National Renewable Energy Laboratory (NREL) with funding from the U.S. Department of Energy.",,,
 Opengov.es,http://opengov.es,,"CKAN repository of Spanish open data intiatives
 
 Facilitator: Javier De La Cueva. Contact: see <http://javierdelacueva.es/contacto/>.","40,-4",40,-4
 Opengov Sweden Catalog,http://www.opengov.se/data,Peter Krantz,Opengov.se is an initiative to highlight available public datasets in Sweden.,"62,15",62,15
-Opengovdata Russia Catalog,http://opengovdata.ru,,OpenGovData.ru is a public data catalog published by the Russian Government,60100,60100,
-Openstreetmap,http://www.openstreetmap.org,Openstreetmap Foundation,Wikipedia for geo data,",,",,
+Opengovdata Russia Catalog,http://opengovdata.ru,,OpenGovData.ru is a public data catalog published by the Russian Government,,,
+Openstreetmap,http://www.openstreetmap.org,Openstreetmap Foundation,Wikipedia for geo data,,,
 Oregon,http://data.oregon.gov/,State Of Oregon,State of Oregon Data Catalog,"44.0001313,-120.5013876",44.0001313,-120.5013876
 Amsterdam O+s,http://www.os.amsterdam.nl/,Gemeente Amsterdam,"The Department for Research and Statistics of the City of Amsterdam, Netherlands.","52.3740272046,4.88968849182",52.3740272046,4.88968849182
 "Ottawa, Ontario",http://www.ottawa.ca/en/city_hall/statisticsdata/opendata/info/index.htm,City Of Ottawa,"You may send feedback via [email](mailto:opendata@ottawa.ca) or [webform](https://ottawa.ca/cgi-bin/form.cgi?dir=opendata&form=form_en) and [request datasets](http://www.dataott.org/app/). Adapted the [Vancouver license](http://www.ottawa.ca/en/city_hall/statisticsdata/opendata/terms/index.htm).
@@ -389,7 +389,7 @@ Redbridge Datashare,http://data.redbridge.gov.uk/,London Borough Of Redbridge,Of
 "Region Of Peel, Ontario",http://opendata.peelregion.ca/,Region Of Peel,You may send feedback and request datasets via [email](mailto:open.data@peelregion.ca) or [webform](http://opendata.peelregion.ca/feedback.aspx). The [license](http://opendata.peelregion.ca/terms-of-use.aspx) is based upon the the UK Government's Open Government Licence for Public Sector Information and has been adapted with the permission of the UK National Archives.,"43.716667,-80.15",43.716667,-80.15
 "Region Of Waterloo, Ontario",http://www.regionofwaterloo.ca/opendata,Region Of Waterloo,You may subscribe to [dataset updates](http://www.regionofwaterloo.ca/en/Open_Data-rss-channel.xml) and send feedback and request datasets via [email](mailto:opendata@regionofwaterloo.ca). The [license](http://www.regionofwaterloo.ca/en/regionalGovernment/OpenDataLicence.asp) is based upon the the UK Government's Open Government Licence for Public Sector Information and has been adapted with the permission of the UK National Archives.,"43.466795567,-80.516389802",43.466795567,-80.516389802
 Rennes Métropole En Accès Libre,http://www.data.rennes-metropole.fr,Rennes Métropole,France's city of Renne's Area OpenData store,"48.111981,-1.674291",48.111981,-1.674291
-Research Data Australia,http://researchdata.ands.org.au/,Australian National Data Service,Research Data Australia is a discovery service for Australian research data.,-25135,-25135,
+Research Data Australia,http://researchdata.ands.org.au/,Australian National Data Service,Research Data Australia is a discovery service for Australian research data.,,,
 Rhode Island,http://www.ri.gov/data,State Of Rhode Island,RI.gov provides open data sets available to the general public,"41.700101,-71.4161671",41.700101,-71.4161671
 La Rochelle,http://www.opendata.larochelle.fr/,City Of La Rochelle,City data portal of La Rochelle. Launched 23 May 2012.,"46.1666667,-1.15",46.1666667,-1.15
 Rotterdam Open Data Store,http://www.rotterdamopendata.nl/,Rotterdam Open Data,"Open Data from the city of Rotterdam, Netherlands. A project of the University of Rotterdam, the city of Rotterdam, and local companies. 
@@ -403,7 +403,7 @@ Opendata71,http://www.opendata71.fr/,Conseil Général De La Saône-et-loire,Fra
 Sardinia Geoportal,http://www.sardegnageoportale.it/index.html,Regione Sardegna,geodata from Sardegna,"40,9",40,9
 "Saskatoon, Saskatchewan",http://www.saskatoon.ca/departments/corporate%20services/corporate%20information%20services/opendata/pages/opendata.aspx,City Of Saskatoon,"You may [send feedback](http://www.saskatoon.ca/DEPARTMENTS/Corporate%20Services/Corporate%20Information%20Services/OpenData/Pages/OpenData.aspx) via webform. Uses its [own license](http://www.saskatoon.ca/DEPARTMENTS/Corporate%20Services/Corporate%20Information%20Services/OpenData/Pages/TermsofService.aspx), similar to that of Red Deer.","52.116786331,-106.634521548",52.116786331,-106.634521548
 Semantic Interoperability Centre Europe (semic.eu) Catalog,http://www.semic.eu/semic/view/snav/assetrepository.xhtml,,SEMIC.EU is a participatory platform and a service by the European Commission that supports the sharing of assets of interoperability to be used in public administration and eGovernment,"48.6909603909,9.140625",48.6909603909,9.140625
-Seoul Open Data,http://data.seoul.go.kr,City Of Seoul,"Official data portal for the city of Seoul, Korea.",",,",,
+Seoul Open Data,http://data.seoul.go.kr,City Of Seoul,"Official data portal for the city of Seoul, Korea.",,,
 Singapore Opendata,http://data.gov.sg/,Government Of Singapore,"Catalog for the Singapore OpenData Discovering data, inspiring ideas","1.3666667,103.8",1.3666667,103.8
 Slovak Republic National Data Portal,http://data.gov.sk/,Government Of The Slovak Republic,"A CKAN based portal, started in April 2012. At launch with 19 closed data sets.","48.6666667,19.5",48.6666667,19.5
 Open Data South Africa,http://data.codingfordemocracy.org/,Open Data & Democracy Initiative (odadi),A community portal for Open Data in South Africa.,"-29,24",-29,24
@@ -418,7 +418,7 @@ Sutton Open Data,http://www.sutton.gov.uk,,London Borough of Sutton Open Data Ca
 Texas,http://www.texas.gov/en/connect/pages/open-data.aspx,State Of Texas,State of Texas Open Data Catalog,"31.2504424,-99.2506061",31.2504424,-99.2506061
 Texas Transparency,http://www.texastransparency.org/opendata/index.php,Texas Comptroller Of Public Accounts,"The Open Data Center is a new service offered as part of the Comptroller's transparency initiative. It is designed to provide direct access to machine-readable, platform-independent raw datasets, as well as other important data tools created by Texas CPA.
 New datasets and data tools will continue to be added as this section expands. Your feedback is welcome and encouraged. Let us know how you have used this data and what other types of data and data formats you would like to see.","31.2504424,-99.2506061",31.2504424,-99.2506061
-Thailand Opendata,http://data.pm.go.th/,Thai Prime Minister's Office,Catalog of the public data of Thailand,15100,15100,
+Thailand Opendata,http://data.pm.go.th/,Thai Prime Minister's Office,Catalog of the public data of Thailand,,,
 The Data Hub,http://thedatahub.org/,Open Knowledge Foundation,"An openly editable registry for open data (and a few closed ones).
 
 CKAN makes it easy to find, share and reuse open content and data, especially in ways that are machine automatable.
@@ -431,7 +431,7 @@ The original community catalogue, running since 2007.
 
 Previously known as ckan.net. 
 
-Maintainers: Rufus Pollock, Friedrich Lindenberg, Richard Cyganiak, David Read",",,",,
+Maintainers: Rufus Pollock, Friedrich Lindenberg, Richard Cyganiak, David Read",,,
 Tirol Data Portal,http://data.tirol.gv.at,Landesregierung Tirol,"Launched April 2012, with 13 datasets on environment and tourism.","47.25,11.3333333",47.25,11.3333333
 "Township Of Langley, British Columbia",http://www.tol.ca/servicescontact/opendata/opendatacatalogue.aspx,Township Of Langley,You may send [feedback](http://www.tol.ca/ServicesContact/OpenData/OpenDataFeedback.aspx). Uses the PDDL license.,"49.082969808,-122.585894007",49.082969808,-122.585894007
 Torino - Aperto,http://www.comune.torino.it/aperto,City Of Turin,"Open data portal for the city of Turin (Torino), Italy.","45.0704898496,7.68682479858",45.0704898496,7.68682479858
@@ -440,8 +440,8 @@ Open Data Regione Toscana,http://dati.toscana.it/,Regione Toscana,"Official Open
 Grand Toulouse Data,http://data.grandtoulouse.fr/,Communauté Urbaine Du Grand Toulouse,France's city of Toulouse's Area OpenData store,"43.6042618681,1.44367218018",43.6042618681,1.44367218018
 Trafford Open Data,http://www.trafford.gov.uk/opendata,,Borough of Trafford (UK) Open Data Catalog,"53.4166667,-2.3333333",53.4166667,-2.3333333
 Uae Open Data,http://www.government.ae/web/guest/uae-data,United Arab Emirates Government,"The UAE Government has adopted the Open Data practice to make government data and information seamlessly available to people. Under the Open Data, information is made usable, reusable and accessible to the public.","24,54",24,54
-Open Un-habitat Transparency Initiative,http://open.unhabitat.org/,Un-habitat,"Project and programme data from UN-HABITAT, the United Nations Human Settlements Programme.",",,",,
-United Nations (undata) Catalog,http://www.undata-api.org/wiki/datasets,,UNdata is a data access system to UN databases,",,",,
+Open Un-habitat Transparency Initiative,http://open.unhabitat.org/,Un-habitat,"Project and programme data from UN-HABITAT, the United Nations Human Settlements Programme.",,,
+United Nations (undata) Catalog,http://www.undata-api.org/wiki/datasets,,UNdata is a data access system to UN databases,,,
 University Of Oxford,http://data.ox.ac.uk/,University Of Oxford,The site aims to collect data from around the University and make it available for reuse as linked data under open licenses.,"51.7522210026,-1.25596046448",51.7522210026,-1.25596046448
 University Of Southampton Open Data,http://data.southampton.ac.uk/home.html,University Of Southampton,"The University of Southampton provides open access to some of our administrative data.
 
@@ -459,11 +459,11 @@ USAspending.gov was first launched in December 2007 to fulfill these requirement
 USAspending.gov has been recently updated in October 2010 to display of first-tier sub-award data (subcontracts and subgrants). Sub-award information shown on the website is provided by FSRS (see Sources of Data). The latest guidance documents pertaining to sub-award reporting can be found under News.","39.76,-98.5",39.76,-98.5
 Utah,http://www.utah.gov/data/,State Of Utah,"Access raw State data files, databases, geographic data, and other data sources from the State of Utah Catalog","40.2968979,-111.6946475",40.2968979,-111.6946475
 "Vancouver, British Columbia",http://data.vancouver.ca/datacatalogue/index.htm,City Of Vancouver,You may send [feedback](http://data.vancouver.ca/feedback/) and subscribe to [dataset updates](http://data.vancouver.ca/updates.htm). Uses the [Vancouver license](http://data.vancouver.ca/termsOfUse.htm).,"49.249657393,-123.119340403",49.249657393,-123.119340403
-Open Data Ville De Bordeaux,http://opendata.bordeaux.fr/,Ville De Bordeaux,"Open Data portal of the City of Bordeaux, France",",,",,
+Open Data Ville De Bordeaux,http://opendata.bordeaux.fr/,Ville De Bordeaux,"Open Data portal of the City of Bordeaux, France",,,
 "Montréal, Québec",http://donnees.ville.montreal.qc.ca/,Ville De Montréal,Adapted the [CC BY-SA](http://donnees.ville.montreal.qc.ca/licence) license.,"45.5088375,-73.587809",45.5088375,-73.587809
 Virginia Auditor Of Public Accounts Commonwealth Data Point,http://datapoint.apa.virginia.gov/,State Of Virginia,Virginia Datapoint Open Data,"36.8529263,-75.977985",36.8529263,-75.977985
 Warwickshire Open Data,http://opendata.warwickshire.gov.uk/datasets/,,County of Warwickshire (UK) Open Data Catalog,"52.3333333,-1.5833333",52.3333333,-1.5833333
 "Winnipeg, Manitoba 2010 Election",http://winnipegelection.ca/open_data_2010,,Citizen-created shapefiles and election results.,"49.884398624,-97.147044715",49.884398624,-97.147044715
-The World Bank Catalog,http://developer.worldbank.org,,"The World Bank's first API offers 114 indicators from key data sources and 12,000 development photos.",",,",,
+The World Bank Catalog,http://developer.worldbank.org,,"The World Bank's first API offers 114 indicators from key data sources and 12,000 development photos.",,,
 Wyre Council Open Data,http://www.wyre.gov.uk/opendata,Wyre Council,Official council data,"53.9252671848,-3.01085472107",53.9252671848,-3.01085472107
 Zaragoza Public Data Catalogue,http://datos.zaragoza.es,,Zaragoza Public Data Catalogue,"41.6560643303,-0.877339839935",41.6560643303,-0.877339839935
