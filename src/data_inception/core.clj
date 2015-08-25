@@ -37,6 +37,17 @@
                     (grafter/swap "Description" "Latitude" "Location" "Longitude"))]
     (grafter/write-dataset "clean-data/opengeocode.csv" cleaned)))
 
+(defn awesome-ds-pipeline
+  [awesome-ds-data]
+  (let [cleaned (-> (grafter/read-dataset awesome-ds-data)
+                    (grafter/make-dataset grafter/move-first-row-to-header)
+                    (grafter/add-columns {"Organisation" ""})
+                    (grafter/swap "Description" "Name" "Description" "URL" "Description" "Organisation")
+                    (grafter/add-columns {"Location" ""
+                                          "Latitude" ""
+                                          "Longitude" ""}))]
+    (grafter/write-dataset "clean-data/awesome-ds.csv" cleaned)))
+
 (defn merge-datafiles
   [data-file-1 data-file-2]
   (let [ds1 (grafter/read-dataset data-file-1)
