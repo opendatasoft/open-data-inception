@@ -331,7 +331,7 @@ Catálogo Nacional De Información Geoespacial,Chile,Chile,Chili,http://geoporta
 Instituto Nacional De Estadística De Chile,Chile,Chile,Chili,http://ine.cl,,"-33.4333,-70.6667",-33.4333,-70.6667
 Lima Open Data,Chile,Chile,Chili,http://lima.datosabiertos.pe/home/,,"-12.04333,-77.02833",-12.04333,-77.02833
 Dirección Meteorológica De Chile,Chile,Chile,Chili,http://meteochile.cl/,,"-33.4333,-70.6667",-33.4333,-70.6667
-OpenData Latinoamérica,Latin America,Chile,Chili,http://opendatalatinoamerica.org,,"-35.3294474,-89.0952753",-35.3294474,-89.0952753
+OpenData Latinoamérica,Latin America,Chile,Chili,http://opendatalatinoamerica.org,,"-33.4333,-70.6667",-33.4333,-70.6667
 Servicio Nacional De Geología Y Minería,Chile,Chile,Chili,http://sernageomin.cl,,"-33.4333,-70.6667",-33.4333,-70.6667
 Chile's Transparency Board Opendata,El Consejo para la Transparencia,Chile,Chili,http://www.consejotransparencia.cl/consejo/site/edic/base/port/pcatalogo.html,OpenData catalog by the Chile's Transparency Board,"-30,-71",-30,-71
 Criik,Ciudadano Inteligente Www.ciudadanointeligente.org,Chile,Chili,http://www.criik.com/,,"-14.6048471551,-57.65625",-14.60484716,-57.65625
@@ -721,7 +721,6 @@ Statistics Bureau Of Japan,Japan,Japan,Japon,http://stat.go.jp,,"35.6833,139.766
 Department Of Statistics,Jordan,Jordan,Jordanie,http://dos.gov.jo,,"31.9500,35.9333",31.95,35.9333
 Jordan Meteorological Department,Jordan,Jordan,Jordanie,http://jometeo.gov.jo/,,"31.9500,35.9333",31.95,35.9333
 National Resource Authority,Jordan,Jordan,Jordanie,http://nra.gov.jo,,"31.9500,35.9333",31.95,35.9333
-Agency On Statistics,Kazakhstan,Kazakhstan,Kazakhstan,http://stat.kz,,"48.0000,68.0000",48,68
 Open Data For Kenya Development Bank Group Open Data,Kenya,Kenya,Kenya,http://kenya.opendataforafrica.org/,,"-1.2667,36.8000",-1.2667,36.8
 Kenya National Bureau Of Statistics,Kenya,Kenya,Kenya,http://knbs.or.ke,,"-1.2667,36.8000",-1.2667,36.8
 Kenya Meteorological Department,Kenya,Kenya,Kenya,http://meteo.go.ke/,,"-1.2667,36.8000",-1.2667,36.8
@@ -878,7 +877,6 @@ Mapping Authority,Norway,Norway,Norvège,http://data.kartverket.no,,"61.0000,8.0
 Norwegian Government Open Data,Norway,Norway,Norvège,http://data.norge.no/,,"61.0000,8.0000",61,8
 Catalog Of Norwegian Data Portals,Norway,Norway,Norvège,http://datakilder.no,,"61.0000,8.0000",61,8
 Ngu Geology For Society,Norway,Norway,Norvège,http://ngu.no,,"61.0000,8.0000",61,8
-Population Of Svalbard,Svalbard And Jan Mayen,Norway,Norvège,http://ssb,,"78.0000,16.0000",78,16
 Statistics Norway,Norway,Norway,Norvège,http://ssb.no,,"61.0000,8.0000",61,8
 Norwegian Meteorological Institute,Norway,Norway,Norvège,http://www.met.no/,,"61.0000,8.0000",61,8
 Department Of Meteorology,Oman,Oman,Oman,http://met.gov.om/,,"33.6667,73.1667",33.6667,73.1667
